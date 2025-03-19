@@ -2,16 +2,16 @@ import { useState, useEffect } from 'react';
 import ReactMarkdown from 'react-markdown'
 import './App.css'
 
-function SectionContent({section_id}) {
+function SectionContent({sectionId}) {
   const [markdownContent, setMarkdownContent] = useState('');
 
   // defaults to a GET
   useEffect(() => {
-    fetch(`/api/section/${section_id}`)
+    fetch(`http://localhost:8080/api/sections/${sectionId}`)
       .then(response => response.text())
       .then(markdown => setMarkdownContent(markdown))
       .catch(error => console.error(error))
-  }, [section_id]);
+  }, [sectionId]);
 
   return (
     <div className='display-screen'>
@@ -21,8 +21,7 @@ function SectionContent({section_id}) {
 }
 
 function App() {
-  const [currentSection, setCurrentSection] = useState(null);
-
+  const [currentSection, setCurrentSection] = useState("about");
   return (
     <div className="layout-container">
       <div className="left-col">
@@ -31,7 +30,7 @@ function App() {
       </div>
       <div className="right-col">
         <nav>
-          <button className="button" onClick={() => setCurrentSection("about")}>About</button>
+          <button className="button" onClick={() => setCurrentSection("about") }>About</button>
           <button className="button" onClick={() => console.log('Go to about')}>Resume</button>
           <button className="button" onClick={() => console.log('Go to contact')}>Projects</button>
           <button className="button" onClick={() => console.log('Go to contact')}>Writing</button>
