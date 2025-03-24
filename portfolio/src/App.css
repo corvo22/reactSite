@@ -3,6 +3,7 @@ html, body {
   padding: 0;        /* Remove default padding */
   height: 100%;      /* Ensure body takes full height of the viewport */
   width: 100%;       /* Ensure body takes full width */
+  font-size: 95%;
 }
 
 #root {
@@ -16,7 +17,7 @@ html, body {
   align-items: flex-start; 
   width: 100%;  /* Make sure #root takes up the full width of the container */
   height: 100%; /* Full height of the viewport */
-  animation: textShadow 1.6s infinite;
+  /*animation: textShadow 1.6s infinite;*/
 }
 
 
@@ -33,76 +34,106 @@ html, body {
 .right-col {
   display: flex;
   flex-direction: column;  /* Stacks content inside the right column */
-  flex: 3;  /* Takes 1 part of the available space */
-  height: 94%;
-  border: 2px solid #405010;
-  margin-top: 1.5%;
+  flex: 4;
+  height: 95%;
+  border: 2px solid #a0a840;
+  border-radius: 25px;
+  margin-top: 1.2%;
   margin-right: 3%;
   margin-bottom: 6%;
   background-color: #a0a840;
+  overflow: hidden; /* Prevents content from spilling outside */
+  min-width: 0; /* Allows flex items to shrink below their minimum content size */
+}
+
+nav :nth-child(1) {
+  border-top-left-radius: 25px;
+}
+
+nav :nth-child(5) {
+  border-top-right-radius: 25px;
 }
 
 .content-area {
   display: flex;
   flex-direction: row;
-  height: 100%
+  height: 100%;
+  min-width: 0; /* Allows flex children to properly shrink */
+  overflow: hidden; /* Contains any potential overflow */
 }
 
 .display-screen {
-  border: 2px solid #708028;
+  border-radius: 25px;
   flex: 3;
   margin-top: 3%;
   margin-right: 3%;
   margin-left: 3%;
   margin-bottom: 3%;
   background-color: #405010;
+  overflow: auto; 
+  overflow-wrap: break-word;
+}
+
+.display-screen::-webkit-scrollbar {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  width: 10px;
+}
+
+.display-screen::-webkit-scrollbar-track {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  background: #405010;  /* Color of the track (the area behind the scrollbar) */
+  border-radius: 3px;
+}
+
+.display-screen::-webkit-scrollbar-thumb {
+  background: #708028;  /* Color of the scrollbar handle */
+  border-radius: 3px;
+}
+
+.display-screen::-webkit-scrollbar-thumb:hover {
+  background: #809038;  /* Color when hovering over the scrollbar */
 }
 
 .display-screen::after {
   content: '';
   position: absolute;
-  top: 8.9%;
+  top: 8.1%;
   bottom: 0;
-  left: 75.6%; /* Position the line in the middle of the container */
+  left: 74.4%; /* Position the line in the middle of the container */
   width: 2px;
   background-color: #405010; /* Color of the vertical line */
 }
 
-
-nav {
-  display: flex;
-}
-
-p {
-  color: #d0d058;
-  margin: 5%;
-}
-
-li {
-  color: #d0d058;
-}
-
-
-hr {
-  border: none;
-  height: 1px;
-  background: transparent;
-  background-image: linear-gradient(to right, #d0d058 50%, transparent 50%);
-  background-size: 20px 1px; /* Increase the 30px to make the dashes longer */
-  width: 95%;
-  margin: 2% auto;
+img {
+  display: block;
+  margin: auto;
+  object-fit: cover;
 }
 
 .icon {
   border: 2px solid #708028;
+  border-radius: 25px;
   flex: 1;
   width: 75%;
+  margin-top: 6%;
+  background-color: #708028;
   
-  margin-top: 6%
+  display: flex;      /* Enables centering */
+  align-items: center; /* Vertical centering */
+  justify-content: center; /* Horizontal centering */
+  
+}
+
+.icon img {
+  object-fit: cover;
+  width: 90%;
 }
 
 .today-info {
   border: 2px solid #708028;
+  border-radius: 25px;
   padding: 10px;
   margin-top: 3%;
   margin-right: 3%;
@@ -114,22 +145,32 @@ hr {
 
 .spotify {
   border: 2px solid #708028;
+  border-radius: 25px;
   background-color: #708028;
-  flex: 1.75;
+  flex: 2;
   width: 75%;
-  margin-bottom: 6%;
+  margin-bottom: 5%;
 }
 
 .button {
   background-color: #708028; /* Green */
   border: 1px solid #405010;
-  color: white;
+  color: #d0d058;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+  font-family: 'Press Start 2P';
   flex: 1;
+  text-shadow: inherit;
+
+}
+
+.round-button {
+  border-radius: 25px;
+  display: block;
+  margin: 0 auto;
 }
 
 .logo {
@@ -143,6 +184,59 @@ hr {
 }
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #683a68);
+}
+
+body {
+  font-family: 'Press Start 2P';
+}
+
+nav {
+  display: flex;
+}
+
+p, a {
+  color: #d0d058;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+li {
+  color: #d0d058;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+
+hr {
+  border: none;
+  height: 1px;
+  background: transparent;
+  background-image: linear-gradient(to right, #d0d058 50%, transparent 50%);
+  background-size: 20px 1px; /* Increase the 30px to make the dashes longer */
+  width: 95%;
+  margin: 2% auto;
+}
+
+h1 {
+  color: #d0d058;
+  line-height: 0;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+h2 {
+  color: #d0d058;
+  line-height: 0;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+h3 {
+  color: #d0d058;
+  margin-top: 5%;
+  line-height: 1.2;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 @keyframes flicker {
