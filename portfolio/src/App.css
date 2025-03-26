@@ -44,6 +44,7 @@ html, body {
   background-color: #a0a840;
   overflow: hidden; /* Prevents content from spilling outside */
   min-width: 0; /* Allows flex items to shrink below their minimum content size */
+  
 }
 
 nav :nth-child(1) {
@@ -141,10 +142,44 @@ img {
   margin-bottom: 3%;
   flex: 1;
   background-color: #405010;
+  overflow: auto; 
+  overflow-wrap: break-word;
+}
+
+.today-info::-webkit-scrollbar {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  width: 10px;
+}
+
+.today-info::-webkit-scrollbar-track {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  background: #405010;  /* Color of the track (the area behind the scrollbar) */
+  border-radius: 3px;
+}
+
+.today-info::-webkit-scrollbar-thumb {
+  background: #708028;  /* Color of the scrollbar handle */
+  border-radius: 3px;
+}
+
+.today-info::-webkit-scrollbar-thumb:hover {
+  background: #809038;  /* Color when hovering over the scrollbar */
+}
+
+.display-screen::after {
+  content: '';
+  position: absolute;
+  top: 8.1%;
+  bottom: 0;
+  left: 74.4%; /* Position the line in the middle of the container */
+  width: 2px;
+  background-color: #405010; /* Color of the vertical line */
 }
 
 .spotify {
-  border: 2px solid #708028;
+  border: 2px solid #405010;
   border-radius: 25px;
   background-color: #708028;
   flex: 2;
@@ -157,6 +192,7 @@ img {
   border: 1px solid #405010;
   color: #d0d058;
   padding: 15px 32px;
+  height: fit-content;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -164,7 +200,16 @@ img {
   font-family: 'Press Start 2P';
   flex: 1;
   text-shadow: inherit;
+  
+}
 
+.button:hover {
+  transform: scale(1.1);
+}
+
+.button:active {
+  transform: translate(0px, 5px);
+  -webkit-transform: translate(0px, 5px);
 }
 
 .round-button {
