@@ -115,21 +115,21 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1574 – Guru Ram Das becomes the Fourth Sikh Guru/Master.</li>
-              <li>1464 – Paul II succeeds Pius II as pope of the Catholic Church.</li>
-              <li>70 – Titus ends the siege of Jerusalem after destroying Herod's Temple.</li>
+              <li>1363 – The five-week Battle of Lake Poyang begins, in which the forces of two Chinese rebel leaders (Chen Youliang and Zhu Yuanzhang) meet to decide who will supplant the Yuan dynasty.</li>
+              <li>1057 – Elderly Byzantine Emperor Michael VI Bringas abdicates after just one year on the throne.</li>
+              <li>1590 – Tokugawa Ieyasu enters Edo Castle. (Traditional Japanese date: August 1, 1590)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1799 – The entire Dutch fleet is captured by British forces under the command of Sir Ralph Abercromby and Admiral Sir Charles Mitchell during the War of the Second Coalition.</li>
-              <li>1813   – Creek War: Fort Mims massacre: Creek "Red Sticks" kill over 500 settlers (including over 250 armed militia) in Fort Mims, north of Mobile, Alabama.</li>
-              <li>1721 – The Great Northern War between Sweden and Russia ends in the Treaty of Nystad.</li>
+              <li>1727 – Anne, eldest daughter of King George II of Great Britain, is given the title Princess Royal.</li>
+              <li>1896 – Philippine Revolution: After Spanish victory in the Battle of San Juan del Monte, eight provinces in the Philippines are declared under martial law by the Spanish Governor-General Ramón Blanco y Erenas.</li>
+              <li>1813 – First Battle of Kulm: French forces are defeated by an Austrian-Prussian-Russian alliance.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1981 – President Mohammad-Ali Rajai and Prime Minister Mohammad-Javad Bahonar of Iran are assassinated in a bombing. The office of Iran's Prosecutor General blames the People's Mujahedin of Iran.</li>
+              <li>1983 – Aeroflot Flight 5463 crashes into Dolan Mountain while approaching Almaty International Airport in present-day Kazakhstan, killing all 90 people on board.</li>
+              <li>1992 – The 11-day Ruby Ridge standoff ends with Randy Weaver surrendering to federal authorities.</li>
               <li>1974   – The Third World Population Conference ends in Bucharest, Romania. At the end of the ceremony, the UN-Romanian Demographic Centre is inaugurated.</li>
-              <li>1909 – Burgess Shale fossils are discovered by Charles Doolittle Walcott.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
@@ -138,38 +138,38 @@ function App() {
             <ul>
               <li>1574 – Albert Szenczi Molnár, Hungarian writer and translator (died 1634)</li>
               <li>1334 – Peter of Castile (died 1369)</li>
-              <li>1858 – Ignaz Sowinski, Galician architect (died 1917)</li>
+              <li>1852   – J. Alden Weir, American painter and academic (died 1919)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1812 – Agoston Haraszthy, Hungarian-American businessman, founded Buena Vista Winery (died 1869)</li>
+              <li>1893 – Huey Long, American lawyer and politician, 40th Governor of Louisiana (died 1935)</li>
               <li>1884 – Theodor Svedberg, Swedish chemist and physicist, Nobel Prize laureate (died 1971)</li>
-              <li>1977   – Michael Gladis, American actor</li>
+              <li>1939 – Elizabeth Ashley, American actress</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1934 – Antonio Cabangon Chua, Filipino media mogul and businessman (died 2016)</li>
-              <li>1984   – Michael Grant Terry, American actor</li>
-              <li>1131 – Hervey le Breton, bishop of Bangor and Ely</li>
+              <li>1943   – Jean-Claude Killy, French skier</li>
+              <li>1972   – Pavel Nedvěd, Czech footballer</li>
+              <li>832 – Cui Qun, Chinese chancellor (born 772)</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1580 – Emmanuel Philibert, Duke of Savoy (born 1528)</li>
-              <li>1483 – Louis XI, King of France (born 1423)</li>
-              <li>1896 – Aleksey Lobanov-Rostovsky, Russian politician and diplomat, Minister of Foreign Affairs for Russia (born 1824)</li>
+              <li>526 – Theodoric the Great, Italian ruler (born 454)</li>
+              <li>1500 – Victor, Duke of Münsterberg and Opava, Count of Glatz (born 1443)</li>
+              <li>1604 – John Juvenal Ancina, Italian Oratorian and bishop (born 1545)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1879 – John Bell Hood, American/Confederate general (born 1831)</li>
+              <li>1619 – Shimazu Yoshihiro, Japanese samurai and warlord (born 1535)</li>
               <li>1886 – Ferris Jacobs, Jr., American general and politician (born 1836)</li>
-              <li>2008 – Brian Hambly, Australian rugby player and coach (born 1937)</li>
+              <li>1946 – Konstantin Rodzaevsky, Russian lawyer (born 1907)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2013   – Leo Lewis, American football player and coach (born 1933)</li>
+              <li>1943 – Eddy de Neve, Indonesian-Dutch footballer and lieutenant (born 1885)</li>
               <li>2024 – Tūheitia Paki, Māori King (born 1955)</li>
               <li>1993 – Louis Falco, American dancer and choreographer (b. 1942)</li>
             </ul>
