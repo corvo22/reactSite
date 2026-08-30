@@ -9,7 +9,7 @@ function SpotifyContent() {
   useEffect(() => {
     const fetchRecentTracks = async () => {
       try {
-        const response = await fetch('http://localhost:8080/api/recent-tracks');
+        const response = await fetch('/api/recent-tracks');
         if (!response.ok) {
           throw new Error('Failed to fetch tracks');
         }
@@ -44,10 +44,10 @@ function SectionContent({contentType, sectionId, onContentChange }) {
   var endpoint;
 
   if(contentType == "section") {
-    endpoint = `http://localhost:8080/api/sections/${sectionId}`
+    endpoint = `/api/sections/${sectionId}`
   }
   else {
-    endpoint = `http://localhost:8080/api/projects/${sectionId}`
+    endpoint = `/api/projects/${sectionId}`
   }
 
 
@@ -115,62 +115,62 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>624 – First Eid al-Fitr celebration.</li>
-              <li>590 – Emperor Maurice proclaims his son Theodosius as co-emperor of the Byzantine Empire.</li>
-              <li>1021 – The death of the Fatimid caliph al-Hakim bi-Amr Allah, kept secret for six weeks, is announced, along with the succession of his son, al-Zahir li-i'zaz Din Allah.</li>
+              <li>1574 – Guru Ram Das becomes the Fourth Sikh Guru/Master.</li>
+              <li>1464 – Paul II succeeds Pius II as pope of the Catholic Church.</li>
+              <li>70 – Titus ends the siege of Jerusalem after destroying Herod's Temple.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1697 – Safavid government troops take control of Basra.</li>
-              <li>1830 – The Book of Mormon is published in Palmyra, New York.</li>
-              <li>1651 – Silver-loaded Spanish ship San José is pushed south by strong winds, subsequently it wrecks in the coast of southern Chile and its surviving crew is killed by indigenous Cuncos.</li>
+              <li>1799 – The entire Dutch fleet is captured by British forces under the command of Sir Ralph Abercromby and Admiral Sir Charles Mitchell during the War of the Second Coalition.</li>
+              <li>1813   – Creek War: Fort Mims massacre: Creek "Red Sticks" kill over 500 settlers (including over 250 armed militia) in Fort Mims, north of Mobile, Alabama.</li>
+              <li>1721 – The Great Northern War between Sweden and Russia ends in the Treaty of Nystad.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1922 – The German Social Democratic Party is founded in Poland.</li>
-              <li>1982 – A groundbreaking ceremony for the Vietnam Veterans Memorial is held in Washington, D.C.</li>
-              <li>1991 – Argentina, Brazil, Uruguay and Paraguay sign the Treaty of Asunción, establishing Mercosur, the South Common Market.</li>
+              <li>1981 – President Mohammad-Ali Rajai and Prime Minister Mohammad-Javad Bahonar of Iran are assassinated in a bombing. The office of Iran's Prosecutor General blames the People's Mujahedin of Iran.</li>
+              <li>1974   – The Third World Population Conference ends in Bucharest, Romania. At the end of the ceremony, the UN-Romanian Demographic Centre is inaugurated.</li>
+              <li>1909 – Burgess Shale fossils are discovered by Charles Doolittle Walcott.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1516 – Conrad Gessner, Swiss botanist and zoologist (d. 1565)</li>
-              <li>1554 – Charles of Lorraine, duke of Mayenne (d. 1611)</li>
-              <li>1584 – John II, duke of Zweibrücken (d. 1635)</li>
+              <li>1574 – Albert Szenczi Molnár, Hungarian writer and translator (died 1634)</li>
+              <li>1334 – Peter of Castile (died 1369)</li>
+              <li>1858 – Ignaz Sowinski, Galician architect (died 1917)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1829   – Georg Andreas Bull, Norwegian architect (d. 1917)</li>
-              <li>1884   – Georges Imbert, French chemical engineer and inventor (d. 1950)</li>
-              <li>1898 – Rudolf Dassler, German businessman, founded Puma SE (d. 1974)</li>
+              <li>1812 – Agoston Haraszthy, Hungarian-American businessman, founded Buena Vista Winery (died 1869)</li>
+              <li>1884 – Theodor Svedberg, Swedish chemist and physicist, Nobel Prize laureate (died 1971)</li>
+              <li>1977   – Michael Gladis, American actor</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1992   – Stoffel Vandoorne, Belgian racing driver</li>
-              <li>1962   – Kevin Seitzer, American baseball player and coach</li>
-              <li>1911   – J. L. Austin, English philosopher and academic (d. 1960)</li>
+              <li>1934 – Antonio Cabangon Chua, Filipino media mogul and businessman (died 2016)</li>
+              <li>1984   – Michael Grant Terry, American actor</li>
+              <li>1131 – Hervey le Breton, bishop of Bangor and Ely</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>903 – Sugawara no Michizane, Japanese poet</li>
-              <li>1402 – David Stewart, Duke of Rothesay, heir to the throne of Scotland (b. 1378)</li>
-              <li>1535 – Georg Tannstetter, Austrian mathematician, astronomer, and cartographer (b. 1482)</li>
+              <li>1580 – Emmanuel Philibert, Duke of Savoy (born 1528)</li>
+              <li>1483 – Louis XI, King of France (born 1423)</li>
+              <li>1896 – Aleksey Lobanov-Rostovsky, Russian politician and diplomat, Minister of Foreign Affairs for Russia (born 1824)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1625 – Giambattista Marini, Italian poet (b. 1569)</li>
-              <li>1888 – Barghash bin Said of Zanzibar (b. 1837)</li>
-              <li>1793 – John Mudge, English physician and engineer (b. 1721)</li>
+              <li>1879 – John Bell Hood, American/Confederate general (born 1831)</li>
+              <li>1886 – Ferris Jacobs, Jr., American general and politician (born 1836)</li>
+              <li>2008 – Brian Hambly, Australian rugby player and coach (born 1937)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2014 – Roger Birkman, American psychologist and author (b. 1919)</li>
-              <li>1983 – Anthony Blunt, English historian and spy (b. 1907)</li>
+              <li>2013   – Leo Lewis, American football player and coach (born 1933)</li>
+              <li>2024 – Tūheitia Paki, Māori King (born 1955)</li>
               <li>1993 – Louis Falco, American dancer and choreographer (b. 1942)</li>
             </ul>
           </div>
