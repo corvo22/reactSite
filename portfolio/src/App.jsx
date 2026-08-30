@@ -115,20 +115,20 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1363 – The five-week Battle of Lake Poyang begins, in which the forces of two Chinese rebel leaders (Chen Youliang and Zhu Yuanzhang) meet to decide who will supplant the Yuan dynasty.</li>
+              <li>1594 – King James VI of Scotland holds a masque at the baptism of Prince Henry at Stirling Castle.</li>
               <li>1057 – Elderly Byzantine Emperor Michael VI Bringas abdicates after just one year on the throne.</li>
               <li>1590 – Tokugawa Ieyasu enters Edo Castle. (Traditional Japanese date: August 1, 1590)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1727 – Anne, eldest daughter of King George II of Great Britain, is given the title Princess Royal.</li>
-              <li>1896 – Philippine Revolution: After Spanish victory in the Battle of San Juan del Monte, eight provinces in the Philippines are declared under martial law by the Spanish Governor-General Ramón Blanco y Erenas.</li>
+              <li>1791 – HMS Pandora sinks after having run aground on the outer Great Barrier Reef the previous day.</li>
+              <li>1873 – Austrian explorers Julius von Payer and Karl Weyprecht discover the archipelago of Franz Josef Land in the Arctic Sea.</li>
               <li>1813 – First Battle of Kulm: French forces are defeated by an Austrian-Prussian-Russian alliance.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1983 – Aeroflot Flight 5463 crashes into Dolan Mountain while approaching Almaty International Airport in present-day Kazakhstan, killing all 90 people on board.</li>
-              <li>1992 – The 11-day Ruby Ridge standoff ends with Randy Weaver surrendering to federal authorities.</li>
+              <li>1967 – Thurgood Marshall is confirmed as the first African American Justice of the Supreme Court of the United States.</li>
+              <li>2023 – Gabonese coup d'état: After Ali Bongo Ondimba's reelection, a military coup ousts him, ending 56 years of Bongo family rule in Gabon.</li>
               <li>1974   – The Third World Population Conference ends in Bucharest, Romania. At the end of the ceremony, the UN-Romanian Demographic Centre is inaugurated.</li>
             </ul>
             <hr></hr>
@@ -138,39 +138,39 @@ function App() {
             <ul>
               <li>1574 – Albert Szenczi Molnár, Hungarian writer and translator (died 1634)</li>
               <li>1334 – Peter of Castile (died 1369)</li>
-              <li>1852   – J. Alden Weir, American painter and academic (died 1919)</li>
+              <li>1887 – Paul Kochanski, Polish violinist and composer (died 1934)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1893 – Huey Long, American lawyer and politician, 40th Governor of Louisiana (died 1935)</li>
-              <li>1884 – Theodor Svedberg, Swedish chemist and physicist, Nobel Prize laureate (died 1971)</li>
-              <li>1939 – Elizabeth Ashley, American actress</li>
+              <li>1852 – Jacobus Henricus van 't Hoff, Dutch chemist and academic, Nobel Prize laureate (died 1911)</li>
+              <li>1898 – Shirley Booth, American actress and singer (died 1992)</li>
+              <li>1927   – Piet Kee, Dutch organist and composer (died 2018)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1943   – Jean-Claude Killy, French skier</li>
-              <li>1972   – Pavel Nedvěd, Czech footballer</li>
-              <li>832 – Cui Qun, Chinese chancellor (born 772)</li>
+              <li>1983   – Gustavo Eberto, Argentine footballer (died 2007)</li>
+              <li>1943   – Colin Dann, English author</li>
+              <li>1131 – Hervey le Breton, bishop of Bangor and Ely</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>526 – Theodoric the Great, Italian ruler (born 454)</li>
-              <li>1500 – Victor, Duke of Münsterberg and Opava, Count of Glatz (born 1443)</li>
-              <li>1604 – John Juvenal Ancina, Italian Oratorian and bishop (born 1545)</li>
+              <li>1329 – Khutughtu Khan Kusala, Chinese emperor (born 1300)</li>
+              <li>1428 – Emperor Shōkō of Japan (born 1401)</li>
+              <li>1621 – Bahāʾ al-dīn al-ʿĀmilī, co-founder of Isfahan School of Islamic Philosophy (born 1547)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1619 – Shimazu Yoshihiro, Japanese samurai and warlord (born 1535)</li>
-              <li>1886 – Ferris Jacobs, Jr., American general and politician (born 1836)</li>
-              <li>1946 – Konstantin Rodzaevsky, Russian lawyer (born 1907)</li>
+              <li>1896 – Aleksey Lobanov-Rostovsky, Russian politician and diplomat, Minister of Foreign Affairs for Russia (born 1824)</li>
+              <li>1751 – Christopher Polhem, Swedish physicist and engineer (born 1661)</li>
+              <li>2024   – Fatman Scoop, American rapper, hype man and radio personality (born 1971)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1943 – Eddy de Neve, Indonesian-Dutch footballer and lieutenant (born 1885)</li>
-              <li>2024 – Tūheitia Paki, Māori King (born 1955)</li>
+              <li>1991   – Jean Tinguely, Swiss painter and sculptor (born 1925)</li>
+              <li>2015   – Oliver Sacks, English-American neurologist, author, and academic (born 1933)</li>
               <li>1993 – Louis Falco, American dancer and choreographer (b. 1942)</li>
             </ul>
           </div>
