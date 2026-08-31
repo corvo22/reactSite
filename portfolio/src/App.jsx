@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1594 – King James VI of Scotland holds a masque at the baptism of Prince Henry at Stirling Castle.</li>
-              <li>1057 – Elderly Byzantine Emperor Michael VI Bringas abdicates after just one year on the throne.</li>
-              <li>1590 – Tokugawa Ieyasu enters Edo Castle. (Traditional Japanese date: August 1, 1590)</li>
+              <li>1422 – King Henry V of England dies of dysentery while in France and his son, Henry VI, becomes king at the age of nine months.</li>
+              <li>1483 – Under the influence of the Ottoman government, patriarch Symeon I convenes a synod of the Eastern Orthodox Churches in Constantinople which defines the ritual for admitting Catholics to the Eastern Orthodox Churches and condemns the church union of Ferrara-Florence.</li>
+              <li>1056 – After a sudden gastric illness, Byzantine Empress Theodora dies childless, thus ending the Macedonian dynasty.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1791 – HMS Pandora sinks after having run aground on the outer Great Barrier Reef the previous day.</li>
-              <li>1873 – Austrian explorers Julius von Payer and Karl Weyprecht discover the archipelago of Franz Josef Land in the Arctic Sea.</li>
-              <li>1813 – First Battle of Kulm: French forces are defeated by an Austrian-Prussian-Russian alliance.</li>
+              <li>1895 – German Count Ferdinand von Zeppelin patents his navigable balloon.</li>
+              <li>1864 – American Civil War: The Battle of Jonesborough, the culmination of the Atlanta campaign, begins as Union forces under General William T. Sherman clash with Confederate troops under General William J. Hardee south of Atlanta.</li>
+              <li>1888 – Mary Ann Nichols, the first of Jack the Ripper's confirmed victims, is murdered.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1967 – Thurgood Marshall is confirmed as the first African American Justice of the Supreme Court of the United States.</li>
-              <li>2023 – Gabonese coup d'état: After Ali Bongo Ondimba's reelection, a military coup ousts him, ending 56 years of Bongo family rule in Gabon.</li>
-              <li>1974   – The Third World Population Conference ends in Bucharest, Romania. At the end of the ceremony, the UN-Romanian Demographic Centre is inaugurated.</li>
+              <li>1943 – USS Harmon, the first U.S. Navy ship to be named after a black person, is commissioned.</li>
+              <li>2005 – The 2005 Al-Aaimmah bridge stampede in Baghdad kills 953 people.</li>
+              <li>2024 – A helicopter crashes in Kamchatka Krai in the Russian Far East, killing all 22 occupants.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1574 – Albert Szenczi Molnár, Hungarian writer and translator (died 1634)</li>
-              <li>1334 – Peter of Castile (died 1369)</li>
-              <li>1887 – Paul Kochanski, Polish violinist and composer (died 1934)</li>
+              <li>12 – Caligula, Roman emperor (died 41)</li>
+              <li>161 – Commodus, Roman emperor (died 192)</li>
+              <li>1168 – Zhang Zong, Chinese emperor (died 1208)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1852 – Jacobus Henricus van 't Hoff, Dutch chemist and academic, Nobel Prize laureate (died 1911)</li>
-              <li>1898 – Shirley Booth, American actress and singer (died 1992)</li>
-              <li>1927   – Piet Kee, Dutch organist and composer (died 2018)</li>
+              <li>1885 – DuBose Heyward, American author and playwright (died 1940)</li>
+              <li>1797 – Ramón Castilla, Peruvian military leader and politician, President of Peru (died 1867)</li>
+              <li>1797   – Stephen Geary, English architect, inventor and entrepreneur (died 1854)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1983   – Gustavo Eberto, Argentine footballer (died 2007)</li>
-              <li>1943   – Colin Dann, English author</li>
-              <li>1131 – Hervey le Breton, bishop of Bangor and Ely</li>
+              <li>1981   – Dwayne Peel, Welsh rugby player</li>
+              <li>1925 – Ted Blakey, American historian, activist, and businessman (died 2004)</li>
+              <li>1969   – Jeff Russo, American musician</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1329 – Khutughtu Khan Kusala, Chinese emperor (born 1300)</li>
-              <li>1428 – Emperor Shōkō of Japan (born 1401)</li>
-              <li>1621 – Bahāʾ al-dīn al-ʿĀmilī, co-founder of Isfahan School of Islamic Philosophy (born 1547)</li>
+              <li>1422 – Henry V of England (born 1386)</li>
+              <li>1324 – Henry II of Jerusalem (born 1271)</li>
+              <li>1502 – Thomas Wode, Lord Chief Justice of the Common Pleas</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1896 – Aleksey Lobanov-Rostovsky, Russian politician and diplomat, Minister of Foreign Affairs for Russia (born 1824)</li>
-              <li>1751 – Christopher Polhem, Swedish physicist and engineer (born 1661)</li>
-              <li>2024   – Fatman Scoop, American rapper, hype man and radio personality (born 1971)</li>
+              <li>1818 – Robert Calder, Scottish admiral (born 1745)</li>
+              <li>1654 – Ole Worm, Danish physician and historian (born 1588)</li>
+              <li>1799 – Nicolas-Henri Jardin, French architect and academic, designed the Bernstorff Palace and Marienlyst Castle (born 1720)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1991   – Jean Tinguely, Swiss painter and sculptor (born 1925)</li>
-              <li>2015   – Oliver Sacks, English-American neurologist, author, and academic (born 1933)</li>
-              <li>1993 – Louis Falco, American dancer and choreographer (b. 1942)</li>
+              <li>2002 – Lionel Hampton, American pianist, composer, and bandleader (born 1908)</li>
+              <li>1948 – Andrei Zhdanov, Russian civil servant and politician (born 1896)</li>
+              <li>2008   – Ike Pappas, American journalist (born 1933)</li>
             </ul>
           </div>
         </div>
