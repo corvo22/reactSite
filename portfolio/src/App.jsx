@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1422 – King Henry V of England dies of dysentery while in France and his son, Henry VI, becomes king at the age of nine months.</li>
-              <li>1483 – Under the influence of the Ottoman government, patriarch Symeon I convenes a synod of the Eastern Orthodox Churches in Constantinople which defines the ritual for admitting Catholics to the Eastern Orthodox Churches and condemns the church union of Ferrara-Florence.</li>
-              <li>1056 – After a sudden gastric illness, Byzantine Empress Theodora dies childless, thus ending the Macedonian dynasty.</li>
+              <li>1145 – The main altar of Lund Cathedral, at the time the seat of the archiepiscopal see of all the Nordic countries, is consecrated.</li>
+              <li>1529 – The Spanish fort of Sancti Spiritu, the first one built in modern Argentina, is destroyed by indigenous people.</li>
+              <li>1449 – Tumu Crisis: The Mongols capture the Emperor of China.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1895 – German Count Ferdinand von Zeppelin patents his navigable balloon.</li>
-              <li>1864 – American Civil War: The Battle of Jonesborough, the culmination of the Atlanta campaign, begins as Union forces under General William T. Sherman clash with Confederate troops under General William J. Hardee south of Atlanta.</li>
-              <li>1888 – Mary Ann Nichols, the first of Jack the Ripper's confirmed victims, is murdered.</li>
+              <li>1772 – The Mission San Luis Obispo de Tolosa is founded in San Luis Obispo, California.</li>
+              <li>1870 – Franco-Prussian War: The Battle of Sedan is fought, resulting in a decisive Prussian victory.</li>
+              <li>1862 – American Civil War: Confederate forces under General Stonewall Jackson inflict heavy casualties in the Battle of Chantilly during the Union withdrawal from the Northern Virginia campaign.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1943 – USS Harmon, the first U.S. Navy ship to be named after a black person, is commissioned.</li>
-              <li>2005 – The 2005 Al-Aaimmah bridge stampede in Baghdad kills 953 people.</li>
-              <li>2024 – A helicopter crashes in Kamchatka Krai in the Russian Far East, killing all 22 occupants.</li>
+              <li>1939   – J. Robert Oppenheimer and his student Hartland Snyder publish the Oppenheimer–Snyder model, proving for the first time in contemporary physics how black holes could develop.</li>
+              <li>1974 – The SR-71 Blackbird sets (and holds) the record for flying from New York to London in the time of one hour, 54 minutes and 56.4 seconds at a speed of 1,435.587 miles per hour (2,310.353 km/h).</li>
+              <li>1982 – The United States Air Force Space Command is founded.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>12 – Caligula, Roman emperor (died 41)</li>
-              <li>161 – Commodus, Roman emperor (died 192)</li>
-              <li>1168 – Zhang Zong, Chinese emperor (died 1208)</li>
+              <li>1288 – Elizabeth Richeza of Poland (died 1335)</li>
+              <li>948 – Jing Zong, emperor of the Liao Dynasty (died 982)</li>
+              <li>1577 – Scipione Borghese, Italian cardinal and art collector (died 1633)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1885 – DuBose Heyward, American author and playwright (died 1940)</li>
-              <li>1797 – Ramón Castilla, Peruvian military leader and politician, President of Peru (died 1867)</li>
-              <li>1797   – Stephen Geary, English architect, inventor and entrepreneur (died 1854)</li>
+              <li>1653 – Johann Pachelbel, German organist, composer, and educator (died 1706)</li>
+              <li>1856 – Sergei Winogradsky, Ukrainian-Russian microbiologist and ecologist (died 1953)</li>
+              <li>1883 – Didier Pitre, Canadian ice hockey player (died 1934)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1981   – Dwayne Peel, Welsh rugby player</li>
-              <li>1925 – Ted Blakey, American historian, activist, and businessman (died 2004)</li>
-              <li>1969   – Jeff Russo, American musician</li>
+              <li>1948   – Józef Życiński, Polish archbishop and philosopher (died 2011)</li>
+              <li>1946 – Barry Gibb, Manx-English singer-songwriter and producer</li>
+              <li>1942 – C. J. Cherryh, American author and educator</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1422 – Henry V of England (born 1386)</li>
-              <li>1324 – Henry II of Jerusalem (born 1271)</li>
-              <li>1502 – Thomas Wode, Lord Chief Justice of the Common Pleas</li>
+              <li>1081 – Bishop Eusebius of Angers</li>
+              <li>1375 – Philip of Valois, Duke of Orléans (born 1336)</li>
+              <li>1414 – William de Ros, 6th Baron de Ros, English politician, Lord High Treasurer (born 1369)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1818 – Robert Calder, Scottish admiral (born 1745)</li>
-              <li>1654 – Ole Worm, Danish physician and historian (born 1588)</li>
-              <li>1799 – Nicolas-Henri Jardin, French architect and academic, designed the Bernstorff Palace and Marienlyst Castle (born 1720)</li>
+              <li>1839 – Izidor Guzmics, Hungarian theologian and educator (born 1786)</li>
+              <li>1706 – Cornelis de Man, Dutch painter (born 1621)</li>
+              <li>1678 – Jan Brueghel the Younger, Flemish painter (born 1601)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2002 – Lionel Hampton, American pianist, composer, and bandleader (born 1908)</li>
-              <li>1948 – Andrei Zhdanov, Russian civil servant and politician (born 1896)</li>
-              <li>2008   – Ike Pappas, American journalist (born 1933)</li>
+              <li>1930 – Peeter Põld, Estonian scientist and politician, 1st Estonian Minister of Education (born 1878)</li>
+              <li>2014   – Roger McKee, American baseball player (born 1926)</li>
+              <li>2004   – Alastair Morton, South African businessman (born 1938)</li>
             </ul>
           </div>
         </div>
