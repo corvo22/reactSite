@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1145 – The main altar of Lund Cathedral, at the time the seat of the archiepiscopal see of all the Nordic countries, is consecrated.</li>
-              <li>1529 – The Spanish fort of Sancti Spiritu, the first one built in modern Argentina, is destroyed by indigenous people.</li>
-              <li>1449 – Tumu Crisis: The Mongols capture the Emperor of China.</li>
+              <li>44 BC   – Cicero launches the first of his Philippicae (oratorical attacks) on Mark Antony. He will make 14 of them over the following months.</li>
+              <li>44 BC – Pharaoh Cleopatra VII of Egypt declares her son co-ruler as Ptolemy XV Caesarion.</li>
+              <li>1192 – The Treaty of Jaffa is signed between Richard I of England and Saladin, leading to the end of the Third Crusade.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1772 – The Mission San Luis Obispo de Tolosa is founded in San Luis Obispo, California.</li>
-              <li>1870 – Franco-Prussian War: The Battle of Sedan is fought, resulting in a decisive Prussian victory.</li>
-              <li>1862 – American Civil War: Confederate forces under General Stonewall Jackson inflict heavy casualties in the Battle of Chantilly during the Union withdrawal from the Northern Virginia campaign.</li>
+              <li>1862 – American Civil War: United States President Abraham Lincoln reluctantly restores Union General George B. McClellan to full command after General John Pope's disastrous defeat at the Second Battle of Bull Run.</li>
+              <li>1898 – Battle of Omdurman: British and Egyptian troops defeat Sudanese tribesmen and establish British dominance in Sudan.</li>
+              <li>1806 – A massive landslide destroys the town of Goldau, Switzerland, killing 457.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1939   – J. Robert Oppenheimer and his student Hartland Snyder publish the Oppenheimer–Snyder model, proving for the first time in contemporary physics how black holes could develop.</li>
-              <li>1974 – The SR-71 Blackbird sets (and holds) the record for flying from New York to London in the time of one hour, 54 minutes and 56.4 seconds at a speed of 1,435.587 miles per hour (2,310.353 km/h).</li>
-              <li>1982 – The United States Air Force Space Command is founded.</li>
+              <li>1944 – The last execution of a Finn in Finland takes place when soldier Olavi Laiho is executed by shooting in Oulu.</li>
+              <li>2013 – The Eastern span replacement of the San Francisco–Oakland Bay Bridge opens at 10:15 pm at a cost of $6.4 billion, after the 1989 Loma Prieta earthquake damaged the old span.</li>
+              <li>1945 – World War II: The Japanese Instrument of Surrender is signed by Japan and the major warring powers aboard the battleship USS Missouri in Tokyo Bay, thus marking the official end to the war.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1288 – Elizabeth Richeza of Poland (died 1335)</li>
-              <li>948 – Jing Zong, emperor of the Liao Dynasty (died 982)</li>
-              <li>1577 – Scipione Borghese, Italian cardinal and art collector (died 1633)</li>
+              <li>1243 – Gilbert de Clare, 7th Earl of Gloucester, 6th Earl of Hertford, English politician (died 1295)</li>
+              <li>1531 – Francesco Cattani da Diacceto, Bishop of Fiesole (died 1595)</li>
+              <li>1251 – Francis of Fabriano, Italian writer (died 1322)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1653 – Johann Pachelbel, German organist, composer, and educator (died 1706)</li>
-              <li>1856 – Sergei Winogradsky, Ukrainian-Russian microbiologist and ecologist (died 1953)</li>
-              <li>1883 – Didier Pitre, Canadian ice hockey player (died 1934)</li>
+              <li>1778 – Louis Bonaparte, French-Dutch king (died 1846)</li>
+              <li>1892 – Dezső Kertész, Hungarian actor and film director (died 1965)</li>
+              <li>1853 – Wilhelm Ostwald, Latvian-German chemist and academic, Nobel Prize laureate (died 1932)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1948   – Józef Życiński, Polish archbishop and philosopher (died 2011)</li>
-              <li>1946 – Barry Gibb, Manx-English singer-songwriter and producer</li>
-              <li>1942 – C. J. Cherryh, American author and educator</li>
+              <li>1988   – Ishmeet Singh, Indian singer (died 2008)</li>
+              <li>1971   – Pawan Kalyan, Indian actor politician</li>
+              <li>1923 – René Thom, French mathematician, biologist, and academic (died 2002)</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1081 – Bishop Eusebius of Angers</li>
-              <li>1375 – Philip of Valois, Duke of Orléans (born 1336)</li>
-              <li>1414 – William de Ros, 6th Baron de Ros, English politician, Lord High Treasurer (born 1369)</li>
+              <li>595 – John IV of Constantinople</li>
+              <li>1274 – Prince Munetaka, Japanese shōgun (born 1242)</li>
+              <li>1083 – King Munjong of Goryeo (born 1019)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1839 – Izidor Guzmics, Hungarian theologian and educator (born 1786)</li>
-              <li>1706 – Cornelis de Man, Dutch painter (born 1621)</li>
-              <li>1678 – Jan Brueghel the Younger, Flemish painter (born 1601)</li>
+              <li>1651 – Kosem Sultan, Ottoman Valide sultan and regent (born 1589)</li>
+              <li>1813 – Jean Victor Marie Moreau, French general (born 1763)</li>
+              <li>1690 – Philip William, Elector Palatine, German Count Palatine of Neuburg (born 1615)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1930 – Peeter Põld, Estonian scientist and politician, 1st Estonian Minister of Education (born 1878)</li>
-              <li>2014   – Roger McKee, American baseball player (born 1926)</li>
-              <li>2004   – Alastair Morton, South African businessman (born 1938)</li>
+              <li>2013 – Valérie Benguigui, French actress and director (born 1965)</li>
+              <li>1954 – Franz Leopold Neumann, German lawyer and political scientist (born 1900)</li>
+              <li>1945 – Mason Phelps, American golfer (born 1885)</li>
             </ul>
           </div>
         </div>
