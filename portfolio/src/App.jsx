@@ -115,62 +115,62 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>44 BC   – Cicero launches the first of his Philippicae (oratorical attacks) on Mark Antony. He will make 14 of them over the following months.</li>
-              <li>44 BC – Pharaoh Cleopatra VII of Egypt declares her son co-ruler as Ptolemy XV Caesarion.</li>
-              <li>1192 – The Treaty of Jaffa is signed between Richard I of England and Saladin, leading to the end of the Third Crusade.</li>
+              <li>301 – San Marino, one of the smallest nations in the world and the world's oldest republic still in existence, is founded by Saint Marinus.</li>
+              <li>1411 – The Treaty of Selymbria is concluded between the Ottoman Empire and the Republic of Venice.</li>
+              <li>590 – Consecration of Pope Gregory I (Gregory the Great).</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1862 – American Civil War: United States President Abraham Lincoln reluctantly restores Union General George B. McClellan to full command after General John Pope's disastrous defeat at the Second Battle of Bull Run.</li>
-              <li>1898 – Battle of Omdurman: British and Egyptian troops defeat Sudanese tribesmen and establish British dominance in Sudan.</li>
-              <li>1806 – A massive landslide destroys the town of Goldau, Switzerland, killing 457.</li>
+              <li>1861 – American Civil War: Confederate General Leonidas Polk invades neutral Kentucky, prompting the state legislature to ask for Union assistance.</li>
+              <li>1650 – Victory over the royalists in the Battle of Dunbar opens the way to Edinburgh for the New Model Army during the English invasion of Scotland.</li>
+              <li>1658 – The death of Oliver Cromwell; Richard Cromwell becomes Lord Protector of England.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1944 – The last execution of a Finn in Finland takes place when soldier Olavi Laiho is executed by shooting in Oulu.</li>
-              <li>2013 – The Eastern span replacement of the San Francisco–Oakland Bay Bridge opens at 10:15 pm at a cost of $6.4 billion, after the 1989 Loma Prieta earthquake damaged the old span.</li>
-              <li>1945 – World War II: The Japanese Instrument of Surrender is signed by Japan and the major warring powers aboard the battleship USS Missouri in Tokyo Bay, thus marking the official end to the war.</li>
+              <li>1997 – Vietnam Airlines Flight 815 (Tupolev Tu-134) crashes on approach into Phnom Penh airport, killing 64.</li>
+              <li>1981 – The Convention on the Elimination of All Forms of Discrimination Against Women, an international bill of rights for women, is instituted by the United Nations.</li>
+              <li>1916 – World War I: Leefe Robinson destroys the German airship Schütte-Lanz SL 11 over Cuffley, north of London; the first German airship to be shot down on British soil.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1243 – Gilbert de Clare, 7th Earl of Gloucester, 6th Earl of Hertford, English politician (died 1295)</li>
-              <li>1531 – Francesco Cattani da Diacceto, Bishop of Fiesole (died 1595)</li>
-              <li>1251 – Francis of Fabriano, Italian writer (died 1322)</li>
+              <li>1034 – Emperor Go-Sanjō of Japan (died 1073)</li>
+              <li>1568 – Adriano Banchieri, Italian organist and composer (died 1634)</li>
+              <li>1900   – Urho Kekkonen, Finnish journalist, lawyer, and politician, 8th President of Finland (died 1986)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1778 – Louis Bonaparte, French-Dutch king (died 1846)</li>
-              <li>1892 – Dezső Kertész, Hungarian actor and film director (died 1965)</li>
-              <li>1853 – Wilhelm Ostwald, Latvian-German chemist and academic, Nobel Prize laureate (died 1932)</li>
+              <li>1803 – Prudence Crandall, American educator (died 1890)</li>
+              <li>1849 – Sarah Orne Jewett, American novelist, short story writer and poet (died 1909)</li>
+              <li>1929   – Armand Vaillancourt, Canadian sculptor and painter</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1988   – Ishmeet Singh, Indian singer (died 2008)</li>
-              <li>1971   – Pawan Kalyan, Indian actor politician</li>
-              <li>1923 – René Thom, French mathematician, biologist, and academic (died 2002)</li>
+              <li>1956   – Pat McGeown, Irish republican activist (died 1996)</li>
+              <li>1940 – Frank Duffy, English architect</li>
+              <li>1400 – John Holland, 1st Duke of Exeter (born c. 1352)</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>595 – John IV of Constantinople</li>
-              <li>1274 – Prince Munetaka, Japanese shōgun (born 1242)</li>
-              <li>1083 – King Munjong of Goryeo (born 1019)</li>
+              <li>1420 – Robert Stewart, Duke of Albany (born 1340)</li>
+              <li>931 – Uda, emperor of Japan (born 867)</li>
+              <li>1729 – Jean Hardouin, French historian and scholar (born 1646)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1651 – Kosem Sultan, Ottoman Valide sultan and regent (born 1589)</li>
-              <li>1813 – Jean Victor Marie Moreau, French general (born 1763)</li>
-              <li>1690 – Philip William, Elector Palatine, German Count Palatine of Neuburg (born 1615)</li>
+              <li>1808 – John Montgomery, American merchant and politician (born 1722)</li>
+              <li>1866 – Konstantin Flavitsky, Russian painter (born 1830)</li>
+              <li>2012   – Siegfried Jamrowski, Russian-German soldier and pilot (born 1917)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2013 – Valérie Benguigui, French actress and director (born 1965)</li>
-              <li>1954 – Franz Leopold Neumann, German lawyer and political scientist (born 1900)</li>
+              <li>2013   – Don Meineke, American basketball player (born 1930)</li>
+              <li>2000 – Edward Anhalt, American actor, producer, and screenwriter (born 1914)</li>
               <li>1945 – Mason Phelps, American golfer (born 1885)</li>
             </ul>
           </div>
