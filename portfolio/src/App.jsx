@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>301 – San Marino, one of the smallest nations in the world and the world's oldest republic still in existence, is founded by Saint Marinus.</li>
-              <li>1411 – The Treaty of Selymbria is concluded between the Ottoman Empire and the Republic of Venice.</li>
-              <li>590 – Consecration of Pope Gregory I (Gregory the Great).</li>
+              <li>1479 – The Treaty of Alcáçovas is signed by the Catholic Monarchs of Castile and Aragon on one side and Afonso V and his son, Prince John of Portugal.</li>
+              <li>626 – Li Shimin, posthumously known as Emperor Taizong of Tang, assumes the throne over the Tang dynasty of China.</li>
+              <li>1260 – The Sienese Ghibellines, supported by the forces of Manfred, King of Sicily, defeat the Florentine Guelphs at Montaperti.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1861 – American Civil War: Confederate General Leonidas Polk invades neutral Kentucky, prompting the state legislature to ask for Union assistance.</li>
-              <li>1650 – Victory over the royalists in the Battle of Dunbar opens the way to Edinburgh for the New Model Army during the English invasion of Scotland.</li>
-              <li>1658 – The death of Oliver Cromwell; Richard Cromwell becomes Lord Protector of England.</li>
+              <li>1797 – Coup of 18 Fructidor in France.</li>
+              <li>1746 – The Treaty of Kerden concludes the Ottoman–Persian War (1743–1746).</li>
+              <li>1862 – American Civil War Maryland Campaign: General Robert E. Lee takes the Army of Northern Virginia, and the war, into the North.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1997 – Vietnam Airlines Flight 815 (Tupolev Tu-134) crashes on approach into Phnom Penh airport, killing 64.</li>
-              <li>1981 – The Convention on the Elimination of All Forms of Discrimination Against Women, an international bill of rights for women, is instituted by the United Nations.</li>
-              <li>1916 – World War I: Leefe Robinson destroys the German airship Schütte-Lanz SL 11 over Cuffley, north of London; the first German airship to be shot down on British soil.</li>
+              <li>1939 – World War II: William J. Murphy commands the first Royal Air Force attack on Germany.</li>
+              <li>1949 – Paul Robeson performs a second concert in Peekskill, New York eight days after the Peekskill riots.</li>
+              <li>1944   – World War II: Finland exits from the war with Soviet Union.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1034 – Emperor Go-Sanjō of Japan (died 1073)</li>
-              <li>1568 – Adriano Banchieri, Italian organist and composer (died 1634)</li>
-              <li>1900   – Urho Kekkonen, Finnish journalist, lawyer, and politician, 8th President of Finland (died 1986)</li>
+              <li>1454 – Henry Stafford, 2nd Duke of Buckingham, English politician, Lord High Constable of England (died 1483)</li>
+              <li>1596 – Constantijn Huygens, Dutch poet and composer (died 1687)</li>
+              <li>1557 – Sophie of Mecklenburg-Güstrow, queen consort of Denmark and Norway (died 1631)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1803 – Prudence Crandall, American educator (died 1890)</li>
-              <li>1849 – Sarah Orne Jewett, American novelist, short story writer and poet (died 1909)</li>
-              <li>1929   – Armand Vaillancourt, Canadian sculptor and painter</li>
+              <li>1848   – Jennie Lee, American actress (died 1925)</li>
+              <li>1717 – Job Orton, English minister and author (died 1783)</li>
+              <li>1885 – Antonio Bacci, Italian cardinal (died 1971)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1956   – Pat McGeown, Irish republican activist (died 1996)</li>
-              <li>1940 – Frank Duffy, English architect</li>
-              <li>1400 – John Holland, 1st Duke of Exeter (born c. 1352)</li>
+              <li>1909 – Eduard Wirths, German physician (died 1945)</li>
+              <li>1968 – John DiMaggio, American voice actor</li>
+              <li>1955 – David Broza, Israeli singer-songwriter and guitarist</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1420 – Robert Stewart, Duke of Albany (born 1340)</li>
-              <li>931 – Uda, emperor of Japan (born 867)</li>
-              <li>1729 – Jean Hardouin, French historian and scholar (born 1646)</li>
+              <li>422 – Boniface I, pope of the Catholic Church</li>
+              <li>1308 – Margaret of Burgundy, queen of Sicily (born 1250)</li>
+              <li>1417 – Robert Hallam, English Catholic bishop</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1808 – John Montgomery, American merchant and politician (born 1722)</li>
-              <li>1866 – Konstantin Flavitsky, Russian painter (born 1830)</li>
-              <li>2012   – Siegfried Jamrowski, Russian-German soldier and pilot (born 1917)</li>
+              <li>1821 – José Miguel Carrera, Chilean general and politician (born 1785)</li>
+              <li>1864 – John Hunt Morgan, American general (born 1825)</li>
+              <li>1767 – Charles Townshend, English politician, Chancellor of the Exchequer (born 1725)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2013   – Don Meineke, American basketball player (born 1930)</li>
-              <li>2000 – Edward Anhalt, American actor, producer, and screenwriter (born 1914)</li>
-              <li>1945 – Mason Phelps, American golfer (born 1885)</li>
+              <li>1996   – Rose Ouellette, Canadian actress and manager (born 1903)</li>
+              <li>1998 – Ernst Jaakson, Estonian diplomat (born 1905)</li>
+              <li>2013   – Stanislav Stepashkin, Russian boxer (born 1940)</li>
             </ul>
           </div>
         </div>
