@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1479 – The Treaty of Alcáçovas is signed by the Catholic Monarchs of Castile and Aragon on one side and Afonso V and his son, Prince John of Portugal.</li>
-              <li>626 – Li Shimin, posthumously known as Emperor Taizong of Tang, assumes the throne over the Tang dynasty of China.</li>
-              <li>1260 – The Sienese Ghibellines, supported by the forces of Manfred, King of Sicily, defeat the Florentine Guelphs at Montaperti.</li>
+              <li>394 – On the first day of the battle of Frigidus, the Western Roman troops of Arbogast manage to defend their positions against the Eastern Roman troops of emperor Theodosius I.</li>
+              <li>1590 – An army led by Alexander Farnese, Duke of Parma forces Henry IV of France to lift the siege of Paris.</li>
+              <li>1234 – The Decretals of Gregory IX, a new canonical collection assembled by Raymond of Peñafort, are promulgated.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1797 – Coup of 18 Fructidor in France.</li>
-              <li>1746 – The Treaty of Kerden concludes the Ottoman–Persian War (1743–1746).</li>
-              <li>1862 – American Civil War Maryland Campaign: General Robert E. Lee takes the Army of Northern Virginia, and the war, into the North.</li>
+              <li>1816 – Louis XVIII of France has to dissolve the Chambre introuvable ("Unobtainable Chamber").</li>
+              <li>1798 – Conscription is made mandatory in France by the Jourdan law.</li>
+              <li>1725 – Wedding of Louis XV and Maria Leszczyńska.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1939 – World War II: William J. Murphy commands the first Royal Air Force attack on Germany.</li>
-              <li>1949 – Paul Robeson performs a second concert in Peekskill, New York eight days after the Peekskill riots.</li>
-              <li>1944   – World War II: Finland exits from the war with Soviet Union.</li>
+              <li>1991 – The current international treaty defending indigenous peoples, Indigenous and Tribal Peoples Convention, 1989, comes into force.</li>
+              <li>1945 – Cold War: Igor Gouzenko, a Soviet Union embassy clerk, defects to Canada, exposing Soviet espionage in North America, signalling the beginning of the Cold War.</li>
+              <li>1915 – The pacifist Zimmerwald Conference begins.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1454 – Henry Stafford, 2nd Duke of Buckingham, English politician, Lord High Constable of England (died 1483)</li>
-              <li>1596 – Constantijn Huygens, Dutch poet and composer (died 1687)</li>
-              <li>1557 – Sophie of Mecklenburg-Güstrow, queen consort of Denmark and Norway (died 1631)</li>
+              <li>1451 – Isabel Neville, daughter of Richard Neville (died 1476)</li>
+              <li>1540 – Magnus of Holstein, prince of Denmark  (died 1583)</li>
+              <li>1201 – Alix of Thouars, duchess of Brittany (died 1221)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1848   – Jennie Lee, American actress (died 1925)</li>
-              <li>1717 – Job Orton, English minister and author (died 1783)</li>
-              <li>1885 – Antonio Bacci, Italian cardinal (died 1971)</li>
+              <li>1876 – Wilhelm Ritter von Leeb, German field marshal (died 1956)</li>
+              <li>1667 – Giovanni Girolamo Saccheri, Italian priest, mathematician, and philosopher (died 1733)</li>
+              <li>1642 – Maria of Orange-Nassau, Dutch princess (died 1688)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1909 – Eduard Wirths, German physician (died 1945)</li>
-              <li>1968 – John DiMaggio, American voice actor</li>
-              <li>1955 – David Broza, Israeli singer-songwriter and guitarist</li>
+              <li>1978 – Chris Hipkins, New Zealand politician, 41st Prime Minister of New Zealand</li>
+              <li>1965 – David Brabham, Australian race car driver</li>
+              <li>1994 – Kings Elliot, Swiss-English singer</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>422 – Boniface I, pope of the Catholic Church</li>
-              <li>1308 – Margaret of Burgundy, queen of Sicily (born 1250)</li>
-              <li>1417 – Robert Hallam, English Catholic bishop</li>
+              <li>590 – Authari, Lombard king (born 540)</li>
+              <li>714 – Shang, emperor of the Tang Dynasty</li>
+              <li>1235 – Henry I, duke of Brabant (born 1165)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1821 – José Miguel Carrera, Chilean general and politician (born 1785)</li>
-              <li>1864 – John Hunt Morgan, American general (born 1825)</li>
-              <li>1767 – Charles Townshend, English politician, Chancellor of the Exchequer (born 1725)</li>
+              <li>1876 – Manuel Blanco Encalada, Chilean admiral and politician, 1st President of Chile (born 1790)</li>
+              <li>1894 – George Stoneman, Jr., United States Army cavalry officer (born 1822)</li>
+              <li>1803 – François Devienne, French flute player and composer (born 1759)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1996   – Rose Ouellette, Canadian actress and manager (born 1903)</li>
-              <li>1998 – Ernst Jaakson, Estonian diplomat (born 1905)</li>
-              <li>2013   – Stanislav Stepashkin, Russian boxer (born 1940)</li>
+              <li>1999   – Allen Funt, American director, producer, and screenwriter (born 1914)</li>
+              <li>2016 – Hugh O'Brian, American actor (born 1925)</li>
+              <li>2024   – Laurent Tirard, French film director and screenwriter (born 1967)</li>
             </ul>
           </div>
         </div>
