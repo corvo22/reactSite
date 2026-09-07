@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>394 – Battle of the Frigidus: Roman emperor Theodosius I defeats and kills Eugenius the usurper. His Frankish magister militum Arbogast escapes but commits suicide two days later.</li>
-              <li>1492 – Christopher Columbus sails from La Gomera in the Canary Islands, his final port of call before crossing the Atlantic Ocean for the first time.</li>
-              <li>1522 – The Victoria returns to Sanlúcar de Barrameda in Spain, the only surviving ship of Ferdinand Magellan's expedition and the first known ship to circumnavigate the world.</li>
+              <li>1565 – Arrival of the so-called Grande Soccorso ("great relief") by Philip II of Spain to the Great Siege of Malta.</li>
+              <li>878 – Louis the Stammerer is crowned as king of West Francia by Pope John VIII.</li>
+              <li>1571 – Thomas Howard, 4th Duke of Norfolk, is arrested for his role in the Ridolfi plot to assassinate Queen Elizabeth I of England and replace her with Mary, Queen of Scots.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1863 – American Civil War: Confederate forces evacuate Battery Wagner and Morris Island in South Carolina.</li>
-              <li>1634 – Thirty Years' War: In the Battle of Nördlingen, the Catholic Imperial army defeats Swedish and German Protestant forces.</li>
-              <li>1870 – Louisa Ann Swain of Laramie, Wyoming becomes the first woman in the United States to cast a vote legally after 1807.</li>
+              <li>1764 – Election of Stanisław August Poniatowski as the last ruler of the Polish–Lithuanian Commonwealth.</li>
+              <li>1864 – American Civil War: Atlanta is evacuated on orders of Union General William Tecumseh Sherman.</li>
+              <li>1856 – The Saimaa Canal is inaugurated.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2018   – Brazilian presidential candidate Jair Bolsonaro survives a stabbing at a campaign rally in Juiz de Fora, Minas Gerais.</li>
-              <li>2018 – Supreme Court of India decriminalises all consensual sex among adults in private, making homosexuality legal on the Indian lands.</li>
-              <li>1943   – Pennsylvania Railroad's premier train derails at Frankford Junction in Philadelphia, killing 79 people and injuring 117 others.</li>
+              <li>1978 – While walking across Waterloo Bridge in London, Bulgarian dissident Georgi Markov is assassinated by Bulgarian secret police agent Francesco Gullino by means of a ricin pellet fired from a specially designed umbrella.</li>
+              <li>1929 – Steamer Kuru capsizes and sinks on Lake Näsijärvi near Tampere in Finland. One hundred thirty-six lives are lost.</li>
+              <li>1923 – The International Criminal Police Organization (INTERPOL) is formed.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1475   – Sebastiano Serlio, Italian Mannerist architect (died 1554)</li>
-              <li>1475 – Artus Gouffier, Lord of Boissy, French nobleman and politician (died 1519)</li>
-              <li>1802 – Alcide d'Orbigny, French zoologist, palaeontologist, and geologist (died 1857)</li>
+              <li>1500 – Sebastian Newdigate, Carthusian monk and martyr (died 1535)</li>
+              <li>1438 – Louis II, Landgrave of Lower Hesse (died 1471)</li>
+              <li>1448 – Henry, Count of Württemberg-Montbéliard (1473–1482) (died 1519)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1892 – Edward Victor Appleton, English-Scottish physicist and academic, Nobel Prize laureate (died 1965)</li>
-              <li>1861 – William Lane, English-Australian journalist, founded New Australia (died 1917)</li>
-              <li>1954   – Demetris Kizas, Cypriot footballer</li>
+              <li>1810 – Hermann Heinrich Gossen, Prussian economist and academic (died 1858)</li>
+              <li>1895 – Jacques Vaché, French author and poet (died 1919)</li>
+              <li>1815 – John McDouall Stuart, Scottish explorer and surveyor (died 1866)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1984   – William Porterfield, Northern Irish cricketer</li>
-              <li>1967 – William DuVall, American singer-songwriter and guitarist</li>
-              <li>394 – Eugenius, Roman usurper</li>
+              <li>1923   – Peter Lawford, English-American actor (died 1984)</li>
+              <li>1994   – Maren Lundby, Norwegian former ski jumper</li>
+              <li>1965   – Darko Pančev, Macedonian footballer</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1276 – Vicedomino de Vicedominis, Italian cardinal (born 1210)</li>
-              <li>1178 – Ioveta, Latin princess</li>
-              <li>1885 – Narcís Monturiol, Spanish engineer, designed the Ictineo I and Ictineo II (born 1819)</li>
+              <li>1496 – Ferdinand II of Naples (born 1469)</li>
+              <li>1202 – William of the White Hands, French cardinal (born 1135)</li>
+              <li>859 – Emperor Xuānzong of Tang, Chinese emperor (born 810)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1868 – Pierre Adolphe Rost, American lawyer, judge, and politician (born 1797)</li>
-              <li>1708 – Sir John Morden, 1st Baronet, English merchant and philanthropist, founded Morden College (born 1623)</li>
-              <li>1952 – Gertrude Lawrence, English actress, singer, and dancer (born 1898)</li>
+              <li>1741 – Blas de Lezo, Spanish admiral (born 1689)</li>
+              <li>1891 – Lorenzo Sawyer, American lawyer and judge (born 1820)</li>
+              <li>1644 – Guido Bentivoglio, Italian cardinal and historian (born 1579)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2012 – Elisabeth Böhm, German architect (born 1921)</li>
-              <li>2017   – Kate Millett, American feminist author and activist (born 1934)</li>
-              <li>2024   – Laurent Tirard, French film director and screenwriter (born 1967)</li>
+              <li>2015   – Voula Zouboulaki, Greek actress (born 1924)</li>
+              <li>1973 – Holling C. Holling, American author and illustrator (born 1900)</li>
+              <li>1929 – Frederic Weatherly, English lawyer, author, and songwriter (born 1848)</li>
             </ul>
           </div>
         </div>
