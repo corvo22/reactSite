@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1565 – Arrival of the so-called Grande Soccorso ("great relief") by Philip II of Spain to the Great Siege of Malta.</li>
-              <li>878 – Louis the Stammerer is crowned as king of West Francia by Pope John VIII.</li>
-              <li>1571 – Thomas Howard, 4th Duke of Norfolk, is arrested for his role in the Ridolfi plot to assassinate Queen Elizabeth I of England and replace her with Mary, Queen of Scots.</li>
+              <li>1565 – St. Augustine, Florida is founded by Spanish admiral and Florida's first governor, Pedro Menéndez de Avilés.</li>
+              <li>1100 – Election of Antipope Theodoric.</li>
+              <li>1253 – Pope Innocent IV canonises Stanislaus of Szczepanów, who was killed by King Bolesław II.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1764 – Election of Stanisław August Poniatowski as the last ruler of the Polish–Lithuanian Commonwealth.</li>
-              <li>1864 – American Civil War: Atlanta is evacuated on orders of Union General William Tecumseh Sherman.</li>
-              <li>1856 – The Saimaa Canal is inaugurated.</li>
+              <li>1860 – The steamship PS Lady Elgin sinks on Lake Michigan, with the loss of around 300 lives.</li>
+              <li>1808 – The Treaty of Paris is signed ending the French military occupation of Prussia.</li>
+              <li>1831   – November uprising: The Battle of Warsaw effectively ends the Polish insurrection.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1978 – While walking across Waterloo Bridge in London, Bulgarian dissident Georgi Markov is assassinated by Bulgarian secret police agent Francesco Gullino by means of a ricin pellet fired from a specially designed umbrella.</li>
-              <li>1929 – Steamer Kuru capsizes and sinks on Lake Näsijärvi near Tampere in Finland. One hundred thirty-six lives are lost.</li>
-              <li>1923 – The International Criminal Police Organization (INTERPOL) is formed.</li>
+              <li>1944 – World War II: London is hit by a V-2 rocket for the first time.</li>
+              <li>1989 – Partnair Flight 394 dives into the North Sea, killing 55 people. The investigation showed that the tail of the plane vibrated loose in flight due to sub-standard connecting bolts that had been fraudulently sold as aircraft-grade.</li>
+              <li>1923 – Honda Point disaster: Nine US Navy destroyers run aground off the California coast. Seven are lost, and twenty-three sailors killed.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1500 – Sebastian Newdigate, Carthusian monk and martyr (died 1535)</li>
-              <li>1438 – Louis II, Landgrave of Lower Hesse (died 1471)</li>
-              <li>1448 – Henry, Count of Württemberg-Montbéliard (1473–1482) (died 1519)</li>
+              <li>1413 – Catherine of Bologna, Italian nun and saint (died 1463)</li>
+              <li>1588 – Marin Mersenne, French mathematician, philosopher, and theologian (died 1648)</li>
+              <li>801 – Ansgar, German archbishop and saint (died 865)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1810 – Hermann Heinrich Gossen, Prussian economist and academic (died 1858)</li>
-              <li>1895 – Jacques Vaché, French author and poet (died 1919)</li>
-              <li>1815 – John McDouall Stuart, Scottish explorer and surveyor (died 1866)</li>
+              <li>1852 – Gojong of Korea, 26th Emperor of the Joseon Kingdom and first emperor of Korea (died 1919)</li>
+              <li>1830 – Frédéric Mistral, French poet and lexicographer, Nobel Prize laureate (died 1914)</li>
+              <li>1841 – Antonín Dvořák, Czech composer and academic (died 1904)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1923   – Peter Lawford, English-American actor (died 1984)</li>
-              <li>1994   – Maren Lundby, Norwegian former ski jumper</li>
-              <li>1965   – Darko Pančev, Macedonian footballer</li>
+              <li>1989 – Gylfi Sigurðsson, Icelandic footballer</li>
+              <li>1938   – Kenichi Horie, Japanese sailor</li>
+              <li>1994   – Paula Nicart, Spanish former footballer</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1496 – Ferdinand II of Naples (born 1469)</li>
-              <li>1202 – William of the White Hands, French cardinal (born 1135)</li>
-              <li>859 – Emperor Xuānzong of Tang, Chinese emperor (born 810)</li>
+              <li>780 – Leo IV the Khazar, Byzantine emperor (born 750)</li>
+              <li>1555 – Saint Thomas of Villanueva, Spanish bishop and saint (born 1488)</li>
+              <li>1425 – Charles III of Navarre (born 1361)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1741 – Blas de Lezo, Spanish admiral (born 1689)</li>
-              <li>1891 – Lorenzo Sawyer, American lawyer and judge (born 1820)</li>
-              <li>1644 – Guido Bentivoglio, Italian cardinal and historian (born 1579)</li>
+              <li>1853 – Frédéric Ozanam, French scholar, co-founded the Society of Saint Vincent de Paul (born 1813)</li>
+              <li>1784 – Ann Lee, English-American religious leader (born 1736)</li>
+              <li>1811 – Peter Simon Pallas, German zoologist and botanist (born 1741)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2015   – Voula Zouboulaki, Greek actress (born 1924)</li>
-              <li>1973 – Holling C. Holling, American author and illustrator (born 1900)</li>
-              <li>1929 – Frederic Weatherly, English lawyer, author, and songwriter (born 1848)</li>
+              <li>1984 – Johnnie Parsons, American race car driver (born 1918)</li>
+              <li>1949 – Richard Strauss, German composer and manager (born 1864)</li>
+              <li>1916 – Friedrich Baumfelder, German pianist, composer, and conductor (born 1836)</li>
             </ul>
           </div>
         </div>
