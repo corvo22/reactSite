@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1565 – St. Augustine, Florida is founded by Spanish admiral and Florida's first governor, Pedro Menéndez de Avilés.</li>
-              <li>1100 – Election of Antipope Theodoric.</li>
-              <li>1253 – Pope Innocent IV canonises Stanislaus of Szczepanów, who was killed by King Bolesław II.</li>
+              <li>1588 – Thomas Cavendish in his ship Desire enters Plymouth and completes the first deliberately planned voyage of circumnavigation.</li>
+              <li>1000 – Battle of Svolder during the Viking Age.</li>
+              <li>1320 – In the Battle of Saint George, the Byzantines under Andronikos Asen ambush and defeat the forces of the Principality of Achaea, securing possession of Arcadia.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1860 – The steamship PS Lady Elgin sinks on Lake Michigan, with the loss of around 300 lives.</li>
-              <li>1808 – The Treaty of Paris is signed ending the French military occupation of Prussia.</li>
-              <li>1831   – November uprising: The Battle of Warsaw effectively ends the Polish insurrection.</li>
+              <li>1845 – Possible start of the Great Famine of Ireland.</li>
+              <li>1796 – Grenelle camp affair, a failed uprising by supporters of Gracchus Babeuf against the French Directory</li>
+              <li>1892 – Amalthea becomes the last moon to be discovered without the use of photography.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1944 – World War II: London is hit by a V-2 rocket for the first time.</li>
-              <li>1989 – Partnair Flight 394 dives into the North Sea, killing 55 people. The investigation showed that the tail of the plane vibrated loose in flight due to sub-standard connecting bolts that had been fraudulently sold as aircraft-grade.</li>
-              <li>1923 – Honda Point disaster: Nine US Navy destroyers run aground off the California coast. Seven are lost, and twenty-three sailors killed.</li>
+              <li>1944 – World War II: The Fatherland Front takes power in Bulgaria through a military coup in the capital and armed rebellion in the country. A new pro-Soviet government is established.</li>
+              <li>2015 – Elizabeth II becomes the longest reigning monarch of the United Kingdom.</li>
+              <li>1947 – First case of a computer bug being found: A moth lodges in a relay of a Harvard Mark II computer at Harvard University.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1413 – Catherine of Bologna, Italian nun and saint (died 1463)</li>
-              <li>1588 – Marin Mersenne, French mathematician, philosopher, and theologian (died 1648)</li>
-              <li>801 – Ansgar, German archbishop and saint (died 865)</li>
+              <li>1349 – Albert III, Duke of Austria (died 1395)</li>
+              <li>1466 – Ashikaga Yoshitane, Japanese shōgun (died 1523)</li>
+              <li>384 – Honorius, Roman emperor (died 423)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1852 – Gojong of Korea, 26th Emperor of the Joseon Kingdom and first emperor of Korea (died 1919)</li>
-              <li>1830 – Frédéric Mistral, French poet and lexicographer, Nobel Prize laureate (died 1914)</li>
-              <li>1841 – Antonín Dvořák, Czech composer and academic (died 1904)</li>
+              <li>1899   – Bruno E. Jacob, American academic, founded the National Forensic League (died 1979)</li>
+              <li>1754 – William Bligh, English admiral and politician, 4th Governor of New South Wales (died 1817)</li>
+              <li>1894   – Humphrey Mitchell, Canadian trade union leader and politician, 14th Canadian Minister of Labour (died 1950)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1989 – Gylfi Sigurðsson, Icelandic footballer</li>
-              <li>1938   – Kenichi Horie, Japanese sailor</li>
-              <li>1994   – Paula Nicart, Spanish former footballer</li>
+              <li>1959 – Tom Foley, American baseball player and coach</li>
+              <li>1903   – Phyllis A. Whitney, American author (died 2008)</li>
+              <li>1990   – Jordan Tabor, English footballer (died 2014)</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>780 – Leo IV the Khazar, Byzantine emperor (born 750)</li>
-              <li>1555 – Saint Thomas of Villanueva, Spanish bishop and saint (born 1488)</li>
-              <li>1425 – Charles III of Navarre (born 1361)</li>
+              <li>1596 – Anna Jagiellon, Polish queen (born 1523)</li>
+              <li>1031 – Kang Kam-ch'an, Korean general (born 948)</li>
+              <li>1513 – Notable Scottish casualties of the Battle of Flodden</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1853 – Frédéric Ozanam, French scholar, co-founded the Society of Saint Vincent de Paul (born 1813)</li>
-              <li>1784 – Ann Lee, English-American religious leader (born 1736)</li>
-              <li>1811 – Peter Simon Pallas, German zoologist and botanist (born 1741)</li>
+              <li>1841 – Augustin Pyramus de Candolle, Swiss botanist, mycologist, and academic (born 1778)</li>
+              <li>1815 – John Singleton Copley, American-English colonial and painter (born 1738)</li>
+              <li>1898 – Stéphane Mallarmé, French poet and critic (born 1842)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1984 – Johnnie Parsons, American race car driver (born 1918)</li>
-              <li>1949 – Richard Strauss, German composer and manager (born 1864)</li>
-              <li>1916 – Friedrich Baumfelder, German pianist, composer, and conductor (born 1836)</li>
+              <li>1950 – Victor Hémery, French racing driver (born 1876)</li>
+              <li>1969 – Willy Mairesse, Belgian racing driver (born 1928)</li>
+              <li>1986 – Magda Tagliaferro, Brazilian pianist and educator (born 1893)</li>
             </ul>
           </div>
         </div>
