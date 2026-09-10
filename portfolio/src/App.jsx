@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1588 – Thomas Cavendish in his ship Desire enters Plymouth and completes the first deliberately planned voyage of circumnavigation.</li>
-              <li>1000 – Battle of Svolder during the Viking Age.</li>
-              <li>1320 – In the Battle of Saint George, the Byzantines under Andronikos Asen ambush and defeat the forces of the Principality of Achaea, securing possession of Arcadia.</li>
+              <li>1509 – An earthquake known as "The Lesser Judgment Day" hits Constantinople.</li>
+              <li>422 – Election of pope Celestine I following the death of pope Boniface I earlier that month.</li>
+              <li>1561 – Fourth Battle of Kawanakajima: Takeda Shingen defeats Uesugi Kenshin in the climax of their ongoing conflicts.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1845 – Possible start of the Great Famine of Ireland.</li>
-              <li>1796 – Grenelle camp affair, a failed uprising by supporters of Gracchus Babeuf against the French Directory</li>
-              <li>1892 – Amalthea becomes the last moon to be discovered without the use of photography.</li>
+              <li>1640 – Reapers' War: Junta de Braços (Assembly of Estates) of the Principality of Catalonia summoned. It assumes the sovereignty and enacts a series of revolutionary measures which will lead to the Catalan Republic.</li>
+              <li>1724 – Johann Sebastian Bach leads the first performance of Jesu, der du meine Seele, BWV 78, a chorale cantata based on a passion hymn by Johann Rist.</li>
+              <li>1813 – The United States defeats a British Fleet at the Battle of Lake Erie during the War of 1812.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1944 – World War II: The Fatherland Front takes power in Bulgaria through a military coup in the capital and armed rebellion in the country. A new pro-Soviet government is established.</li>
-              <li>2015 – Elizabeth II becomes the longest reigning monarch of the United Kingdom.</li>
-              <li>1947 – First case of a computer bug being found: A moth lodges in a relay of a Harvard Mark II computer at Harvard University.</li>
+              <li>1918 – Russian Civil War: The Red Army captures Kazan.</li>
+              <li>1939   – World War II: The Canadian declaration of war on Germany receives royal assent.</li>
+              <li>1960 – At the Summer Olympics in Rome, Abebe Bikila becomes the first sub-Saharan African to win a gold medal, winning the marathon in bare feet.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1349 – Albert III, Duke of Austria (died 1395)</li>
-              <li>1466 – Ashikaga Yoshitane, Japanese shōgun (died 1523)</li>
-              <li>384 – Honorius, Roman emperor (died 423)</li>
+              <li>1497 – Wolfgang Musculus, German theologian (died 1563)</li>
+              <li>904 – Guo Wei, posthumously known as Emperor Taizu of Later Zhou</li>
+              <li>1547 – George I, Landgrave of Hesse-Darmstadt (died 1596)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1899   – Bruno E. Jacob, American academic, founded the National Forensic League (died 1979)</li>
-              <li>1754 – William Bligh, English admiral and politician, 4th Governor of New South Wales (died 1817)</li>
-              <li>1894   – Humphrey Mitchell, Canadian trade union leader and politician, 14th Canadian Minister of Labour (died 1950)</li>
+              <li>1860 – Marianne von Werefkin, Russian-Swiss painter (died 1938)</li>
+              <li>1714 – Niccolò Jommelli, Italian composer (died 1774)</li>
+              <li>1890 – Bob Heffron, New Zealand-Australian miner and politician, 30th Premier of New South Wales (died 1978)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1959 – Tom Foley, American baseball player and coach</li>
-              <li>1903   – Phyllis A. Whitney, American author (died 2008)</li>
-              <li>1990   – Jordan Tabor, English footballer (died 2014)</li>
+              <li>1966 – Yuki Saito, Japanese singer and actress</li>
+              <li>1984   – Luke Treadaway, English actor</li>
+              <li>1997   – Troy Terry, American ice hockey player</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1596 – Anna Jagiellon, Polish queen (born 1523)</li>
-              <li>1031 – Kang Kam-ch'an, Korean general (born 948)</li>
-              <li>1513 – Notable Scottish casualties of the Battle of Flodden</li>
+              <li>1308 – Emperor Go-Nijō of Japan (born 1285)</li>
+              <li>952 – Gao Xingzhou, Chinese general (born 885)</li>
+              <li>210 BC – Qin Shi Huang, first emperor of China (born 259 BC)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1841 – Augustin Pyramus de Candolle, Swiss botanist, mycologist, and academic (born 1778)</li>
-              <li>1815 – John Singleton Copley, American-English colonial and painter (born 1738)</li>
-              <li>1898 – Stéphane Mallarmé, French poet and critic (born 1842)</li>
+              <li>1889 – Charles III, Prince of Monaco (born 1818)</li>
+              <li>1759 – Ferdinand Konščak, Croatian missionary and explorer (born 1703)</li>
+              <li>1851 – Thomas Hopkins Gallaudet, American minister and educator (born 1787)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1950 – Victor Hémery, French racing driver (born 1876)</li>
-              <li>1969 – Willy Mairesse, Belgian racing driver (born 1928)</li>
-              <li>1986 – Magda Tagliaferro, Brazilian pianist and educator (born 1893)</li>
+              <li>1965 – Father Divine, American spiritual leader (born 1880)</li>
+              <li>2014 – Emilio Botín, Spanish banker and businessman (born 1934)</li>
+              <li>1976 – Dalton Trumbo, American screenwriter and novelist (born 1905)</li>
             </ul>
           </div>
         </div>
