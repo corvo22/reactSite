@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1509 – An earthquake known as "The Lesser Judgment Day" hits Constantinople.</li>
-              <li>422 – Election of pope Celestine I following the death of pope Boniface I earlier that month.</li>
-              <li>1561 – Fourth Battle of Kawanakajima: Takeda Shingen defeats Uesugi Kenshin in the climax of their ongoing conflicts.</li>
+              <li>1185 – Isaac II Angelos kills Stephen Hagiochristophorites and then appeals to the people, resulting in the revolt that deposes Andronikos I Komnenos and places Isaac on the throne of the Byzantine Empire.</li>
+              <li>1390 – Lithuanian Civil War (1389–1392): The Teutonic Knights begin a five-week siege of Vilnius.</li>
+              <li>1275 – An earthquake occurs in the south of Great Britain, notably causing multiple fatalities as well as destroying St Michael's Church on Glastonbury Tor.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1640 – Reapers' War: Junta de Braços (Assembly of Estates) of the Principality of Catalonia summoned. It assumes the sovereignty and enacts a series of revolutionary measures which will lead to the Catalan Republic.</li>
-              <li>1724 – Johann Sebastian Bach leads the first performance of Jesu, der du meine Seele, BWV 78, a chorale cantata based on a passion hymn by Johann Rist.</li>
-              <li>1813 – The United States defeats a British Fleet at the Battle of Lake Erie during the War of 1812.</li>
+              <li>1777 – American Revolutionary War: Battle of Brandywine: The British celebrate a major victory in Chester County, Pennsylvania.</li>
+              <li>1802 – France annexes the Kingdom of Piedmont.</li>
+              <li>1803 – The Battle of Delhi, during the Second Anglo-Maratha War, between British troops under General Lake, and Marathas of Scindia's army under General Louis Bourquin ends in a British victory.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1918 – Russian Civil War: The Red Army captures Kazan.</li>
-              <li>1939   – World War II: The Canadian declaration of war on Germany receives royal assent.</li>
-              <li>1960 – At the Summer Olympics in Rome, Abebe Bikila becomes the first sub-Saharan African to win a gold medal, winning the marathon in bare feet.</li>
+              <li>2007 – Russia tests the largest conventional weapon ever, the Father of All Bombs.</li>
+              <li>1970 – The Dawson's Field hijackers release 88 of their hostages. The remaining hostages, mostly Jews and Israeli citizens, are held until September 25.</li>
+              <li>1967 – China's People's Liberation Army (PLA) launched an attack on Indian posts at Nathu La, Sikkim, India, which resulted in military clashes.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1497 – Wolfgang Musculus, German theologian (died 1563)</li>
-              <li>904 – Guo Wei, posthumously known as Emperor Taizu of Later Zhou</li>
-              <li>1547 – George I, Landgrave of Hesse-Darmstadt (died 1596)</li>
+              <li>1465 – Bernardo Accolti, Italian poet (died 1536)</li>
+              <li>1522 – Ulisse Aldrovandi, Italian ornithologist and botanist (died 1605)</li>
+              <li>600 – Yuknoom Ch'een II, Mayan ruler</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1860 – Marianne von Werefkin, Russian-Swiss painter (died 1938)</li>
-              <li>1714 – Niccolò Jommelli, Italian composer (died 1774)</li>
-              <li>1890 – Bob Heffron, New Zealand-Australian miner and politician, 30th Premier of New South Wales (died 1978)</li>
+              <li>1862   – Hawley Harvey Crippen, American physician (died 1910)</li>
+              <li>1764 – Valentino Fioravanti, Italian organist and composer (died 1837)</li>
+              <li>1865 – Rainis, Latvian poet and playwright (died 1929)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1966 – Yuki Saito, Japanese singer and actress</li>
-              <li>1984   – Luke Treadaway, English actor</li>
-              <li>1997   – Troy Terry, American ice hockey player</li>
+              <li>2001 – Joseph Fahnbulleh, Liberian-American sprinter</li>
+              <li>1914 – Serbian Patriarch Pavle II (died 2009)</li>
+              <li>1927 – Keith Holman, Australian rugby league player and coach (died 2011)</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1308 – Emperor Go-Nijō of Japan (born 1285)</li>
-              <li>952 – Gao Xingzhou, Chinese general (born 885)</li>
-              <li>210 BC – Qin Shi Huang, first emperor of China (born 259 BC)</li>
+              <li>1599 – Beatrice Cenci, Italian noblewoman (born 1577)</li>
+              <li>883 – Kesta Styppiotes, Byzantine general</li>
+              <li>1569 – Vincenza Armani, Italian actress (born 1530)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1889 – Charles III, Prince of Monaco (born 1818)</li>
-              <li>1759 – Ferdinand Konščak, Croatian missionary and explorer (born 1703)</li>
-              <li>1851 – Thomas Hopkins Gallaudet, American minister and educator (born 1787)</li>
+              <li>1846 – José Núñez de Cáceres, Dominican politician and writer, leader of the Independence movement of the Dominican Republic (born 1772)</li>
+              <li>1680 – Emperor Go-Mizunoo of Japan (born 1596)</li>
+              <li>1898 – Nikoline Harbitz, Norwegian author (born 1841)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1965 – Father Divine, American spiritual leader (born 1880)</li>
-              <li>2014 – Emilio Botín, Spanish banker and businessman (born 1934)</li>
-              <li>1976 – Dalton Trumbo, American screenwriter and novelist (born 1905)</li>
+              <li>1959 – Paul Douglas, American actor (born 1907)</li>
+              <li>2020 – Toots Hibbert, Jamaican singer and songwriter (born 1942)</li>
+              <li>1932 – Stanisław Wigura, Polish pilot and businessman, co-founded the RWD Company (born 1901)</li>
             </ul>
           </div>
         </div>
