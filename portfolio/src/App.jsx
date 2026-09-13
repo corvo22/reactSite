@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1185 – Isaac II Angelos kills Stephen Hagiochristophorites and then appeals to the people, resulting in the revolt that deposes Andronikos I Komnenos and places Isaac on the throne of the Byzantine Empire.</li>
-              <li>1390 – Lithuanian Civil War (1389–1392): The Teutonic Knights begin a five-week siege of Vilnius.</li>
-              <li>1275 – An earthquake occurs in the south of Great Britain, notably causing multiple fatalities as well as destroying St Michael's Church on Glastonbury Tor.</li>
+              <li>604 – Consecration of pope Sabinian following the death of pope Gregory I earlier that year.</li>
+              <li>531 – Khosrow I becomes king of the Sassanid Empire following the death of his father Kavad I. He starts negotiations with the Byzantine Empire to end the Iberian War.</li>
+              <li>1229 – Ögedei Khan is proclaimed Khagan of the Mongol Empire in Kodoe Aral, Khentii: Mongolia.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1777 – American Revolutionary War: Battle of Brandywine: The British celebrate a major victory in Chester County, Pennsylvania.</li>
-              <li>1802 – France annexes the Kingdom of Piedmont.</li>
-              <li>1803 – The Battle of Delhi, during the Second Anglo-Maratha War, between British troops under General Lake, and Marathas of Scindia's army under General Louis Bourquin ends in a British victory.</li>
+              <li>1848 – Vermont railroad worker Phineas Gage survives an iron rod 1+1⁄4 inches (3.2 cm) in diameter being driven through his brain; the reported effects on his behavior and personality stimulate discussion of the nature of the brain and its functions.</li>
+              <li>1788 – The Congress of the Confederation sets the date for the first presidential election in the United States, and New York City becomes the country's temporary capital.</li>
+              <li>1808 – Finnish War: In the Battle of Jutas, Swedish forces under Lieutenant General Georg Carl von Döbeln beat the Russians, making von Döbeln a Swedish war hero.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2007 – Russia tests the largest conventional weapon ever, the Father of All Bombs.</li>
-              <li>1970 – The Dawson's Field hijackers release 88 of their hostages. The remaining hostages, mostly Jews and Israeli citizens, are held until September 25.</li>
-              <li>1967 – China's People's Liberation Army (PLA) launched an attack on Indian posts at Nathu La, Sikkim, India, which resulted in military clashes.</li>
+              <li>2001 – Civilian aircraft traffic resumes in the United States after the September 11 attacks.</li>
+              <li>1953 – Nikita Khrushchev is appointed General Secretary of the Communist Party of the Soviet Union.</li>
+              <li>1986 – A magnitude 6.0 earthquake strikes Kalamata, Greece with a maximum Modified Mercalli intensity of X (Extreme), killing at least 20 and causing heavy damage in the city.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1465 – Bernardo Accolti, Italian poet (died 1536)</li>
-              <li>1522 – Ulisse Aldrovandi, Italian ornithologist and botanist (died 1605)</li>
-              <li>600 – Yuknoom Ch'een II, Mayan ruler</li>
+              <li>AD 64 – Julia Flavia, Roman daughter of Titus (died AD 91)</li>
+              <li>1521 – William Cecil, 1st Baron Burghley, English academic and politician, Lord High Treasurer (died 1598)</li>
+              <li>1087 – John II Komnenos, Byzantine emperor (died 1143)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1862   – Hawley Harvey Crippen, American physician (died 1910)</li>
-              <li>1764 – Valentino Fioravanti, Italian organist and composer (died 1837)</li>
-              <li>1865 – Rainis, Latvian poet and playwright (died 1929)</li>
+              <li>1830 – Marie von Ebner-Eschenbach, Austrian author (died 1916)</li>
+              <li>1891 – Max Pruss, German captain and pilot (died 1960)</li>
+              <li>1880 – Jesse L. Lasky, American film producer, co-founded Famous Players–Lasky (died 1958)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2001 – Joseph Fahnbulleh, Liberian-American sprinter</li>
-              <li>1914 – Serbian Patriarch Pavle II (died 2009)</li>
-              <li>1927 – Keith Holman, Australian rugby league player and coach (died 2011)</li>
+              <li>1956 – Anne Geddes, Australian-New Zealand photographer and fashion designer</li>
+              <li>1949 – Jim Cleamons, American basketball player and coach</li>
+              <li>1924 – Maurice Jarre, French composer and conductor (died 2009)</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1599 – Beatrice Cenci, Italian noblewoman (born 1577)</li>
-              <li>883 – Kesta Styppiotes, Byzantine general</li>
-              <li>1569 – Vincenza Armani, Italian actress (born 1530)</li>
+              <li>531 – Kavad I, Sasanian King of Kings of Iran (born 473)</li>
+              <li>1313 – Notburga, Austrian saint (born 1265)</li>
+              <li>1488 – Charles II, Duke of Bourbon (born 1434)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1846 – José Núñez de Cáceres, Dominican politician and writer, leader of the Independence movement of the Dominican Republic (born 1772)</li>
-              <li>1680 – Emperor Go-Mizunoo of Japan (born 1596)</li>
-              <li>1898 – Nikoline Harbitz, Norwegian author (born 1841)</li>
+              <li>1894 – Emmanuel Chabrier, French pianist and composer (born 1841)</li>
+              <li>1806 – Charles James Fox, English soldier and politician, Secretary of State for Foreign and Commonwealth Affairs (born 1749)</li>
+              <li>1632 – Leopold V, Archduke of Austria (born 1586)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1959 – Paul Douglas, American actor (born 1907)</li>
-              <li>2020 – Toots Hibbert, Jamaican singer and songwriter (born 1942)</li>
-              <li>1932 – Stanisław Wigura, Polish pilot and businessman, co-founded the RWD Company (born 1901)</li>
+              <li>2007 – Whakahuihui Vercoe, New Zealand archbishop (born 1928)</li>
+              <li>2015 – Erma Bergmann, American baseball player (born 1924)</li>
+              <li>2015 – Moses Malone, American basketball player and sportscaster (born 1955)</li>
             </ul>
           </div>
         </div>
