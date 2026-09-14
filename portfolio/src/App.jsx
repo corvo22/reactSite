@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>604 – Consecration of pope Sabinian following the death of pope Gregory I earlier that year.</li>
-              <li>531 – Khosrow I becomes king of the Sassanid Empire following the death of his father Kavad I. He starts negotiations with the Byzantine Empire to end the Iberian War.</li>
-              <li>1229 – Ögedei Khan is proclaimed Khagan of the Mongol Empire in Kodoe Aral, Khentii: Mongolia.</li>
+              <li>786 – "Night of the three Caliphs": Harun al-Rashid becomes the Abbasid caliph upon the death of his brother al-Hadi. Birth of Harun's son al-Ma'mun.</li>
+              <li>1146 – Seljuk atabeg Imad al-Din Zengi of Mosul is assassinated by a slave and succeeded by his quarrelling sons.</li>
+              <li>1141 – An army of queen Matilda defeats and disperses an army of empress Matilda which was besieging Winchester. Robert of Gloucester is captured and exchanged for king Stephen, husband of queen Matilda.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1848 – Vermont railroad worker Phineas Gage survives an iron rod 1+1⁄4 inches (3.2 cm) in diameter being driven through his brain; the reported effects on his behavior and personality stimulate discussion of the nature of the brain and its functions.</li>
-              <li>1788 – The Congress of the Confederation sets the date for the first presidential election in the United States, and New York City becomes the country's temporary capital.</li>
-              <li>1808 – Finnish War: In the Battle of Jutas, Swedish forces under Lieutenant General Georg Carl von Döbeln beat the Russians, making von Döbeln a Swedish war hero.</li>
+              <li>1685 – Morean War: the Battle of Kalamata ends in a Venetian victory over the forces of the Ottoman Empire under the Kapudan Pasha.</li>
+              <li>1862 – American Civil War: The Battle of South Mountain, part of the Maryland Campaign, is fought.</li>
+              <li>1846 – Jang Bahadur and his brothers massacre about 40 members of the Nepalese palace court.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2001 – Civilian aircraft traffic resumes in the United States after the September 11 attacks.</li>
-              <li>1953 – Nikita Khrushchev is appointed General Secretary of the Communist Party of the Soviet Union.</li>
-              <li>1986 – A magnitude 6.0 earthquake strikes Kalamata, Greece with a maximum Modified Mercalli intensity of X (Extreme), killing at least 20 and causing heavy damage in the city.</li>
+              <li>1984 – Joe Kittinger becomes the first person to fly a gas balloon alone across the Atlantic Ocean.</li>
+              <li>1979 – Afghan leader Nur Muhammad Taraki is assassinated upon the order of Hafizullah Amin, who becomes the new General Secretary of the People's Democratic Party.</li>
+              <li>1939 – World War II: The Estonian military boards the Polish submarine ORP Orzeł in Tallinn, sparking a diplomatic incident that the Soviet Union will later use to justify the annexation of Estonia.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>AD 64 – Julia Flavia, Roman daughter of Titus (died AD 91)</li>
-              <li>1521 – William Cecil, 1st Baron Burghley, English academic and politician, Lord High Treasurer (died 1598)</li>
-              <li>1087 – John II Komnenos, Byzantine emperor (died 1143)</li>
+              <li>1032 – Dao Zong, Chinese emperor (died 1101)</li>
+              <li>1384 – Ephraim of Nea Makri, Greek martyr and saint (died 1426)</li>
+              <li>1580 – Francisco de Quevedo, Spanish poet and politician (died 1645)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1830 – Marie von Ebner-Eschenbach, Austrian author (died 1916)</li>
-              <li>1891 – Max Pruss, German captain and pilot (died 1960)</li>
-              <li>1880 – Jesse L. Lasky, American film producer, co-founded Famous Players–Lasky (died 1958)</li>
+              <li>1656 – Thomas Baker, English historian and author (died 1746)</li>
+              <li>1898 – Lawrence Gellert, Hungarian-American musicologist and song collector (died 1979)</li>
+              <li>1880 – Benjamin, Russian bishop and missionary (died 1961)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1956 – Anne Geddes, Australian-New Zealand photographer and fashion designer</li>
-              <li>1949 – Jim Cleamons, American basketball player and coach</li>
-              <li>1924 – Maurice Jarre, French composer and conductor (died 2009)</li>
+              <li>1910 – Lehman Engel, American composer and conductor (died 1982)</li>
+              <li>1930   – Eugene I. Gordon, American physicist and engineer (died 2014)</li>
+              <li>1978 – Ben Cohen, English rugby union player</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>531 – Kavad I, Sasanian King of Kings of Iran (born 473)</li>
-              <li>1313 – Notburga, Austrian saint (born 1265)</li>
-              <li>1488 – Charles II, Duke of Bourbon (born 1434)</li>
+              <li>1321 – Dante Alighieri, Italian writer (born 1265)</li>
+              <li>1404 – Albert IV, duke of Austria (born 1377)</li>
+              <li>1146 – Imad ad-Din Zengi, Syrian ruler (born 1087)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1894 – Emmanuel Chabrier, French pianist and composer (born 1841)</li>
-              <li>1806 – Charles James Fox, English soldier and politician, Secretary of State for Foreign and Commonwealth Affairs (born 1749)</li>
-              <li>1632 – Leopold V, Archduke of Austria (born 1586)</li>
+              <li>1852   – Arthur Wellesley, 1st Duke of Wellington, Irish-English field marshal and politician, Prime Minister of the United Kingdom (born 1769)</li>
+              <li>1807 – George Townshend, 1st Marquess Townshend, English field marshal and politician, Lord Lieutenant of Ireland (born 1724)</li>
+              <li>1836 – Aaron Burr, American colonel and politician, 3rd Vice President of the United States (born 1756)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2007 – Whakahuihui Vercoe, New Zealand archbishop (born 1928)</li>
-              <li>2015 – Erma Bergmann, American baseball player (born 1924)</li>
-              <li>2015 – Moses Malone, American basketball player and sportscaster (born 1955)</li>
+              <li>2015   – Martin Kearns, English drummer (born 1977)</li>
+              <li>1982 – Christian Ferras, French violinist (born 1933)</li>
+              <li>2005   – Vladimir Volkoff, French soldier and author (born 1932)</li>
             </ul>
           </div>
         </div>
