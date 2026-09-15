@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>786 – "Night of the three Caliphs": Harun al-Rashid becomes the Abbasid caliph upon the death of his brother al-Hadi. Birth of Harun's son al-Ma'mun.</li>
-              <li>1146 – Seljuk atabeg Imad al-Din Zengi of Mosul is assassinated by a slave and succeeded by his quarrelling sons.</li>
-              <li>1141 – An army of queen Matilda defeats and disperses an army of empress Matilda which was besieging Winchester. Robert of Gloucester is captured and exchanged for king Stephen, husband of queen Matilda.</li>
+              <li>533 – The Byzantine army under Belisarius enters Carthage following their victory over the Vandals at Ad Decimum.</li>
+              <li>1556 – Departing from Vlissingen, ex-Holy Roman Emperor Charles V returns to Spain.</li>
+              <li>1530 – Appearance of the miraculous portrait of Saint Dominic in Soriano in Soriano Calabro, Calabria, Italy; commemorated as a feast day by the Roman Catholic Church 1644–1912.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1685 – Morean War: the Battle of Kalamata ends in a Venetian victory over the forces of the Ottoman Empire under the Kapudan Pasha.</li>
-              <li>1862 – American Civil War: The Battle of South Mountain, part of the Maryland Campaign, is fought.</li>
-              <li>1846 – Jang Bahadur and his brothers massacre about 40 members of the Nepalese palace court.</li>
+              <li>1816 – HMS Whiting runs aground on the Doom Bar.</li>
+              <li>1789 – The United States "Department of Foreign Affairs", established by law in July, is renamed the Department of State and given a variety of domestic duties.</li>
+              <li>1813 – Followers of the Eight Trigram Sect loyal to Lin Qing attack the Forbidden City in a failed attempt to oust the Jiaqing Emperor of the Qing dynasty.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1984 – Joe Kittinger becomes the first person to fly a gas balloon alone across the Atlantic Ocean.</li>
-              <li>1979 – Afghan leader Nur Muhammad Taraki is assassinated upon the order of Hafizullah Amin, who becomes the new General Secretary of the People's Democratic Party.</li>
-              <li>1939 – World War II: The Estonian military boards the Polish submarine ORP Orzeł in Tallinn, sparking a diplomatic incident that the Soviet Union will later use to justify the annexation of Estonia.</li>
+              <li>1966 – U.S. President Lyndon B. Johnson, responding to a sniper attack at the University of Texas at Austin, writes a letter to Congress urging the enactment of gun control legislation.</li>
+              <li>2001 – During a CART race at the Lausitzring in Germany, former Formula One driver Alex Zanardi suffers a heavy accident resulting in him losing both his legs.</li>
+              <li>1981   – The John Bull becomes the oldest operable steam locomotive in the world when the Smithsonian Institution operates it under its own power outside Washington, D.C.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1032 – Dao Zong, Chinese emperor (died 1101)</li>
-              <li>1384 – Ephraim of Nea Makri, Greek martyr and saint (died 1426)</li>
-              <li>1580 – Francisco de Quevedo, Spanish poet and politician (died 1645)</li>
+              <li>1505 – Mary of Hungary, Dutch ruler (died 1558)</li>
+              <li>1461 – Jacopo Salviati, Italian politician (died 1533)</li>
+              <li>1254 – Marco Polo, Italian merchant and explorer (died 1324)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1656 – Thomas Baker, English historian and author (died 1746)</li>
-              <li>1898 – Lawrence Gellert, Hungarian-American musicologist and song collector (died 1979)</li>
-              <li>1880 – Benjamin, Russian bishop and missionary (died 1961)</li>
+              <li>1846 – George Franklin Grant, African-American educator, dentist, and inventor (died 1910)</li>
+              <li>1894 – Chic Harley, American football player (died 1974)</li>
+              <li>1877   – Yente Serdatzky, Lithuanian-American author and playwright (died 1962)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1910 – Lehman Engel, American composer and conductor (died 1982)</li>
-              <li>1930   – Eugene I. Gordon, American physicist and engineer (died 2014)</li>
-              <li>1978 – Ben Cohen, English rugby union player</li>
+              <li>1971   – Wayne Ferreira, South African tennis player</li>
+              <li>1979   – Reece Young, New Zealand cricketer</li>
+              <li>1968 – Danny Nucci, American actor</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1321 – Dante Alighieri, Italian writer (born 1265)</li>
-              <li>1404 – Albert IV, duke of Austria (born 1377)</li>
-              <li>1146 – Imad ad-Din Zengi, Syrian ruler (born 1087)</li>
+              <li>1146 – Alan, 1st Earl of Richmond, English soldier (born 1100)</li>
+              <li>1397 – Adam Easton, English cardinal</li>
+              <li>1500 – John Morton, English cardinal and academic (born 1420)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1852   – Arthur Wellesley, 1st Duke of Wellington, Irish-English field marshal and politician, Prime Minister of the United Kingdom (born 1769)</li>
-              <li>1807 – George Townshend, 1st Marquess Townshend, English field marshal and politician, Lord Lieutenant of Ireland (born 1724)</li>
-              <li>1836 – Aaron Burr, American colonel and politician, 3rd Vice President of the United States (born 1756)</li>
+              <li>1712 – Sidney Godolphin, 1st Earl of Godolphin, English politician, Lord High Treasurer (born 1645)</li>
+              <li>1852 – Johann Karl Simon Morgenstern, German-Estonian philologist and academic (born 1770)</li>
+              <li>1883 – Joseph Plateau, Belgian physicist and academic (born 1801)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2015   – Martin Kearns, English drummer (born 1977)</li>
-              <li>1982 – Christian Ferras, French violinist (born 1933)</li>
-              <li>2005   – Vladimir Volkoff, French soldier and author (born 1932)</li>
+              <li>1993 – Pino Puglisi, Italian priest and martyr (born 1937)</li>
+              <li>2013   – Jackie Lomax, English singer-songwriter and guitarist (born 1944)</li>
+              <li>2021 – Lou Angotti, Canadian ice hockey player and coach (born 1938)</li>
             </ul>
           </div>
         </div>
