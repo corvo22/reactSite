@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>533 – The Byzantine army under Belisarius enters Carthage following their victory over the Vandals at Ad Decimum.</li>
-              <li>1556 – Departing from Vlissingen, ex-Holy Roman Emperor Charles V returns to Spain.</li>
-              <li>1530 – Appearance of the miraculous portrait of Saint Dominic in Soriano in Soriano Calabro, Calabria, Italy; commemorated as a feast day by the Roman Catholic Church 1644–1912.</li>
+              <li>1400 – Owain Glyndŵr is declared Prince of Wales by his followers.</li>
+              <li>681 – Pope Honorius I is posthumously excommunicated by the Sixth Ecumenical Council.</li>
+              <li>1410 – Ferdinand of Trastámara takes Antequera from the emirate of Granada.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1816 – HMS Whiting runs aground on the Doom Bar.</li>
-              <li>1789 – The United States "Department of Foreign Affairs", established by law in July, is renamed the Department of State and given a variety of domestic duties.</li>
-              <li>1813 – Followers of the Eight Trigram Sect loyal to Lin Qing attack the Forbidden City in a failed attempt to oust the Jiaqing Emperor of the Qing dynasty.</li>
+              <li>1880 – The Cornell Daily Sun prints its first issue in Ithaca, New York.</li>
+              <li>1620 – Pilgrims set sail for Virginia from Plymouth, England in the Mayflower.</li>
+              <li>1893 – Settlers make a land run for prime land in the Cherokee Strip in Oklahoma.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1966 – U.S. President Lyndon B. Johnson, responding to a sniper attack at the University of Texas at Austin, writes a letter to Congress urging the enactment of gun control legislation.</li>
-              <li>2001 – During a CART race at the Lausitzring in Germany, former Formula One driver Alex Zanardi suffers a heavy accident resulting in him losing both his legs.</li>
-              <li>1981   – The John Bull becomes the oldest operable steam locomotive in the world when the Smithsonian Institution operates it under its own power outside Washington, D.C.</li>
+              <li>1982 – Lebanon War: The Sabra and Shatila massacre in Lebanon takes place.</li>
+              <li>1940 – World War II: Italian troops conquer Sidi Barrani.</li>
+              <li>2005 – The Camorra organized crime boss Paolo Di Lauro is arrested in Naples, Italy.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1505 – Mary of Hungary, Dutch ruler (died 1558)</li>
-              <li>1461 – Jacopo Salviati, Italian politician (died 1533)</li>
-              <li>1254 – Marco Polo, Italian merchant and explorer (died 1324)</li>
+              <li>1541 – Walter Devereux, 1st Earl of Essex, English nobleman (died 1576)</li>
+              <li>1557 – Jacques Mauduit, French composer (died 1627)</li>
+              <li>1295 – Elizabeth de Clare, English noblewoman (died 1360)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1846 – George Franklin Grant, African-American educator, dentist, and inventor (died 1910)</li>
-              <li>1894 – Chic Harley, American football player (died 1974)</li>
-              <li>1877   – Yente Serdatzky, Lithuanian-American author and playwright (died 1962)</li>
+              <li>1716 – Angelo Maria Amorevoli, Italian tenor and actor (died 1798)</li>
+              <li>1782 – Daoguang Emperor of China (died 1850)</li>
+              <li>1897 – Milt Franklyn, American composer (died 1962)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1971   – Wayne Ferreira, South African tennis player</li>
-              <li>1979   – Reece Young, New Zealand cricketer</li>
-              <li>1968 – Danny Nucci, American actor</li>
+              <li>1989   – Braden Holtby, Canadian ice hockey player</li>
+              <li>1927   – Sadako Ogata, Japanese academic and diplomat, United Nations High Commissioner for Refugees (died 2019)</li>
+              <li>1989   – Dustin Tokarski, Canadian ice hockey player</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1146 – Alan, 1st Earl of Richmond, English soldier (born 1100)</li>
-              <li>1397 – Adam Easton, English cardinal</li>
-              <li>1500 – John Morton, English cardinal and academic (born 1420)</li>
+              <li>1226 – Pandulf Verraccio, Roman ecclesiastical politician</li>
+              <li>1360 – William de Bohun, 1st Earl of Northampton (born 1319)</li>
+              <li>1406 – Cyprian, Metropolitan of Moscow (born 1336)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1712 – Sidney Godolphin, 1st Earl of Godolphin, English politician, Lord High Treasurer (born 1645)</li>
-              <li>1852 – Johann Karl Simon Morgenstern, German-Estonian philologist and academic (born 1770)</li>
-              <li>1883 – Joseph Plateau, Belgian physicist and academic (born 1801)</li>
+              <li>1865 – Christian de Meza, Danish general (born 1792)</li>
+              <li>1843 – Ezekiel Hart, Canadian businessman and politician (born 1770)</li>
+              <li>1792 – Nguyễn Huệ, Vietnamese emperor (born 1753)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1993 – Pino Puglisi, Italian priest and martyr (born 1937)</li>
-              <li>2013   – Jackie Lomax, English singer-songwriter and guitarist (born 1944)</li>
-              <li>2021 – Lou Angotti, Canadian ice hockey player and coach (born 1938)</li>
+              <li>1940 – Charles Cochrane-Baillie, 2nd Baron Lamington, English-Scottish politician, 8th Governor of Queensland (born 1860)</li>
+              <li>2009   – Ernst Märzendorfer, Austrian conductor (born 1921)</li>
+              <li>2007 – Robert Jordan, American engineer and author (born 1948)</li>
             </ul>
           </div>
         </div>
