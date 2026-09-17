@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1400 – Owain Glyndŵr is declared Prince of Wales by his followers.</li>
-              <li>681 – Pope Honorius I is posthumously excommunicated by the Sixth Ecumenical Council.</li>
-              <li>1410 – Ferdinand of Trastámara takes Antequera from the emirate of Granada.</li>
+              <li>1111 – Highest Galician nobility led by Pedro Fróilaz de Traba and the bishop Diego Gelmírez crown Alfonso VII as "King of Galicia".</li>
+              <li>1577 – The Treaty of Bergerac is signed between King Henry III of France and the Huguenots.</li>
+              <li>1462 – Thirteen Years' War: A Polish army under Piotr Dunin decisively defeats the Teutonic Order at the Battle of Świecino.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1880 – The Cornell Daily Sun prints its first issue in Ithaca, New York.</li>
-              <li>1620 – Pilgrims set sail for Virginia from Plymouth, England in the Mayflower.</li>
-              <li>1893 – Settlers make a land run for prime land in the Cherokee Strip in Oklahoma.</li>
+              <li>1900 – Philippine–American War: Filipinos under Juan Cailles defeat Americans under Colonel Benjamin F. Cheatham Jr. at Mabitac.</li>
+              <li>1683 – Antonie van Leeuwenhoek writes a letter to the Royal Society describing "animalcules", later known as protozoa.</li>
+              <li>1778 – The Treaty of Fort Pitt is signed. It is the first formal treaty between the United States and a Native American tribe.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1982 – Lebanon War: The Sabra and Shatila massacre in Lebanon takes place.</li>
-              <li>1940 – World War II: Italian troops conquer Sidi Barrani.</li>
-              <li>2005 – The Camorra organized crime boss Paolo Di Lauro is arrested in Naples, Italy.</li>
+              <li>1974 – Bangladesh, Grenada and Guinea-Bissau join the United Nations.</li>
+              <li>1914 – Andrew Fisher becomes Prime Minister of Australia for the third time.</li>
+              <li>2001 – The New York Stock Exchange reopens for trading after the September 11 attacks, the longest closure since the Great Depression.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1541 – Walter Devereux, 1st Earl of Essex, English nobleman (died 1576)</li>
-              <li>1557 – Jacques Mauduit, French composer (died 1627)</li>
-              <li>1295 – Elizabeth de Clare, English noblewoman (died 1360)</li>
+              <li>1479 – Celio Calcagnini, Italian astronomer (died 1541)</li>
+              <li>879 – Charles the Simple, Frankish king (died 929)</li>
+              <li>1433 – James of Portugal, Portuguese prince and cardinal (died 1459)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1716 – Angelo Maria Amorevoli, Italian tenor and actor (died 1798)</li>
-              <li>1782 – Daoguang Emperor of China (died 1850)</li>
-              <li>1897 – Milt Franklyn, American composer (died 1962)</li>
+              <li>1868 – James Alexander Calder, Canadian educator and politician, Canadian Minister of Militia and Defence (died 1956)</li>
+              <li>1820 – Émile Augier, French playwright (died 1889)</li>
+              <li>1860 – Mihkel Martna, Estonian journalist and politician (died 1934)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1989   – Braden Holtby, Canadian ice hockey player</li>
-              <li>1927   – Sadako Ogata, Japanese academic and diplomat, United Nations High Commissioner for Refugees (died 2019)</li>
-              <li>1989   – Dustin Tokarski, Canadian ice hockey player</li>
+              <li>1940   – Gilberto Parlotti, Italian motorcycle racer (died 1972)</li>
+              <li>1969   – Ken Doherty, Irish snooker player</li>
+              <li>1916 – Mary Stewart, British author and poet (died 2014)</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1226 – Pandulf Verraccio, Roman ecclesiastical politician</li>
-              <li>1360 – William de Bohun, 1st Earl of Northampton (born 1319)</li>
-              <li>1406 – Cyprian, Metropolitan of Moscow (born 1336)</li>
+              <li>456 – Remistus, Roman general</li>
+              <li>958 – Li Jingsui, Chinese prince (born 920)</li>
+              <li>1025 – Hugh Magnus, king of France (born 1007)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1865 – Christian de Meza, Danish general (born 1792)</li>
-              <li>1843 – Ezekiel Hart, Canadian businessman and politician (born 1770)</li>
-              <li>1792 – Nguyễn Huệ, Vietnamese emperor (born 1753)</li>
+              <li>1879 – Eugène Viollet-le-Duc, French architect and theorist (born 1814)</li>
+              <li>1877 – Henry Fox Talbot, English photographer, developed the Calotype Process (born 1800)</li>
+              <li>1665 – Philip IV, king of Spain (born 1605)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1940 – Charles Cochrane-Baillie, 2nd Baron Lamington, English-Scottish politician, 8th Governor of Queensland (born 1860)</li>
-              <li>2009   – Ernst Märzendorfer, Austrian conductor (born 1921)</li>
-              <li>2007 – Robert Jordan, American engineer and author (born 1948)</li>
+              <li>2012 – Melvin Charney, Canadian sculptor and architect (born 1935)</li>
+              <li>2013   – Marvin Rainwater, American singer-songwriter (born 1925)</li>
+              <li>1943 – Friedrich Zickwolff, German general (born 1893)</li>
             </ul>
           </div>
         </div>
