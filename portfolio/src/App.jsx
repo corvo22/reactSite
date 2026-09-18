@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1111 – Highest Galician nobility led by Pedro Fróilaz de Traba and the bishop Diego Gelmírez crown Alfonso VII as "King of Galicia".</li>
-              <li>1577 – The Treaty of Bergerac is signed between King Henry III of France and the Huguenots.</li>
-              <li>1462 – Thirteen Years' War: A Polish army under Piotr Dunin decisively defeats the Teutonic Order at the Battle of Świecino.</li>
+              <li>1066 – Norwegian king Harald Hardrada lands with Tostig Godwinson at the mouth of the Humber River and begins his invasion of England.</li>
+              <li>96 – Emperor Domitian is assassinated as a result of a plot by his wife Domitia and two Praetorian prefects. Nerva is then proclaimed as his successor.</li>
+              <li>1544 – The expedition of Juan Bautista Pastene makes landfall in San Pedro Bay, southern Chile, claiming the territory for Spain.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1900 – Philippine–American War: Filipinos under Juan Cailles defeat Americans under Colonel Benjamin F. Cheatham Jr. at Mabitac.</li>
-              <li>1683 – Antonie van Leeuwenhoek writes a letter to the Royal Society describing "animalcules", later known as protozoa.</li>
-              <li>1778 – The Treaty of Fort Pitt is signed. It is the first formal treaty between the United States and a Native American tribe.</li>
+              <li>1850 – The U.S. Congress passes the Fugitive Slave Act of 1850.</li>
+              <li>1873 – The U.S. bank Jay Cooke & Company declares bankruptcy, contributing to the Panic of 1873.</li>
+              <li>1897 – Veal Oscar, a dish of veal, seafood, asparagus, and Bernaise sauce, is first served at the  Grand Hotel in Stockholm, in honour of the 25th anniversary of the reign of King Oscar II of Sweden and Norway.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1974 – Bangladesh, Grenada and Guinea-Bissau join the United Nations.</li>
-              <li>1914 – Andrew Fisher becomes Prime Minister of Australia for the third time.</li>
-              <li>2001 – The New York Stock Exchange reopens for trading after the September 11 attacks, the longest closure since the Great Depression.</li>
+              <li>1988   – The Magna Charta Universitatum, asserting key principles essential to the free operation of universities, is signed in Bologna by the rectors of 388 institutions of higher learning, to commemorate the 900th anniversary of the University of Bologna.</li>
+              <li>1974 – Hurricane Fifi strikes Honduras with 110 mph winds, killing 5,000 people.</li>
+              <li>1934 – The Soviet Union is admitted to the League of Nations.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1479 – Celio Calcagnini, Italian astronomer (died 1541)</li>
-              <li>879 – Charles the Simple, Frankish king (died 929)</li>
-              <li>1433 – James of Portugal, Portuguese prince and cardinal (died 1459)</li>
+              <li>1554 – Haydar Mirza Safavi, Safavid prince (died 1576)</li>
+              <li>1091 – Andronikos Komnenos, Byzantine prince and general (died 1130/31)</li>
+              <li>1344 – Marie of France, Duchess of Bar (died 1404)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1868 – James Alexander Calder, Canadian educator and politician, Canadian Minister of Militia and Defence (died 1956)</li>
-              <li>1820 – Émile Augier, French playwright (died 1889)</li>
-              <li>1860 – Mihkel Martna, Estonian journalist and politician (died 1934)</li>
+              <li>1894 – Fay Compton, English actress (died 1978)</li>
+              <li>1886 – Powel Crosley Jr., American entrepreneur (died 1961)</li>
+              <li>1857 – John Hessin Clarke, American lawyer and judge (died 1945)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1940   – Gilberto Parlotti, Italian motorcycle racer (died 1972)</li>
-              <li>1969   – Ken Doherty, Irish snooker player</li>
-              <li>1916 – Mary Stewart, British author and poet (died 2014)</li>
+              <li>1997 – Viktor Hovland, Norwegian professional golfer</li>
+              <li>1916   – John Jacob Rhodes, American lawyer and politician (died 2003)</li>
+              <li>1924 – J. D. Tippit, American police officer (died 1963)</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>456 – Remistus, Roman general</li>
-              <li>958 – Li Jingsui, Chinese prince (born 920)</li>
-              <li>1025 – Hugh Magnus, king of France (born 1007)</li>
+              <li>1180 – Louis VII, king of France (born 1120)</li>
+              <li>893 – Zhang Xiong, Chinese warlord</li>
+              <li>1385 – Balša II, ruler of Zeta</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1879 – Eugène Viollet-le-Duc, French architect and theorist (born 1814)</li>
-              <li>1877 – Henry Fox Talbot, English photographer, developed the Calotype Process (born 1800)</li>
-              <li>1665 – Philip IV, king of Spain (born 1605)</li>
+              <li>1783   – Benjamin Kennicott, English theologian and scholar (born 1718)</li>
+              <li>1857 – Karol Kurpiński, Polish composer and conductor (born 1785)</li>
+              <li>1783 – Leonhard Euler, Swiss mathematician and physicist (born 1707)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2012 – Melvin Charney, Canadian sculptor and architect (born 1935)</li>
-              <li>2013   – Marvin Rainwater, American singer-songwriter (born 1925)</li>
-              <li>1943 – Friedrich Zickwolff, German general (born 1893)</li>
+              <li>2007 – Pepsi Tate, Welsh bass player and producer (born 1965)</li>
+              <li>1958 – Olaf Gulbransson, Norwegian painter and illustrator (born 1873)</li>
+              <li>1945 – Volin, Russian anarchist intellectual (born 1882)</li>
             </ul>
           </div>
         </div>
