@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1066 – Norwegian king Harald Hardrada lands with Tostig Godwinson at the mouth of the Humber River and begins his invasion of England.</li>
-              <li>96 – Emperor Domitian is assassinated as a result of a plot by his wife Domitia and two Praetorian prefects. Nerva is then proclaimed as his successor.</li>
-              <li>1544 – The expedition of Juan Bautista Pastene makes landfall in San Pedro Bay, southern Chile, claiming the territory for Spain.</li>
+              <li>634 – Siege of Damascus: The Rashidun Arabs under Khalid ibn al-Walid capture Damascus from the Byzantine Empire.</li>
+              <li>1356 – Battle of Poitiers: An English army under the command of Edward the Black Prince defeats a French army and captures King John II.</li>
+              <li>1410 – End of the Siege of Marienburg: The State of the Teutonic Order repulses the joint Polish—Lithuanian forces.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1850 – The U.S. Congress passes the Fugitive Slave Act of 1850.</li>
-              <li>1873 – The U.S. bank Jay Cooke & Company declares bankruptcy, contributing to the Panic of 1873.</li>
-              <li>1897 – Veal Oscar, a dish of veal, seafood, asparagus, and Bernaise sauce, is first served at the  Grand Hotel in Stockholm, in honour of the 25th anniversary of the reign of King Oscar II of Sweden and Norway.</li>
+              <li>1893 – In New Zealand, the Electoral Act of 1893 is consented to by the governor, giving all women in New Zealand the right to vote.</li>
+              <li>1870 – Franco-Prussian War: The siege of Paris begins. The city held out for over four months before surrendering.</li>
+              <li>1863 – American Civil War: The first day of the Battle of Chickamauga, in northwestern Georgia, the bloodiest two-day battle of the conflict, and the only significant Confederate victory in the war's Western Theater.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1988   – The Magna Charta Universitatum, asserting key principles essential to the free operation of universities, is signed in Bologna by the rectors of 388 institutions of higher learning, to commemorate the 900th anniversary of the University of Bologna.</li>
-              <li>1974 – Hurricane Fifi strikes Honduras with 110 mph winds, killing 5,000 people.</li>
-              <li>1934 – The Soviet Union is admitted to the League of Nations.</li>
+              <li>1950 – Korean War: An attack by North Korean forces was repelled at the Battle of Nam River.</li>
+              <li>1970 – Michael Eavis hosts the first Glastonbury Festival.</li>
+              <li>1976   – Two Imperial Iranian Air Force F-4 Phantom II jets fly out to investigate an unidentified flying object.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1554 – Haydar Mirza Safavi, Safavid prince (died 1576)</li>
-              <li>1091 – Andronikos Komnenos, Byzantine prince and general (died 1130/31)</li>
-              <li>1344 – Marie of France, Duchess of Bar (died 1404)</li>
+              <li>1377 – Albert IV, Duke of Austria (died 1404)[citation needed]</li>
+              <li>931 – Mu Zong, emperor of the Liao Dynasty (died 969)</li>
+              <li>1477 – Ferrante d'Este, Ferrarese nobleman and condottiero (died 1540)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1894 – Fay Compton, English actress (died 1978)</li>
-              <li>1886 – Powel Crosley Jr., American entrepreneur (died 1961)</li>
-              <li>1857 – John Hessin Clarke, American lawyer and judge (died 1945)</li>
+              <li>1867 – Arthur Rackham, English illustrator (died 1939)</li>
+              <li>1882 – Christopher Stone, English radio host (died 1965)</li>
+              <li>1898 – Giuseppe Saragat, Italian lawyer and politician, 5th President of Italy (died 1988)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1997 – Viktor Hovland, Norwegian professional golfer</li>
-              <li>1916   – John Jacob Rhodes, American lawyer and politician (died 2003)</li>
-              <li>1924 – J. D. Tippit, American police officer (died 1963)</li>
+              <li>1949   – Barry Scheck, American lawyer, co-founded the Innocence Project</li>
+              <li>1936 – Martin Fay, Irish fiddler (died 2012)</li>
+              <li>1996   – Chris Silva, Gabonese basketball player</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1180 – Louis VII, king of France (born 1120)</li>
-              <li>893 – Zhang Xiong, Chinese warlord</li>
-              <li>1385 – Balša II, ruler of Zeta</li>
+              <li>1589 – Jean-Antoine de Baïf, French poet (born 1532)</li>
+              <li>643 – Goeric of Metz, Frankish bishop and saint</li>
+              <li>1339 – Emperor Go-Daigo of Japan (born 1288)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1783   – Benjamin Kennicott, English theologian and scholar (born 1718)</li>
-              <li>1857 – Karol Kurpiński, Polish composer and conductor (born 1785)</li>
-              <li>1783 – Leonhard Euler, Swiss mathematician and physicist (born 1707)</li>
+              <li>1843 – Gaspard-Gustave de Coriolis, French mathematician,  physicist, and engineer (born 1792)</li>
+              <li>1692 – Giles Corey, American farmer and accused wizard (born c. 1612)</li>
+              <li>1881 – James A. Garfield, American general, lawyer, and politician, and the 20th President of the United States (born 1831)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2007 – Pepsi Tate, Welsh bass player and producer (born 1965)</li>
-              <li>1958 – Olaf Gulbransson, Norwegian painter and illustrator (born 1873)</li>
-              <li>1945 – Volin, Russian anarchist intellectual (born 1882)</li>
+              <li>2017 – Leonid Kharitonov, Russian bass-baritone (born 1933)</li>
+              <li>2009 – Milton Meltzer, American historian and author (born 1915)</li>
+              <li>1975 – Pamela Brown, English actress (born 1917)</li>
             </ul>
           </div>
         </div>
