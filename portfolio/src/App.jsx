@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1519 – Ferdinand Magellan sets sail from Sanlúcar de Barrameda with about 270 men on his expedition which ultimately culminates in the first circumnavigation of the globe.</li>
-              <li>1066 – At the Battle of Fulford, Harald Hardrada defeats earls Morcar and Edwin.</li>
-              <li>1586 – A number of conspirators in the Babington Plot are hanged, drawn and quartered.</li>
+              <li>454 – Western Roman Emperor Valentinian III murders his general Flavius Aetius on instigation of eunuch Heraclius and senator Petronius Maximus.</li>
+              <li>1435 – The Treaty of Arras is promulgated, causing Burgundy to switch sides in the Hundred Years' War.</li>
+              <li>455 – Emperor Avitus enters Italy with a Gallic army and consolidates his power.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1870 – The Bersaglieri corps enter Rome through the Porta Pia, and complete the unification of Italy.</li>
-              <li>1860 – The future King Edward VII of the United Kingdom begins the first visit to North America by a Prince of Wales.</li>
-              <li>1863 – American Civil War: The Battle of Chickamauga, in northwestern Georgia, ends in a Confederate victory.</li>
+              <li>1896 – Anglo-Egyptian conquest of Sudan: British forces under the command of Horatio Kitchener take Dongola.</li>
+              <li>1780 – American Revolutionary War: Benedict Arnold gives the British the plans to West Point.</li>
+              <li>1860 – Second Opium War: An Anglo-French force defeats Chinese troops at the Battle of Palikao.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2000 – The United Kingdom's MI6 Secret Intelligence Service building is attacked by individuals using a Russian-built RPG-22 anti-tank missile.</li>
-              <li>1954 – The Moomin comics, created by Tove Jansson and Lars Jansson, is published internationally in the London newspaper The Evening News.</li>
-              <li>2011 – The United States military ends its "don't ask, don't tell" policy, allowing gay men and women to serve openly for the first time.</li>
+              <li>1938 – The Great Hurricane of 1938 makes landfall on Long Island in New York. The death toll is estimated at 500–700 people.</li>
+              <li>1977 – Malév Flight 203 crashes near Urziceni, killing 29 people.</li>
+              <li>1972 – Philippine president Ferdinand Marcos begins authoritarian rule by declaring martial law.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1504 – Philip III, Count of Nassau-Weilburg (died 1559)</li>
-              <li>1449 – Philipp I, Count of Hanau-Münzenberg (died 1500)</li>
-              <li>1593 – Gottfried Scheidt, German organist and composer (died 1661)</li>
+              <li>1411 – Richard of York, 3rd Duke of York, English politician, Lord Protector of England (died 1460)</li>
+              <li>1559 – Cigoli, Italian painter and architect (died 1613)</li>
+              <li>580 – Pope Vitalian (died 672)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1895 – Walter Dubislav, German logician and philosopher of science (died 1937)</li>
-              <li>1819 – Frederick Ellsworth Sickels, American inventor (died 1895)</li>
-              <li>1851 – Henry Arthur Jones, English playwright and critic (died 1929)</li>
+              <li>1866   – H. G. Wells, English novelist, historian, and critic (died 1946)</li>
+              <li>1893 – Erna Scheffler, German lawyer and justice of the Federal Constitutional Court (died 1983)</li>
+              <li>1878 – Peter McWilliam, Scottish-English footballer and manager (died 1951)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1928 – Alberto de Lacerda, Mozambican-Portuguese poet and radio host (died 2007)</li>
-              <li>1973   – Jo Pavey, English runner</li>
-              <li>1983   – Ángel Sánchez, Puerto Rican baseball player</li>
+              <li>1902 – Luis Cernuda, Spanish poet and critic (died 1963)</li>
+              <li>1947   – Rupert Hine, English musician, songwriter, and record producer (died 2020)</li>
+              <li>1972   – Liam Gallagher, English singer-songwriter</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1533 – Veit Stoss, German sculptor (born c. 1447)</li>
-              <li>1440 – Frederick I, Elector of Brandenburg (born 1371)</li>
-              <li>1460 – Gilles Binchois, Flemish composer (born 1400)</li>
+              <li>1397 – Richard FitzAlan, 11th Earl of Arundel, English admiral (born 1346)</li>
+              <li>1026 – Otto-William, Count of Burgundy</li>
+              <li>1586 – Antoine Perrenot de Granvelle, French cardinal and diplomat (born 1517)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1815 – Nicolas Desmarest, French geologist and scholar (born 1725)</li>
-              <li>1639 – Johannes Meursius, Dutch historian and scholar (born 1579)</li>
-              <li>1839 – Sir Thomas Hardy, 1st Baronet, English admiral (born 1769)</li>
+              <li>1812 – Emanuel Schikaneder, German actor and playwright (born 1751)</li>
+              <li>1748 – John Balguy, English philosopher and author (born 1686)</li>
+              <li>1643 – Emperor Hong Taiji of China (born 1592)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1971 – Giorgos Seferis, Greek poet and diplomat, Nobel Prize laureate (born 1900)</li>
-              <li>1979 – Ludvík Svoboda, Czech general and politician, 8th President of Czechoslovakia (born 1895)</li>
-              <li>1999 – Robert Lebel, Canadian businessman (born 1905)</li>
+              <li>1982 – Ivan Bagramyan, Russian general (born 1897)</li>
+              <li>1983   – Xavier Zubiri, Basque philosopher (born 1898)</li>
+              <li>2006 – Tasos Athanasiadis, Greek author (born 1913)</li>
             </ul>
           </div>
         </div>
