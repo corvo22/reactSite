@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>454 – Western Roman Emperor Valentinian III murders his general Flavius Aetius on instigation of eunuch Heraclius and senator Petronius Maximus.</li>
-              <li>1435 – The Treaty of Arras is promulgated, causing Burgundy to switch sides in the Hundred Years' War.</li>
-              <li>455 – Emperor Avitus enters Italy with a Gallic army and consolidates his power.</li>
+              <li>1122 – Pope Callixtus II and Holy Roman Emperor Henry V agree to the Concordat of Worms to put an end to the Investiture Controversy.</li>
+              <li>1561 – King Philip II of Spain issues cedula, ordering a halt to colonizing efforts in Florida.</li>
+              <li>1338 – The Battle of Arnemuiden, in which a French force defeats the English, is the first naval battle of the Hundred Years' War and the first naval battle in which gunpowder artillery is used.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1896 – Anglo-Egyptian conquest of Sudan: British forces under the command of Horatio Kitchener take Dongola.</li>
-              <li>1780 – American Revolutionary War: Benedict Arnold gives the British the plans to West Point.</li>
-              <li>1860 – Second Opium War: An Anglo-French force defeats Chinese troops at the Battle of Palikao.</li>
+              <li>1879 – The Macedo-Romanian Cultural Society is founded.</li>
+              <li>1846 – Astronomers Urbain Le Verrier, John Couch Adams and Johann Gottfried Galle collaborate on the discovery of Neptune.</li>
+              <li>1884 – On the night of 23–24 September, the steamship Arctique runs aground near Cape Virgenes leading to the discovery of nearby placer gold, beginning the Tierra del Fuego gold rush.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1938 – The Great Hurricane of 1938 makes landfall on Long Island in New York. The death toll is estimated at 500–700 people.</li>
-              <li>1977 – Malév Flight 203 crashes near Urziceni, killing 29 people.</li>
-              <li>1972 – Philippine president Ferdinand Marcos begins authoritarian rule by declaring martial law.</li>
+              <li>1947 – A magnitude 6.9 earthquake strikes South Khorasan in Iran, killing over 500 people.</li>
+              <li>1961 – U.S. President John F. Kennedy nominates African American civil rights lawyer Thurgood Marshall to the Court of Appeals for the Second Circuit, although pro-segregation Southern senators manage to delay his confirmation until September 11, 1962.</li>
+              <li>1999 – Qantas Flight 1 overruns a runway in Bangkok during a storm, causing minor injuries to some passengers.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1411 – Richard of York, 3rd Duke of York, English politician, Lord Protector of England (died 1460)</li>
-              <li>1559 – Cigoli, Italian painter and architect (died 1613)</li>
-              <li>580 – Pope Vitalian (died 672)</li>
+              <li>1158 – Geoffrey II, Duke of Brittany (died 1186)</li>
+              <li>63 BC – Augustus, Roman emperor (died 14 AD)</li>
+              <li>1495 – Bagrat III of Imereti, King of Imereti (died 1565)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1866   – H. G. Wells, English novelist, historian, and critic (died 1946)</li>
-              <li>1893 – Erna Scheffler, German lawyer and justice of the Federal Constitutional Court (died 1983)</li>
-              <li>1878 – Peter McWilliam, Scottish-English footballer and manager (died 1951)</li>
+              <li>1865 – Pekka Halonen, Finnish painter (died 1933)</li>
+              <li>1852   – William Stewart Halsted, American physician and surgeon (died 1922)</li>
+              <li>1900 – Bill Stone, English soldier (died 2009)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1902 – Luis Cernuda, Spanish poet and critic (died 1963)</li>
-              <li>1947   – Rupert Hine, English musician, songwriter, and record producer (died 2020)</li>
-              <li>1972   – Liam Gallagher, English singer-songwriter</li>
+              <li>1947   – Neal Smith, American drummer and songwriter</li>
+              <li>1970   – Ani DiFranco, American singer-songwriter and guitarist</li>
+              <li>1971   – Eric Montross, American basketball player and sportscaster (died 2023)</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1397 – Richard FitzAlan, 11th Earl of Arundel, English admiral (born 1346)</li>
-              <li>1026 – Otto-William, Count of Burgundy</li>
-              <li>1586 – Antoine Perrenot de Granvelle, French cardinal and diplomat (born 1517)</li>
+              <li>1390 – John I, Duke of Lorraine (born 1346)</li>
+              <li>1535 – Catherine of Saxe-Lauenburg (born 1513)</li>
+              <li>1461 – Charles, Prince of Viana, King of Navarre (born 1421)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1812 – Emanuel Schikaneder, German actor and playwright (born 1751)</li>
-              <li>1748 – John Balguy, English philosopher and author (born 1686)</li>
-              <li>1643 – Emperor Hong Taiji of China (born 1592)</li>
+              <li>1789 – John Rogers, American lawyer and politician (born 1723)</li>
+              <li>1764 – Robert Dodsley, English poet and playwright (born 1703)</li>
+              <li>1728 – Christian Thomasius, German jurist and philosopher (born 1655)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1982 – Ivan Bagramyan, Russian general (born 1897)</li>
-              <li>1983   – Xavier Zubiri, Basque philosopher (born 1898)</li>
-              <li>2006 – Tasos Athanasiadis, Greek author (born 1913)</li>
+              <li>2018   – Jane Fortune, American author, journalist, and philanthropist (born 1942)</li>
+              <li>2018 – Charles Kuen Kao, Hong Kong-American-British electrical engineer and physicist (born 1933)</li>
+              <li>2012 – Henry Champ, Canadian journalist and academic (born 1937)</li>
             </ul>
           </div>
         </div>
