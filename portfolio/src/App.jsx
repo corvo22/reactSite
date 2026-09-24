@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1122 – Pope Callixtus II and Holy Roman Emperor Henry V agree to the Concordat of Worms to put an end to the Investiture Controversy.</li>
-              <li>1561 – King Philip II of Spain issues cedula, ordering a halt to colonizing efforts in Florida.</li>
-              <li>1338 – The Battle of Arnemuiden, in which a French force defeats the English, is the first naval battle of the Hundred Years' War and the first naval battle in which gunpowder artillery is used.</li>
+              <li>867 – Byzantine emperor Michael III is murdered in his chamber by his junior emperor Basil I.</li>
+              <li>1568 – Spanish naval forces defeat an English fleet, under the command of John Hawkins, at the Battle of San Juan de Ulúa near Veracruz.</li>
+              <li>787 – The Second Council of Nicaea begins at the Church of Holy Wisdom in the city of Nicaea in Bithynia.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1879 – The Macedo-Romanian Cultural Society is founded.</li>
-              <li>1846 – Astronomers Urbain Le Verrier, John Couch Adams and Johann Gottfried Galle collaborate on the discovery of Neptune.</li>
-              <li>1884 – On the night of 23–24 September, the steamship Arctique runs aground near Cape Virgenes leading to the discovery of nearby placer gold, beginning the Tierra del Fuego gold rush.</li>
+              <li>1869 – Black Friday (1869): Gold prices plummet after United States President Ulysses S. Grant orders the Treasury to sell large quantities of gold after Jay Gould and James Fisk plot to control the market.</li>
+              <li>1890 – The Church of Jesus Christ of Latter-day Saints officially renounces polygamy.</li>
+              <li>1789 – The United States Congress passes the Judiciary Act, creating the office of the Attorney General and federal judiciary system and ordering the composition of the Supreme Court.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1947 – A magnitude 6.9 earthquake strikes South Khorasan in Iran, killing over 500 people.</li>
-              <li>1961 – U.S. President John F. Kennedy nominates African American civil rights lawyer Thurgood Marshall to the Court of Appeals for the Second Circuit, although pro-segregation Southern senators manage to delay his confirmation until September 11, 1962.</li>
-              <li>1999 – Qantas Flight 1 overruns a runway in Bangkok during a storm, causing minor injuries to some passengers.</li>
+              <li>1911 – His Majesty's Airship No. 1, Britain's first rigid airship, is wrecked by strong winds before her maiden flight at Barrow-in-Furness.</li>
+              <li>2005 – Hurricane Rita makes landfall in the United States, devastating portions of southwestern Louisiana and extreme southeastern Texas.</li>
+              <li>2023 – NASA's OSIRIS-REx capsule containing samples from the asteroid 101955 Bennu successfully lands back on Earth.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1158 – Geoffrey II, Duke of Brittany (died 1186)</li>
-              <li>63 BC – Augustus, Roman emperor (died 14 AD)</li>
-              <li>1495 – Bagrat III of Imereti, King of Imereti (died 1565)</li>
+              <li>936 – 'Adud al-Dawla, Buyid king (died 983)</li>
+              <li>1501 – Gerolamo Cardano, Italian mathematician, physician, and astrologer (died 1576)</li>
+              <li>1473 – Georg von Frundsberg, German Knight and landowner (died 1528)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1865 – Pekka Halonen, Finnish painter (died 1933)</li>
-              <li>1852   – William Stewart Halsted, American physician and surgeon (died 1922)</li>
-              <li>1900 – Bill Stone, English soldier (died 2009)</li>
+              <li>1884 – Gustave Garrigou, French cyclist (died 1963)</li>
+              <li>1667 – Jean-Louis Lully, French composer (died 1688)</li>
+              <li>1861 – Bhikaiji Cama, Indian activist (died 1936)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1947   – Neal Smith, American drummer and songwriter</li>
-              <li>1970   – Ani DiFranco, American singer-songwriter and guitarist</li>
-              <li>1971   – Eric Montross, American basketball player and sportscaster (died 2023)</li>
+              <li>1958 – Kevin Sorbo, American actor and producer</li>
+              <li>1971 – Mike Michalowicz, American businessman and author</li>
+              <li>1922 – Ettore Bastianini, Italian actor and singer (died 1967)</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1390 – John I, Duke of Lorraine (born 1346)</li>
-              <li>1535 – Catherine of Saxe-Lauenburg (born 1513)</li>
-              <li>1461 – Charles, Prince of Viana, King of Navarre (born 1421)</li>
+              <li>366 – Pope Liberius</li>
+              <li>1143 – Pope Innocent II</li>
+              <li>1572 – Túpac Amaru, last of the Incas</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1789 – John Rogers, American lawyer and politician (born 1723)</li>
-              <li>1764 – Robert Dodsley, English poet and playwright (born 1703)</li>
-              <li>1728 – Christian Thomasius, German jurist and philosopher (born 1655)</li>
+              <li>1863 – William Debenham, English businessman, founded Debenhams (born 1794)</li>
+              <li>1896 – Louis Gerhard De Geer, Swedish lawyer and politician, 1st Prime Minister of Sweden (born 1818)</li>
+              <li>1732 – Emperor Reigen of Japan (born 1654)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2018   – Jane Fortune, American author, journalist, and philanthropist (born 1942)</li>
-              <li>2018 – Charles Kuen Kao, Hong Kong-American-British electrical engineer and physicist (born 1933)</li>
-              <li>2012 – Henry Champ, Canadian journalist and academic (born 1937)</li>
+              <li>1976 – Philip Gbeho, Ghanaian composer and educator (born 1904)</li>
+              <li>2015 – Alan Moore, Australian painter and educator (born 1914)</li>
+              <li>2016 – Mel Charles, Welsh footballer (born 1935)</li>
             </ul>
           </div>
         </div>
