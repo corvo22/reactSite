@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>867 – Byzantine emperor Michael III is murdered in his chamber by his junior emperor Basil I.</li>
-              <li>1568 – Spanish naval forces defeat an English fleet, under the command of John Hawkins, at the Battle of San Juan de Ulúa near Veracruz.</li>
-              <li>787 – The Second Council of Nicaea begins at the Church of Holy Wisdom in the city of Nicaea in Bithynia.</li>
+              <li>762 – Led by Muhammad al-Nafs al-Zakiyya, the Hasanid branch of the Alids begins the Alid Revolt against the Abbasid Caliphate.</li>
+              <li>1555 – The Peace of Augsburg is signed by Emperor Charles V and the princes of the Schmalkaldic League.</li>
+              <li>867 – Basil I is crowned Byzantine emperor in the Hagia Sophia after he murdered the previous emperor Michael III in the night before.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1869 – Black Friday (1869): Gold prices plummet after United States President Ulysses S. Grant orders the Treasury to sell large quantities of gold after Jay Gould and James Fisk plot to control the market.</li>
-              <li>1890 – The Church of Jesus Christ of Latter-day Saints officially renounces polygamy.</li>
-              <li>1789 – The United States Congress passes the Judiciary Act, creating the office of the Attorney General and federal judiciary system and ordering the composition of the Supreme Court.</li>
+              <li>1804 – The Teton Sioux (a subdivision of the Lakota) demand one of the boats from the Lewis and Clark Expedition as a toll for allowing the expedition to move further upriver.</li>
+              <li>1786 – The mine of Huancavelica in the Peruvian Andes collapses, killing more than hundred people. The event was a major setback for quicksilver production in the Spanish Empire.</li>
+              <li>1768 – Unification of Nepal</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1911 – His Majesty's Airship No. 1, Britain's first rigid airship, is wrecked by strong winds before her maiden flight at Barrow-in-Furness.</li>
-              <li>2005 – Hurricane Rita makes landfall in the United States, devastating portions of southwestern Louisiana and extreme southeastern Texas.</li>
-              <li>2023 – NASA's OSIRIS-REx capsule containing samples from the asteroid 101955 Bennu successfully lands back on Earth.</li>
+              <li>1956 – TAT-1, the first submarine transatlantic telephone cable system, is inaugurated.</li>
+              <li>1978 – PSA Flight 182, a Boeing 727, collides in mid-air with a Cessna 172 and crashes in San Diego, killing all 135 aboard Flight 182, both occupants of the Cessna, as well as seven people on the ground.</li>
+              <li>1906 – Leonardo Torres Quevedo demonstrates the Telekino in the Bilbao Abra (Spain), guiding an electric boat from the shore with people on board, which was controlled at a distance over 2 km (1.2 mi), in what is considered to be the origin of modern wireless remote-control operation principles.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>936 – 'Adud al-Dawla, Buyid king (died 983)</li>
-              <li>1501 – Gerolamo Cardano, Italian mathematician, physician, and astrologer (died 1576)</li>
-              <li>1473 – Georg von Frundsberg, German Knight and landowner (died 1528)</li>
+              <li>1599 – Francesco Borromini, Swiss-Italian architect, designed the San Carlo alle Quattro Fontane and Sant'Agnese in Agone (died 1667)</li>
+              <li>1403 – Louis III of Anjou (died 1434)</li>
+              <li>1528 – Otto II, Duke of Brunswick-Harburg (died 1603)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1884 – Gustave Garrigou, French cyclist (died 1963)</li>
-              <li>1667 – Jean-Louis Lully, French composer (died 1688)</li>
-              <li>1861 – Bhikaiji Cama, Indian activist (died 1936)</li>
+              <li>1773 – Agostino Bassi, Italian entomologist and author (died 1856)</li>
+              <li>1877 – Plutarco Elías Calles, Mexican general and President (died 1945)</li>
+              <li>1644 – Ole Rømer, Danish astronomer and instrument maker (died 1710)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1958 – Kevin Sorbo, American actor and producer</li>
-              <li>1971 – Mike Michalowicz, American businessman and author</li>
-              <li>1922 – Ettore Bastianini, Italian actor and singer (died 1967)</li>
+              <li>1950 – E. C. Coleman, American basketball player</li>
+              <li>1939   – David S. Mann, American lawyer and politician, Mayor of Cincinnati</li>
+              <li>1969   – Catherine Zeta-Jones, Welsh actress</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>366 – Pope Liberius</li>
-              <li>1143 – Pope Innocent II</li>
-              <li>1572 – Túpac Amaru, last of the Incas</li>
+              <li>1536 – Johannes Secundus, Dutch author and poet (born 1511)</li>
+              <li>1066   – Maria Haraldsdotter, Norwegian princess</li>
+              <li>1066   – Tostig Godwinson, English son of Godwin, Earl of Wessex (born c. 1029)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1863 – William Debenham, English businessman, founded Debenhams (born 1794)</li>
-              <li>1896 – Louis Gerhard De Geer, Swedish lawyer and politician, 1st Prime Minister of Sweden (born 1818)</li>
-              <li>1732 – Emperor Reigen of Japan (born 1654)</li>
+              <li>1867 – Oliver Loving, American rancher, co-developed the Goodnight–Loving Trail (born 1812)</li>
+              <li>1665 – Archduchess Maria Anna of Austria (born 1610)</li>
+              <li>1900 – Félix-Gabriel Marchand, Canadian journalist and politician, 11th Premier of Québec (born 1832)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1976 – Philip Gbeho, Ghanaian composer and educator (born 1904)</li>
-              <li>2015 – Alan Moore, Australian painter and educator (born 1914)</li>
-              <li>2016 – Mel Charles, Welsh footballer (born 1935)</li>
+              <li>2007    – André Emmerich, German-American art dealer (born 1924)</li>
+              <li>2003   – Herb Gardner, American director, producer, and screenwriter (born 1934)</li>
+              <li>2005   – George Archer, American golfer (born 1939)</li>
             </ul>
           </div>
         </div>
