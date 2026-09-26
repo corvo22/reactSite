@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>762 – Led by Muhammad al-Nafs al-Zakiyya, the Hasanid branch of the Alids begins the Alid Revolt against the Abbasid Caliphate.</li>
-              <li>1555 – The Peace of Augsburg is signed by Emperor Charles V and the princes of the Schmalkaldic League.</li>
-              <li>867 – Basil I is crowned Byzantine emperor in the Hagia Sophia after he murdered the previous emperor Michael III in the night before.</li>
+              <li>1345 – Friso-Hollandic Wars: Frisians defeat Holland in the Battle of Warns.</li>
+              <li>1087 – William II is crowned King of England, and reigns until 1100.</li>
+              <li>715 – Ragenfrid defeats Theudoald at the Battle of Compiègne.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1804 – The Teton Sioux (a subdivision of the Lakota) demand one of the boats from the Lewis and Clark Expedition as a toll for allowing the expedition to move further upriver.</li>
-              <li>1786 – The mine of Huancavelica in the Peruvian Andes collapses, killing more than hundred people. The event was a major setback for quicksilver production in the Spanish Empire.</li>
-              <li>1768 – Unification of Nepal</li>
+              <li>1688 – The city council of Amsterdam votes to support William of Orange's invasion of England, which became the Glorious Revolution.</li>
+              <li>1777 – American Revolutionary War: British troops capture and begin the occupation of Philadelphia, which had been serving as the American capital city, during the Philadelphia campaign.</li>
+              <li>1810 – A new Act of Succession is adopted by the Riksdag of the Estates, and Jean Baptiste Bernadotte becomes heir to the Swedish throne.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1956 – TAT-1, the first submarine transatlantic telephone cable system, is inaugurated.</li>
-              <li>1978 – PSA Flight 182, a Boeing 727, collides in mid-air with a Cessna 172 and crashes in San Diego, killing all 135 aboard Flight 182, both occupants of the Cessna, as well as seven people on the ground.</li>
-              <li>1906 – Leonardo Torres Quevedo demonstrates the Telekino in the Bilbao Abra (Spain), guiding an electric boat from the shore with people on board, which was controlled at a distance over 2 km (1.2 mi), in what is considered to be the origin of modern wireless remote-control operation principles.</li>
+              <li>1907 – Four months after the 1907 Imperial Conference, New Zealand and Newfoundland are promoted from colonies to dominions within the British Empire.</li>
+              <li>1980 – A terrorist bombing at the Oktoberfest in Munich, Germany, kills 13 people and injures 213 others.</li>
+              <li>2022 – A mass shooting occurs at a school in Izhevsk, Udmurtia, Russia, resulting in the deaths of 18 people, including 11 children.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1599 – Francesco Borromini, Swiss-Italian architect, designed the San Carlo alle Quattro Fontane and Sant'Agnese in Agone (died 1667)</li>
-              <li>1403 – Louis III of Anjou (died 1434)</li>
-              <li>1528 – Otto II, Duke of Brunswick-Harburg (died 1603)</li>
+              <li>1406 – Thomas de Ros, 8th Baron de Ros, English soldier and politician (died 1430)</li>
+              <li>1329 – Anne of Bavaria, German queen consort (died 1353)</li>
+              <li>1462 – Engelbert, Count of Nevers, younger son of John I, Duke of Cleves (died 1506)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1773 – Agostino Bassi, Italian entomologist and author (died 1856)</li>
-              <li>1877 – Plutarco Elías Calles, Mexican general and President (died 1945)</li>
-              <li>1644 – Ole Rømer, Danish astronomer and instrument maker (died 1710)</li>
+              <li>1870 – Christian X of Denmark (died 1947)</li>
+              <li>1792 – William Hobson, Irish-New Zealand explorer and politician, 1st Governor of New Zealand (died 1842)</li>
+              <li>1698 – William Cavendish, 3rd Duke of Devonshire (died 1755)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1950 – E. C. Coleman, American basketball player</li>
-              <li>1939   – David S. Mann, American lawyer and politician, Mayor of Cincinnati</li>
-              <li>1969   – Catherine Zeta-Jones, Welsh actress</li>
+              <li>1993 – Rosicleide Andrade, Brazilian Paralympic judoka</li>
+              <li>1922 – Takis Miliadis, Greek actor (died 1985)</li>
+              <li>1935   – Joe Sherlock, Irish politician (died 2007)</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1536 – Johannes Secundus, Dutch author and poet (born 1511)</li>
-              <li>1066   – Maria Haraldsdotter, Norwegian princess</li>
-              <li>1066   – Tostig Godwinson, English son of Godwin, Earl of Wessex (born c. 1029)</li>
+              <li>1241 – Fujiwara no Teika, Japanese poet</li>
+              <li>1328 – Ibn Taymiya, Islamic scholar and philosopher of Harran (born 1263)</li>
+              <li>1588 – Amias Paulet, Governor of Jersey (born 1532)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1867 – Oliver Loving, American rancher, co-developed the Goodnight–Loving Trail (born 1812)</li>
-              <li>1665 – Archduchess Maria Anna of Austria (born 1610)</li>
-              <li>1900 – Félix-Gabriel Marchand, Canadian journalist and politician, 11th Premier of Québec (born 1832)</li>
+              <li>1716 – Antoine Parent, French mathematician and theorist (born 1666)</li>
+              <li>1802 – Jurij Vega, Slovene mathematician and physicist (born 1754)</li>
+              <li>1868 – August Ferdinand Möbius, German mathematician and astronomer (born 1790)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2007    – André Emmerich, German-American art dealer (born 1924)</li>
-              <li>2003   – Herb Gardner, American director, producer, and screenwriter (born 1934)</li>
-              <li>2005   – George Archer, American golfer (born 1939)</li>
+              <li>1953 – Xu Beihong, Chinese painter and educator (born 1895)</li>
+              <li>2013 – Azizan Abdul Razak, Malaysian politician, 10th Menteri Besar of Kedah (born 1944)</li>
+              <li>2002 – Nils Bohlin, Swedish engineer, invented three-point safety belt (born 1920)</li>
             </ul>
           </div>
         </div>
