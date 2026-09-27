@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1345 – Friso-Hollandic Wars: Frisians defeat Holland in the Battle of Warns.</li>
-              <li>1087 – William II is crowned King of England, and reigns until 1100.</li>
-              <li>715 – Ragenfrid defeats Theudoald at the Battle of Compiègne.</li>
+              <li>1540 – The Society of Jesus (Jesuits) receives its charter from Pope Paul III.</li>
+              <li>1422 – After the brief Gollub War, the Teutonic Knights sign the Treaty of Melno with Poland and Lithuania.</li>
+              <li>1529 – The Siege of Vienna begins when Suleiman I attacks the city.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1688 – The city council of Amsterdam votes to support William of Orange's invasion of England, which became the Glorious Revolution.</li>
-              <li>1777 – American Revolutionary War: British troops capture and begin the occupation of Philadelphia, which had been serving as the American capital city, during the Philadelphia campaign.</li>
-              <li>1810 – A new Act of Succession is adopted by the Riksdag of the Estates, and Jean Baptiste Bernadotte becomes heir to the Swedish throne.</li>
+              <li>1791 – The National Assembly of France votes to award full citizenship to Jews.</li>
+              <li>1777 – American Revolution: Lancaster, Pennsylvania becomes the capital of the United States for one day after Congress evacuates Philadelphia.</li>
+              <li>1669 – The Venetians surrender the fortress of Candia to the Ottomans, thus ending the 21-year-long Siege of Candia. Crete would remain under Ottoman occupation until 1913.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1907 – Four months after the 1907 Imperial Conference, New Zealand and Newfoundland are promoted from colonies to dominions within the British Empire.</li>
-              <li>1980 – A terrorist bombing at the Oktoberfest in Munich, Germany, kills 13 people and injures 213 others.</li>
-              <li>2022 – A mass shooting occurs at a school in Izhevsk, Udmurtia, Russia, resulting in the deaths of 18 people, including 11 children.</li>
+              <li>1908 – Production of the Model T automobile begins at the Ford Piquette Avenue Plant in Detroit.</li>
+              <li>1916 – Iyasu V is proclaimed deposed as ruler of Ethiopia in a palace coup in favor of his aunt Zewditu.</li>
+              <li>2008 – CNSA astronaut Zhai Zhigang becomes the first Chinese person to perform a spacewalk.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1406 – Thomas de Ros, 8th Baron de Ros, English soldier and politician (died 1430)</li>
-              <li>1329 – Anne of Bavaria, German queen consort (died 1353)</li>
-              <li>1462 – Engelbert, Count of Nevers, younger son of John I, Duke of Cleves (died 1506)</li>
+              <li>1442 – John de la Pole, 2nd Duke of Suffolk (died 1491)</li>
+              <li>1598 – Robert Blake, English admiral (died 1657)</li>
+              <li>1544 – Takenaka Shigeharu, Japanese samurai (died 1579)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1870 – Christian X of Denmark (died 1947)</li>
-              <li>1792 – William Hobson, Irish-New Zealand explorer and politician, 1st Governor of New Zealand (died 1842)</li>
-              <li>1698 – William Cavendish, 3rd Duke of Devonshire (died 1755)</li>
+              <li>1818 – Hermann Kolbe, German chemist and academic (died 1884)</li>
+              <li>1657 – Sofia Alekseyevna of Russia (died 1704)</li>
+              <li>1627 – Jacques-Bénigne Bossuet, French bishop and theologian (died 1704)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1993 – Rosicleide Andrade, Brazilian Paralympic judoka</li>
-              <li>1922 – Takis Miliadis, Greek actor (died 1985)</li>
-              <li>1935   – Joe Sherlock, Irish politician (died 2007)</li>
+              <li>1907   – Bhagat Singh, Indian socialist revolutionary (disputed with 28 September) (died 1931)</li>
+              <li>1904 – Edvard Kocbek, Slovenian poet and politician (died 1981)</li>
+              <li>1966 – Debbie Wasserman Schultz, American politician</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1241 – Fujiwara no Teika, Japanese poet</li>
-              <li>1328 – Ibn Taymiya, Islamic scholar and philosopher of Harran (born 1263)</li>
-              <li>1588 – Amias Paulet, Governor of Jersey (born 1532)</li>
+              <li>1194 – Renaud de Courtenay, Anglo-Norman nobleman (born 1125)</li>
+              <li>1637 – Lorenzo Ruiz, Filipino saint (born c.1600)</li>
+              <li>1111 – Vekenega, Croatian Benedictine abbess</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1716 – Antoine Parent, French mathematician and theorist (born 1666)</li>
-              <li>1802 – Jurij Vega, Slovene mathematician and physicist (born 1754)</li>
-              <li>1868 – August Ferdinand Möbius, German mathematician and astronomer (born 1790)</li>
+              <li>1876 – Braxton Bragg, American general (born 1817)</li>
+              <li>1623 – John VII, Count of Nassau-Siegen (born 1561)</li>
+              <li>1735 – Peter Artedi, Swedish ichthyologist and zoologist (born 1705)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1953 – Xu Beihong, Chinese painter and educator (born 1895)</li>
-              <li>2013 – Azizan Abdul Razak, Malaysian politician, 10th Menteri Besar of Kedah (born 1944)</li>
-              <li>2002 – Nils Bohlin, Swedish engineer, invented three-point safety belt (born 1920)</li>
+              <li>1991 – Joe Hulme, English footballer and cricketer (born 1904)</li>
+              <li>2015   – Kallen Pokkudan, Indian activist and author (born 1937)</li>
+              <li>2004 – John E. Mack, American psychiatrist and author (born 1929)</li>
             </ul>
           </div>
         </div>
