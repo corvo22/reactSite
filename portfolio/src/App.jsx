@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1540 – The Society of Jesus (Jesuits) receives its charter from Pope Paul III.</li>
-              <li>1422 – After the brief Gollub War, the Teutonic Knights sign the Treaty of Melno with Poland and Lithuania.</li>
-              <li>1529 – The Siege of Vienna begins when Suleiman I attacks the city.</li>
+              <li>1238 – King James I of Aragon conquers Valencia from the Moors. Shortly thereafter, he proclaims himself king of Valencia.</li>
+              <li>1213 – Queen consort Gertrude of Merania is assassinated by a group of Hungarian lords.</li>
+              <li>995 – Boleslaus II, Duke of Bohemia, kills most members of the rival Slavník dynasty.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1791 – The National Assembly of France votes to award full citizenship to Jews.</li>
-              <li>1777 – American Revolution: Lancaster, Pennsylvania becomes the capital of the United States for one day after Congress evacuates Philadelphia.</li>
-              <li>1669 – The Venetians surrender the fortress of Candia to the Ottomans, thus ending the 21-year-long Siege of Candia. Crete would remain under Ottoman occupation until 1913.</li>
+              <li>1644 – A Hospitaller galley squadron defeats an Ottoman convoy in the action of 28 September 1644.</li>
+              <li>1871 – The Brazilian Parliament passes a law that frees all children thereafter born to slaves, and all government-owned slaves.</li>
+              <li>1844 – Oscar I of Sweden–Norway is crowned king of Sweden.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1908 – Production of the Model T automobile begins at the Ford Piquette Avenue Plant in Detroit.</li>
-              <li>1916 – Iyasu V is proclaimed deposed as ruler of Ethiopia in a palace coup in favor of his aunt Zewditu.</li>
-              <li>2008 – CNSA astronaut Zhai Zhigang becomes the first Chinese person to perform a spacewalk.</li>
+              <li>1983 – John Pat, a 16-year old Aboriginal Australian boy, dies of injuries sustained by four off-duty police officers in Roebourne, a catalyst to the Royal Commission into Aboriginal Deaths in Custody.</li>
+              <li>1975 – The Spaghetti House siege, in which nine people are taken hostage, takes place in London.</li>
+              <li>2014 – The 2014 Hong Kong protests begin in response to restrictive political reforms imposed by the NPC in Beijing.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1442 – John de la Pole, 2nd Duke of Suffolk (died 1491)</li>
-              <li>1598 – Robert Blake, English admiral (died 1657)</li>
-              <li>1544 – Takenaka Shigeharu, Japanese samurai (died 1579)</li>
+              <li>1494 – Agnolo Firenzuola, Italian poet and playwright (died 1545)</li>
+              <li>1555 – Henri de La Tour d'Auvergne, Marshal of France (died 1623)</li>
+              <li>616 – Javanshir, King of Caucasian Albania (died 680)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1818 – Hermann Kolbe, German chemist and academic (died 1884)</li>
-              <li>1657 – Sofia Alekseyevna of Russia (died 1704)</li>
-              <li>1627 – Jacques-Bénigne Bossuet, French bishop and theologian (died 1704)</li>
+              <li>1852 – Henri Moissan, French chemist and academic, Nobel Prize laureate (died 1907)</li>
+              <li>1852   – Isis Pogson, British astronomer and meteorologist (died 1945)</li>
+              <li>1809 – Alvan Wentworth Chapman, American physician and botanist (died 1899)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1907   – Bhagat Singh, Indian socialist revolutionary (disputed with 28 September) (died 1931)</li>
-              <li>1904 – Edvard Kocbek, Slovenian poet and politician (died 1981)</li>
-              <li>1966 – Debbie Wasserman Schultz, American politician</li>
+              <li>1974   – Shane Webcke, Australian rugby league player and coach</li>
+              <li>1934 – Brigitte Bardot, French actress and animal rights activist (died 2025)</li>
+              <li>1969   – Angus Robertson, Scottish politician</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1194 – Renaud de Courtenay, Anglo-Norman nobleman (born 1125)</li>
-              <li>1637 – Lorenzo Ruiz, Filipino saint (born c.1600)</li>
-              <li>1111 – Vekenega, Croatian Benedictine abbess</li>
+              <li>1582 – George Buchanan, Scottish historian and scholar (born 1506)</li>
+              <li>1213 – Gertrude of Merania, queen consort of Hungary (born 1185)</li>
+              <li>1330 – Elizabeth of Bohemia, queen consort of Bohemia (born 1292)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1876 – Braxton Bragg, American general (born 1817)</li>
-              <li>1623 – John VII, Count of Nassau-Siegen (born 1561)</li>
-              <li>1735 – Peter Artedi, Swedish ichthyologist and zoologist (born 1705)</li>
+              <li>1694 – Gabriel Mouton, French mathematician and theologian (born 1618)</li>
+              <li>1895 – Louis Pasteur, French chemist and microbiologist (born 1822)</li>
+              <li>1899 – Giovanni Segantini, Austrian painter (born 1858)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1991 – Joe Hulme, English footballer and cricketer (born 1904)</li>
-              <li>2015   – Kallen Pokkudan, Indian activist and author (born 1937)</li>
-              <li>2004 – John E. Mack, American psychiatrist and author (born 1929)</li>
+              <li>1990 – Larry O'Brien, American businessman and politician, 57th United States Postmaster General (born 1917)</li>
+              <li>1953 – Edwin Hubble, American astronomer and scholar (born 1889)</li>
+              <li>1938 – Charles Duryea, American engineer and businessman, founded the Duryea Motor Wagon Company  (born 1861)</li>
             </ul>
           </div>
         </div>
