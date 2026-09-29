@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1238 – King James I of Aragon conquers Valencia from the Moors. Shortly thereafter, he proclaims himself king of Valencia.</li>
-              <li>1213 – Queen consort Gertrude of Merania is assassinated by a group of Hungarian lords.</li>
-              <li>995 – Boleslaus II, Duke of Bohemia, kills most members of the rival Slavník dynasty.</li>
+              <li>855 – Pope Benedict III is restored by a popular uprising to the papacy after king  Louis II of Italy tried to replace him with his favourite candidate.</li>
+              <li>440 – Consecration of pope Leo I, later called Leo the Great, following the death of pope Sixtus III in the month before.</li>
+              <li>1227 – Frederick II, Holy Roman Emperor, is excommunicated by Pope Gregory IX for his failure to participate in the Crusades during the Investiture Controversy.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1644 – A Hospitaller galley squadron defeats an Ottoman convoy in the action of 28 September 1644.</li>
-              <li>1871 – The Brazilian Parliament passes a law that frees all children thereafter born to slaves, and all government-owned slaves.</li>
-              <li>1844 – Oscar I of Sweden–Norway is crowned king of Sweden.</li>
+              <li>1714 – The Cossacks of the Tsardom of Russia kill about 800 people overnight in Hailuoto during the Great Wrath.</li>
+              <li>1848 – The Battle of Pákozd is a stalemate between Hungarian and Croatian forces and is the first battle of the Hungarian Revolution.</li>
+              <li>1885 – The first practical public electric tramway in the world is opened in Blackpool, England.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1983 – John Pat, a 16-year old Aboriginal Australian boy, dies of injuries sustained by four off-duty police officers in Roebourne, a catalyst to the Royal Commission into Aboriginal Deaths in Custody.</li>
-              <li>1975 – The Spaghetti House siege, in which nine people are taken hostage, takes place in London.</li>
-              <li>2014 – The 2014 Hong Kong protests begin in response to restrictive political reforms imposed by the NPC in Beijing.</li>
+              <li>2019 – Violence and low turnout mar the 2019 Afghan presidential election.</li>
+              <li>2007 – Calder Hall, the world's first commercial nuclear power station, is demolished in a controlled explosion.</li>
+              <li>1990   – The YF-22, which would later become the F-22 Raptor, flies for the first time.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1494 – Agnolo Firenzuola, Italian poet and playwright (died 1545)</li>
-              <li>1555 – Henri de La Tour d'Auvergne, Marshal of France (died 1623)</li>
-              <li>616 – Javanshir, King of Caucasian Albania (died 680)</li>
+              <li>106 BC – Pompey, Roman general and politician (died 48 BC)</li>
+              <li>1402 – Ferdinand the Holy Prince of Portugal (died 1443)</li>
+              <li>1527 – John Lesley, Scottish bishop (died 1596)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1852 – Henri Moissan, French chemist and academic, Nobel Prize laureate (died 1907)</li>
-              <li>1852   – Isis Pogson, British astronomer and meteorologist (died 1945)</li>
-              <li>1809 – Alvan Wentworth Chapman, American physician and botanist (died 1899)</li>
+              <li>1758 – Horatio Nelson, 1st Viscount Nelson, English admiral (died 1805)</li>
+              <li>1899 – László Bíró, Hungarian-Argentinian journalist and inventor, invented the ballpoint pen (died 1985)</li>
+              <li>1863 – Hugo Haase, German lawyer, jurist, and politician (died 1919)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1974   – Shane Webcke, Australian rugby league player and coach</li>
-              <li>1934 – Brigitte Bardot, French actress and animal rights activist (died 2025)</li>
-              <li>1969   – Angus Robertson, Scottish politician</li>
+              <li>1931 – James Cronin, American physicist and academic, Nobel Prize laureate (died 2016)</li>
+              <li>1930 – Richard Bonynge, Australian pianist and conductor</li>
+              <li>1915   – Oscar Handlin, American historian and academic (died 2011)</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1582 – George Buchanan, Scottish historian and scholar (born 1506)</li>
-              <li>1213 – Gertrude of Merania, queen consort of Hungary (born 1185)</li>
-              <li>1330 – Elizabeth of Bohemia, queen consort of Bohemia (born 1292)</li>
+              <li>855 – Lothair I, Carolingian emperor (born 795)</li>
+              <li>1186 – William of Tyre, Archbishop of Tyre (born 1130)</li>
+              <li>1364 – Charles I, Duke of Brittany (born 1319)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1694 – Gabriel Mouton, French mathematician and theologian (born 1618)</li>
-              <li>1895 – Louis Pasteur, French chemist and microbiologist (born 1822)</li>
-              <li>1899 – Giovanni Segantini, Austrian painter (born 1858)</li>
+              <li>1804 – Michael Hillegas, American politician, 1st Treasurer of the United States (born 1728)</li>
+              <li>1889 – Louis Faidherbe, French general and politician (born 1818)</li>
+              <li>1642   – William Stanley, 6th Earl of Derby, English politician, Lord Lieutenant of Cheshire (born 1561)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1990 – Larry O'Brien, American businessman and politician, 57th United States Postmaster General (born 1917)</li>
-              <li>1953 – Edwin Hubble, American astronomer and scholar (born 1889)</li>
-              <li>1938 – Charles Duryea, American engineer and businessman, founded the Duryea Motor Wagon Company  (born 1861)</li>
+              <li>2006   – Michael A. Monsoor, American sailor, Medal of Honor recipient (born 1981)</li>
+              <li>1983 – Alan Moorehead, Australian war correspondent and author (born 1910)</li>
+              <li>1977 – Robert McKimson, American animator and illustrator (born 1910)</li>
             </ul>
           </div>
         </div>
