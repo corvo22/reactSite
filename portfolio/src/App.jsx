@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>855 – Pope Benedict III is restored by a popular uprising to the papacy after king  Louis II of Italy tried to replace him with his favourite candidate.</li>
-              <li>440 – Consecration of pope Leo I, later called Leo the Great, following the death of pope Sixtus III in the month before.</li>
-              <li>1227 – Frederick II, Holy Roman Emperor, is excommunicated by Pope Gregory IX for his failure to participate in the Crusades during the Investiture Controversy.</li>
+              <li>1541 – Spanish conquistador Hernando de Soto and his forces enter Tula territory in present-day western Arkansas, encountering fierce resistance.</li>
+              <li>737 – The Türgesh drive back an Umayyad invasion of Khuttal, follow them south of the Oxus, and capture their baggage train.</li>
+              <li>489 – The Ostrogoths under Theoderic the Great defeat the forces of Odoacer for the second time.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1714 – The Cossacks of the Tsardom of Russia kill about 800 people overnight in Hailuoto during the Great Wrath.</li>
-              <li>1848 – The Battle of Pákozd is a stalemate between Hungarian and Croatian forces and is the first battle of the Hungarian Revolution.</li>
-              <li>1885 – The first practical public electric tramway in the world is opened in Blackpool, England.</li>
+              <li>1888 – Jack the Ripper kills his third and fourth victims, Elizabeth Stride and Catherine Eddowes.</li>
+              <li>1687 – The Venetians under Girolamo Corner take the city of Herceg Novi from the Ottoman Empire.</li>
+              <li>1736 – The Lebanese Council of 1736 begins, a major turning point in the reform of the Maronite Church. In the following three days, the assembled Maronite and Latin clergy presided by Yusuf ibn Siman as-Simani discuss various reforms and elaborate rules and canons.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2019 – Violence and low turnout mar the 2019 Afghan presidential election.</li>
-              <li>2007 – Calder Hall, the world's first commercial nuclear power station, is demolished in a controlled explosion.</li>
-              <li>1990   – The YF-22, which would later become the F-22 Raptor, flies for the first time.</li>
+              <li>1949 – The Berlin Airlift ends.</li>
+              <li>1966 – Bechuanaland declares its independence, and becomes the Republic of Botswana.</li>
+              <li>1968 – The Boeing 747 is rolled out and shown to the public for the first time.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>106 BC – Pompey, Roman general and politician (died 48 BC)</li>
-              <li>1402 – Ferdinand the Holy Prince of Portugal (died 1443)</li>
-              <li>1527 – John Lesley, Scottish bishop (died 1596)</li>
+              <li>1207 – Rumi, Persian mystic and poet (died 1273)</li>
+              <li>1550 – Michael Maestlin, German astronomer and mathematician (died 1631)</li>
+              <li>1530 – Girolamo Mercuriale, Italian philologist and physician (died 1606)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1758 – Horatio Nelson, 1st Viscount Nelson, English admiral (died 1805)</li>
-              <li>1899 – László Bíró, Hungarian-Argentinian journalist and inventor, invented the ballpoint pen (died 1985)</li>
-              <li>1863 – Hugo Haase, German lawyer, jurist, and politician (died 1919)</li>
+              <li>1870 – Thomas W. Lamont, American banker and philanthropist (died 1948)</li>
+              <li>1852 – Charles Villiers Stanford, Irish composer, conductor, and educator (died 1924)</li>
+              <li>1882 – Hans Geiger, German physicist and academic (died 1945)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1931 – James Cronin, American physicist and academic, Nobel Prize laureate (died 2016)</li>
-              <li>1930 – Richard Bonynge, Australian pianist and conductor</li>
-              <li>1915   – Oscar Handlin, American historian and academic (died 2011)</li>
+              <li>1919   – Elizabeth Gilels, Ukrainian-Russian violinist and educator (died 2008)</li>
+              <li>1953 – Matt Abts, American drummer</li>
+              <li>1974   – Daniel Wu, American–born Hong Kong actor, director, and producer</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>855 – Lothair I, Carolingian emperor (born 795)</li>
-              <li>1186 – William of Tyre, Archbishop of Tyre (born 1130)</li>
-              <li>1364 – Charles I, Duke of Brittany (born 1319)</li>
+              <li>1581 – Hubert Languet, French diplomat and reformer (born 1518)</li>
+              <li>1572 – Francis Borgia, 4th Duke of Gandía, Spanish priest and saint, 3rd Superior General of the Society of Jesus (born 1510)</li>
+              <li>653 – Honorius of Canterbury, Italian archbishop and saint</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1804 – Michael Hillegas, American politician, 1st Treasurer of the United States (born 1728)</li>
-              <li>1889 – Louis Faidherbe, French general and politician (born 1818)</li>
-              <li>1642   – William Stanley, 6th Earl of Derby, English politician, Lord Lieutenant of Cheshire (born 1561)</li>
+              <li>1628 – Fulke Greville, 1st Baron Brooke, English poet and politician, Chancellor of the Exchequer (born 1554)</li>
+              <li>1865 – Samuel David Luzzatto, Italian poet and scholar (born 1800)</li>
+              <li>1866 – Per Gustaf Svinhufvud af Qvalstad, treasurer of Tavastia province, manor host, and paternal grandfather of President of Finland P. E. Svinhufvud (born 1804)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2006   – Michael A. Monsoor, American sailor, Medal of Honor recipient (born 1981)</li>
-              <li>1983 – Alan Moorehead, Australian war correspondent and author (born 1910)</li>
-              <li>1977 – Robert McKimson, American animator and illustrator (born 1910)</li>
+              <li>2019 – Victoria Braithwaite, British research scientist who proved fish feel pain (born 1967)</li>
+              <li>2012   – Clara Stanton Jones, American librarian (born 1913)</li>
+              <li>1987 – Alfred Bester, American author and screenwriter (born 1913)</li>
             </ul>
           </div>
         </div>
