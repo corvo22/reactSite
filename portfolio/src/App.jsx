@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1541 – Spanish conquistador Hernando de Soto and his forces enter Tula territory in present-day western Arkansas, encountering fierce resistance.</li>
-              <li>737 – The Türgesh drive back an Umayyad invasion of Khuttal, follow them south of the Oxus, and capture their baggage train.</li>
-              <li>489 – The Ostrogoths under Theoderic the Great defeat the forces of Odoacer for the second time.</li>
+              <li>959 – Edgar the Peaceful becomes king of all England, in succession to Eadwig.</li>
+              <li>965 – Pope John XIII is consecrated.</li>
+              <li>331 BC – Alexander the Great defeats Darius III of Persia in the Battle of Gaugamela.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1888 – Jack the Ripper kills his third and fourth victims, Elizabeth Stride and Catherine Eddowes.</li>
-              <li>1687 – The Venetians under Girolamo Corner take the city of Herceg Novi from the Ottoman Empire.</li>
-              <li>1736 – The Lebanese Council of 1736 begins, a major turning point in the reform of the Maronite Church. In the following three days, the assembled Maronite and Latin clergy presided by Yusuf ibn Siman as-Simani discuss various reforms and elaborate rules and canons.</li>
+              <li>1898 – The Vienna University of Economics and Business Administration is founded under the name k.u.k. Exportakademie.</li>
+              <li>1891 – Stanford University opens its doors in California, United States.</li>
+              <li>1832 – Texian political delegates convene at San Felipe de Austin to petition for changes in the governance of Mexican Texas.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1949 – The Berlin Airlift ends.</li>
-              <li>1966 – Bechuanaland declares its independence, and becomes the Republic of Botswana.</li>
-              <li>1968 – The Boeing 747 is rolled out and shown to the public for the first time.</li>
+              <li>1947 – The North American F-86 Sabre flies for the first time.</li>
+              <li>1953 – Andhra State is formed, consisting of a Telugu-speaking area carved out of India's Madras State.</li>
+              <li>1910 – A large bomb destroys the Los Angeles Times building, killing 21.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1207 – Rumi, Persian mystic and poet (died 1273)</li>
-              <li>1550 – Michael Maestlin, German astronomer and mathematician (died 1631)</li>
-              <li>1530 – Girolamo Mercuriale, Italian philologist and physician (died 1606)</li>
+              <li>1554 – Leonardus Lessius, Jesuit theologian (died 1623)</li>
+              <li>1542 – Álvaro de Mendaña de Neira, Spanish explorer (died 1595)</li>
+              <li>1207 – Henry III of England (died 1272)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1870 – Thomas W. Lamont, American banker and philanthropist (died 1948)</li>
-              <li>1852 – Charles Villiers Stanford, Irish composer, conductor, and educator (died 1924)</li>
-              <li>1882 – Hans Geiger, German physicist and academic (died 1945)</li>
+              <li>1846 – Nectarios of Aegina, Greek metropolitan and saint (died 1920)</li>
+              <li>1900 – Ashfaqulla Khan, Indian activist (died 1927)</li>
+              <li>1878 – Othmar Spann, Austrian economist, sociologist, and philosopher (died 1950)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1919   – Elizabeth Gilels, Ukrainian-Russian violinist and educator (died 2008)</li>
-              <li>1953 – Matt Abts, American drummer</li>
-              <li>1974   – Daniel Wu, American–born Hong Kong actor, director, and producer</li>
+              <li>1998 – Daniel Gafford, American basketball player</li>
+              <li>1946 – Dave Holland, English bassist, composer, and bandleader</li>
+              <li>2000 – Kalle Rovanperä, Finnish professional rally driver</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1581 – Hubert Languet, French diplomat and reformer (born 1518)</li>
-              <li>1572 – Francis Borgia, 4th Duke of Gandía, Spanish priest and saint, 3rd Superior General of the Society of Jesus (born 1510)</li>
-              <li>653 – Honorius of Canterbury, Italian archbishop and saint</li>
+              <li>1040 – Alan III, Duke of Brittany (born 997)</li>
+              <li>1246 – Ednyfed Fychan, distain of Gwynedd</li>
+              <li>895 – Kong Wei, chancellor of the Tang dynasty</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1628 – Fulke Greville, 1st Baron Brooke, English poet and politician, Chancellor of the Exchequer (born 1554)</li>
-              <li>1865 – Samuel David Luzzatto, Italian poet and scholar (born 1800)</li>
-              <li>1866 – Per Gustaf Svinhufvud af Qvalstad, treasurer of Tavastia province, manor host, and paternal grandfather of President of Finland P. E. Svinhufvud (born 1804)</li>
+              <li>1878 – Mindon Min, Burmese king (born 1808)</li>
+              <li>1895 – Eli Whitney Blake, Jr., American chemist, physicist, and academic (born 1836)</li>
+              <li>1788 – William Brodie, Scottish businessman and politician (born 1741)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2019 – Victoria Braithwaite, British research scientist who proved fish feel pain (born 1967)</li>
-              <li>2012   – Clara Stanton Jones, American librarian (born 1913)</li>
-              <li>1987 – Alfred Bester, American author and screenwriter (born 1913)</li>
+              <li>1901 – Abdur Rahman Khan, Afghan emir (born 1844)</li>
+              <li>2013 – Tom Clancy, American author (born 1947)</li>
+              <li>1950 – Faik Ali Ozansoy, Turkish poet, educator, and politician (born 1876)</li>
             </ul>
           </div>
         </div>
