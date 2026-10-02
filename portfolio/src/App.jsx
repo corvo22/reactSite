@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>959 – Edgar the Peaceful becomes king of all England, in succession to Eadwig.</li>
-              <li>965 – Pope John XIII is consecrated.</li>
-              <li>331 BC – Alexander the Great defeats Darius III of Persia in the Battle of Gaugamela.</li>
+              <li>1552 – Russo-Kazan Wars: Russian troops enter Kazan.</li>
+              <li>1187– Saladin won Jerusalem after the city surrendered to his forces following a prolonged siege.</li>
+              <li>48 BC – Julius Caesar arrives in Ptolemaic Egypt in his pursuit of Pompey and learns of the latter's death.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1898 – The Vienna University of Economics and Business Administration is founded under the name k.u.k. Exportakademie.</li>
-              <li>1891 – Stanford University opens its doors in California, United States.</li>
-              <li>1832 – Texian political delegates convene at San Felipe de Austin to petition for changes in the governance of Mexican Texas.</li>
+              <li>1870 – By plebiscite, the citizens of the Papal States accept annexation by the Kingdom of Italy.</li>
+              <li>1864 – American Civil War: Confederates defeat a Union attack on Saltville, Virginia. A massacre of wounded Union prisoners ensues.</li>
+              <li>1766 - The Nottingham Cheese Riot breaks out at the Goose Fair in Nottingham, UK, in response to the excessive cost of cheese.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1947 – The North American F-86 Sabre flies for the first time.</li>
-              <li>1953 – Andhra State is formed, consisting of a Telugu-speaking area carved out of India's Madras State.</li>
-              <li>1910 – A large bomb destroys the Los Angeles Times building, killing 21.</li>
+              <li>1996   – The Electronic Freedom of Information Act Amendments are signed by U.S. President Bill Clinton.</li>
+              <li>1992 – Military police storm the Carandiru Penitentiary in São Paulo, Brazil during a prison riot. The resulting massacre leaves 111 prisoners dead.</li>
+              <li>1919 – Seven days after suffering a "physical collapse" following a speech in Pueblo, Colorado, U.S. president Woodrow Wilson has a catastrophic stroke at the White House, leaving him physically and mentally incapacitated for the remainder of his presidency.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1554 – Leonardus Lessius, Jesuit theologian (died 1623)</li>
-              <li>1542 – Álvaro de Mendaña de Neira, Spanish explorer (died 1595)</li>
-              <li>1207 – Henry III of England (died 1272)</li>
+              <li>1470   – Isabella of Aragon, Queen of Portugal, Daughter of Isabella I of Castile and Ferdinand II of Aragon (died 1498)</li>
+              <li>1538 – Charles Borromeo, Italian cardinal and saint (died 1584)</li>
+              <li>1452 – Richard III of England (died 1485)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1846 – Nectarios of Aegina, Greek metropolitan and saint (died 1920)</li>
-              <li>1900 – Ashfaqulla Khan, Indian activist (died 1927)</li>
-              <li>1878 – Othmar Spann, Austrian economist, sociologist, and philosopher (died 1950)</li>
+              <li>1895 – Ruth Cheney Streeter, American colonel (died 1990)</li>
+              <li>1800 – Nat Turner, American slave and uprising leader (died 1831)</li>
+              <li>1890 – Groucho Marx, American comedian and actor (died 1977)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1998 – Daniel Gafford, American basketball player</li>
-              <li>1946 – Dave Holland, English bassist, composer, and bandleader</li>
-              <li>2000 – Kalle Rovanperä, Finnish professional rally driver</li>
+              <li>1970   – Kelly Ripa, American actress and talk show host</li>
+              <li>1926 – Jan Morris, Welsh historian and author (died 2020)</li>
+              <li>1987   – Ricky Stenhouse Jr., American race car driver</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1040 – Alan III, Duke of Brittany (born 997)</li>
-              <li>1246 – Ednyfed Fychan, distain of Gwynedd</li>
-              <li>895 – Kong Wei, chancellor of the Tang dynasty</li>
+              <li>534 – Athalaric, king of the Ostrogoths in Italy</li>
+              <li>939 – Eberhard of Franconia</li>
+              <li>939   – Gilbert, Duke of Lorraine</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1878 – Mindon Min, Burmese king (born 1808)</li>
-              <li>1895 – Eli Whitney Blake, Jr., American chemist, physicist, and academic (born 1836)</li>
-              <li>1788 – William Brodie, Scottish businessman and politician (born 1741)</li>
+              <li>1853 – François Arago, French mathematician, physicist, astronomer, and politician (born 1786)</li>
+              <li>1847 – Vasil Aprilov, Bulgarian educator, merchant and writer (born 1789)</li>
+              <li>1709 – Ivan Mazepa, Ukrainian diplomat (born 1639)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1901 – Abdur Rahman Khan, Afghan emir (born 1844)</li>
-              <li>2013 – Tom Clancy, American author (born 1947)</li>
-              <li>1950 – Faik Ali Ozansoy, Turkish poet, educator, and politician (born 1876)</li>
+              <li>1971 – Jessie Arms Botke, American painter (born 1883)</li>
+              <li>1974 – Vasily Shukshin, Russian actor, director, and screenwriter (born 1929)</li>
+              <li>2022 – Sacheen Littlefeather, American actress, model and activist for Native American civil rights (born 1946)</li>
             </ul>
           </div>
         </div>
