@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1552 – Russo-Kazan Wars: Russian troops enter Kazan.</li>
-              <li>1187– Saladin won Jerusalem after the city surrendered to his forces following a prolonged siege.</li>
-              <li>48 BC – Julius Caesar arrives in Ptolemaic Egypt in his pursuit of Pompey and learns of the latter's death.</li>
+              <li>52 BC – Gallic Wars: Vercingetorix, leader of the Gauls, surrenders to the Romans under Julius Caesar, ending the siege and battle of Alesia.</li>
+              <li>1574 – The Siege of Leiden is lifted by the Watergeuzen.</li>
+              <li>1392 – Muhammed VII becomes the twelfth sultan of the Emirate of Granada.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1870 – By plebiscite, the citizens of the Papal States accept annexation by the Kingdom of Italy.</li>
-              <li>1864 – American Civil War: Confederates defeat a Union attack on Saltville, Virginia. A massacre of wounded Union prisoners ensues.</li>
-              <li>1766 - The Nottingham Cheese Riot breaks out at the Goose Fair in Nottingham, UK, in response to the excessive cost of cheese.</li>
+              <li>1873 – Chief Kintpuash and companions are hanged for their part in the Modoc War of northern California.</li>
+              <li>1862 – American Civil War: The two-day Second Battle of Corinth begins as Confederate forces under General Earl Van Dorn attack Union defenses led by General William Rosecrans around Corinth, Mississippi.</li>
+              <li>1739 – The Treaty of Niš is signed by the Ottoman Empire and Russia ending the Russian–Turkish War.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1996   – The Electronic Freedom of Information Act Amendments are signed by U.S. President Bill Clinton.</li>
-              <li>1992 – Military police storm the Carandiru Penitentiary in São Paulo, Brazil during a prison riot. The resulting massacre leaves 111 prisoners dead.</li>
-              <li>1919 – Seven days after suffering a "physical collapse" following a speech in Pueblo, Colorado, U.S. president Woodrow Wilson has a catastrophic stroke at the White House, leaving him physically and mentally incapacitated for the remainder of his presidency.</li>
+              <li>1957 – The California State Superior Court rules that the book Howl and Other Poems is not obscene.</li>
+              <li>1981 – The hunger strike at the Maze Prison in Northern Ireland ends after seven months and ten deaths.</li>
+              <li>2024 – Bengali, Assamese, Marathi, Pali and Prakrit are accorded the Classical language status by the Government of India</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1470   – Isabella of Aragon, Queen of Portugal, Daughter of Isabella I of Castile and Ferdinand II of Aragon (died 1498)</li>
-              <li>1538 – Charles Borromeo, Italian cardinal and saint (died 1584)</li>
-              <li>1452 – Richard III of England (died 1485)</li>
+              <li>1390 – Humphrey, Duke of Gloucester (died 1447)</li>
+              <li>1458 – Saint Casimir, Prince of Poland and Duke of Lithuania (died 1484)</li>
+              <li>1554 – Fulke Greville, 1st Baron Brooke, English poet (died 1628)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1895 – Ruth Cheney Streeter, American colonel (died 1990)</li>
-              <li>1800 – Nat Turner, American slave and uprising leader (died 1831)</li>
-              <li>1890 – Groucho Marx, American comedian and actor (died 1977)</li>
+              <li>1869 – Alfred Flatow, German gymnast (died 1942)</li>
+              <li>1797 – Leopold II, Grand Duke of Tuscany (died 1870)</li>
+              <li>1800 – George Bancroft, American historian and politician, 17th United States Secretary of the Navy (died 1891)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1970   – Kelly Ripa, American actress and talk show host</li>
-              <li>1926 – Jan Morris, Welsh historian and author (died 2020)</li>
-              <li>1987   – Ricky Stenhouse Jr., American race car driver</li>
+              <li>1958 – Chen Yanyin, Chinese sculptor</li>
+              <li>1980   – Ivan Turina, Croatian footballer (died 2013)</li>
+              <li>1901 – Jean Grémillon, French director, composer, and screenwriter (died 1959)</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>534 – Athalaric, king of the Ostrogoths in Italy</li>
-              <li>939 – Eberhard of Franconia</li>
-              <li>939   – Gilbert, Duke of Lorraine</li>
+              <li>900 – Muhammad ibn Zayd, Tabaristan emir</li>
+              <li>42 BC – Gaius Cassius Longinus, Roman politician (born 85 BC)</li>
+              <li>723 – Elias I of Antioch, Syriac Orthodox Patriarch of Antioch.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1853 – François Arago, French mathematician, physicist, astronomer, and politician (born 1786)</li>
-              <li>1847 – Vasil Aprilov, Bulgarian educator, merchant and writer (born 1789)</li>
-              <li>1709 – Ivan Mazepa, Ukrainian diplomat (born 1639)</li>
+              <li>1873 – Kintpuash, American tribal leader (born 1837)</li>
+              <li>1833 – François, Marquis de Chasseloup-Laubat, French general and engineer (born 1754)</li>
+              <li>1891 – Édouard Lucas, French mathematician and theorist (born 1842)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1971 – Jessie Arms Botke, American painter (born 1883)</li>
-              <li>1974 – Vasily Shukshin, Russian actor, director, and screenwriter (born 1929)</li>
-              <li>2022 – Sacheen Littlefeather, American actress, model and activist for Native American civil rights (born 1946)</li>
+              <li>1994   – Dub Taylor, American actor (born 1907)</li>
+              <li>2015   – Javed Iqbal, Pakistani philosopher and judge (born 1925)</li>
+              <li>1911 – Rosetta Jane Birks, Australian suffragist (born 1856)</li>
             </ul>
           </div>
         </div>
