@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>52 BC – Gallic Wars: Vercingetorix, leader of the Gauls, surrenders to the Romans under Julius Caesar, ending the siege and battle of Alesia.</li>
-              <li>1574 – The Siege of Leiden is lifted by the Watergeuzen.</li>
-              <li>1392 – Muhammed VII becomes the twelfth sultan of the Emirate of Granada.</li>
+              <li>AD 23 – Rebels sack the Chinese capital Chang'an during a peasant rebellion.</li>
+              <li>1363 – Battle of Lake Poyang: In one of the largest naval battles in history, Zhu Yuanzhang's rebels defeat rival Chen Youliang.</li>
+              <li>1209 – Otto IV is crowned Emperor of the Holy Roman Empire by Pope Innocent III.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1873 – Chief Kintpuash and companions are hanged for their part in the Modoc War of northern California.</li>
-              <li>1862 – American Civil War: The two-day Second Battle of Corinth begins as Confederate forces under General Earl Van Dorn attack Union defenses led by General William Rosecrans around Corinth, Mississippi.</li>
-              <li>1739 – The Treaty of Niš is signed by the Ottoman Empire and Russia ending the Russian–Turkish War.</li>
+              <li>1862 – American Civil War: The two-day Second Battle of Corinth ends in a Union victory, with General William Rosecrans protecting the critical rail junction of Corinth, Mississippi from Confederate forces under General Earl Van Dorn.</li>
+              <li>1853 – The Crimean War begins when the Ottoman Empire declares war on the Russian Empire.</li>
+              <li>1830 – The Belgian Revolution takes legal form when the provisional government secedes from the Netherlands.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1957 – The California State Superior Court rules that the book Howl and Other Poems is not obscene.</li>
-              <li>1981 – The hunger strike at the Maze Prison in Northern Ireland ends after seven months and ten deaths.</li>
-              <li>2024 – Bengali, Assamese, Marathi, Pali and Prakrit are accorded the Classical language status by the Government of India</li>
+              <li>1920 – The Mannerheim League for Child Welfare, a Finnish non-governmental organization, is founded on the initiative of Sophie Mannerheim.</li>
+              <li>1993 – Battle of Mogadishu occurs killing 18 U.S. Special Forces, two UN Peacekeepers and at least 600 Somalian militia men and civilians.</li>
+              <li>1963 – Hurricane Flora kills 6,000 in Cuba and Haiti.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1390 – Humphrey, Duke of Gloucester (died 1447)</li>
-              <li>1458 – Saint Casimir, Prince of Poland and Duke of Lithuania (died 1484)</li>
-              <li>1554 – Fulke Greville, 1st Baron Brooke, English poet (died 1628)</li>
+              <li>1160 – Alys, Countess of the Vexin, daughter of Louis VII of France (died c. 1220)</li>
+              <li>1507 – Francis Bigod, English noble (died 1537)</li>
+              <li>1522 – Gabriele Paleotti, Catholic cardinal (died 1597)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1869 – Alfred Flatow, German gymnast (died 1942)</li>
-              <li>1797 – Leopold II, Grand Duke of Tuscany (died 1870)</li>
-              <li>1800 – George Bancroft, American historian and politician, 17th United States Secretary of the Navy (died 1891)</li>
+              <li>1879 – Robert Edwards, American artist, musician, and writer (died 1948)</li>
+              <li>1876 – Florence Eliza Allen, American mathematician and suffrage activist (died 1960)</li>
+              <li>1841 – Prudente de Morais, Brazilian lawyer and politician, 3rd President of Brazil (died 1912)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1958 – Chen Yanyin, Chinese sculptor</li>
-              <li>1980   – Ivan Turina, Croatian footballer (died 2013)</li>
-              <li>1901 – Jean Grémillon, French director, composer, and screenwriter (died 1959)</li>
+              <li>1948 – Iain Hewitson, New Zealand-Australian chef, restaurateur, author, and television personality</li>
+              <li>1961   – Jon Secada, Cuban-American singer-songwriter</li>
+              <li>1980 – Sarah Fisher, American race car driver</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>900 – Muhammad ibn Zayd, Tabaristan emir</li>
-              <li>42 BC – Gaius Cassius Longinus, Roman politician (born 85 BC)</li>
-              <li>723 – Elias I of Antioch, Syriac Orthodox Patriarch of Antioch.</li>
+              <li>1227 – Caliph al-Adil of Morocco</li>
+              <li>1305 – Emperor Kameyama of Japan (born 1249)</li>
+              <li>1160 – Constance of Castile, Queen of France (born 1141)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1873 – Kintpuash, American tribal leader (born 1837)</li>
-              <li>1833 – François, Marquis de Chasseloup-Laubat, French general and engineer (born 1754)</li>
-              <li>1891 – Édouard Lucas, French mathematician and theorist (born 1842)</li>
+              <li>1680 – Pierre-Paul Riquet, French engineer, designed the Canal du Midi (born 1609)</li>
+              <li>1749 – Baron Franz von der Trenck, Austrian soldier (born 1711)</li>
+              <li>1827 – Grigorios Zalykis, Greek-French lexicographer and scholar (born 1785)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1994   – Dub Taylor, American actor (born 1907)</li>
-              <li>2015   – Javed Iqbal, Pakistani philosopher and judge (born 1925)</li>
-              <li>1911 – Rosetta Jane Birks, Australian suffragist (born 1856)</li>
+              <li>2015   – Neal Walk, American basketball player (born 1948)</li>
+              <li>1980 – Pyotr Masherov, First Secretary of the Communist Party of Byelorussia (born 1918)</li>
+              <li>2009 – Gerhard Kaufhold, German footballer (born 1928)</li>
             </ul>
           </div>
         </div>
