@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>AD 23 – Rebels sack the Chinese capital Chang'an during a peasant rebellion.</li>
-              <li>1363 – Battle of Lake Poyang: In one of the largest naval battles in history, Zhu Yuanzhang's rebels defeat rival Chen Youliang.</li>
-              <li>1209 – Otto IV is crowned Emperor of the Holy Roman Empire by Pope Innocent III.</li>
+              <li>869 – The Fourth Council of Constantinople is convened to depose patriarch Photios I.</li>
+              <li>816 – King Louis the Pious is crowned emperor of the Holy Roman Empire by the Pope.</li>
+              <li>1143 – With the signing of the Treaty of Zamora, King Alfonso VII of León and Castile recognises Portugal as a Kingdom.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1862 – American Civil War: The two-day Second Battle of Corinth ends in a Union victory, with General William Rosecrans protecting the critical rail junction of Corinth, Mississippi from Confederate forces under General Earl Van Dorn.</li>
-              <li>1853 – The Crimean War begins when the Ottoman Empire declares war on the Russian Empire.</li>
-              <li>1830 – The Belgian Revolution takes legal form when the provisional government secedes from the Netherlands.</li>
+              <li>1869 – The Saxby Gale devastates the Bay of Fundy region in Canada.</li>
+              <li>1869   – The Eastman tunnel, in Minnesota, United States, collapses during construction, causing a landslide that nearly destroys St. Anthony Falls.</li>
+              <li>1789 – French Revolution: The Women's March on Versailles effectively terminates royal authority.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1920 – The Mannerheim League for Child Welfare, a Finnish non-governmental organization, is founded on the initiative of Sophie Mannerheim.</li>
-              <li>1993 – Battle of Mogadishu occurs killing 18 U.S. Special Forces, two UN Peacekeepers and at least 600 Somalian militia men and civilians.</li>
-              <li>1963 – Hurricane Flora kills 6,000 in Cuba and Haiti.</li>
+              <li>1974 – Bombs planted by the PIRA in pubs in Guildford kill four British soldiers and one civilian.</li>
+              <li>1936 – The Jarrow March sets off for London.</li>
+              <li>2021 – Windows 11 is released to the general public.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1160 – Alys, Countess of the Vexin, daughter of Louis VII of France (died c. 1220)</li>
-              <li>1507 – Francis Bigod, English noble (died 1537)</li>
-              <li>1522 – Gabriele Paleotti, Catholic cardinal (died 1597)</li>
+              <li>1274 – Al-Dhahabi, Syrian scholar and historian (died 1348)</li>
+              <li>1520 – Alessandro Farnese, Italian cardinal and diplomat (died 1589)</li>
+              <li>1524 – Rani Durgavati, Queen of Gond (died 1564)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1879 – Robert Edwards, American artist, musician, and writer (died 1948)</li>
-              <li>1876 – Florence Eliza Allen, American mathematician and suffrage activist (died 1960)</li>
-              <li>1841 – Prudente de Morais, Brazilian lawyer and politician, 3rd President of Brazil (died 1912)</li>
+              <li>1888 – Mary Fuller, American actress and screenwriter (died 1973)</li>
+              <li>1877 – Mike O'Neill, Irish-American baseball player and manager (died 1959)</li>
+              <li>1887   – Manny Ziener, German actress (died 1972)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1948 – Iain Hewitson, New Zealand-Australian chef, restaurateur, author, and television personality</li>
-              <li>1961   – Jon Secada, Cuban-American singer-songwriter</li>
-              <li>1980 – Sarah Fisher, American race car driver</li>
+              <li>1923   – Albert Guðmundsson, Icelandic footballer and politician (died 1994)</li>
+              <li>1925 – Gail Davis, American actress (died 1997)</li>
+              <li>1975 – Bobo Baldé, French-Guinean footballer</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1227 – Caliph al-Adil of Morocco</li>
-              <li>1305 – Emperor Kameyama of Japan (born 1249)</li>
-              <li>1160 – Constance of Castile, Queen of France (born 1141)</li>
+              <li>1524 – Joachim Patinir, Flemish landscape painter (born c. 1480)</li>
+              <li>1564 – Pierre de Manchicourt, Flemish composer and educator (born 1510)</li>
+              <li>1056 – Henry III, Holy Roman Emperor (born 1016)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1680 – Pierre-Paul Riquet, French engineer, designed the Canal du Midi (born 1609)</li>
-              <li>1749 – Baron Franz von der Trenck, Austrian soldier (born 1711)</li>
-              <li>1827 – Grigorios Zalykis, Greek-French lexicographer and scholar (born 1785)</li>
+              <li>1827 – William Mullins, 2nd Baron Ventry, Anglo-Irish politician and peer (born 1761)</li>
+              <li>1714 – Kaibara Ekken, Japanese botanist and philosopher (born 1630)</li>
+              <li>1805 – Charles Cornwallis, 1st Marquess Cornwallis, English general and politician, Lord Lieutenant of Ireland (born 1738)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2015   – Neal Walk, American basketball player (born 1948)</li>
-              <li>1980 – Pyotr Masherov, First Secretary of the Communist Party of Byelorussia (born 1918)</li>
-              <li>2009 – Gerhard Kaufhold, German footballer (born 1928)</li>
+              <li>2003 – Dan Snyder, Canadian-American ice hockey player (born 1978)</li>
+              <li>1930 – Christopher Thomson, 1st Baron Thomson, Indian-English soldier and politician, Secretary of State for Air (born 1875)</li>
+              <li>2004   – Maurice Wilkins, New Zealand-English physicist and biologist, Nobel Prize laureate (born 1916)</li>
             </ul>
           </div>
         </div>
