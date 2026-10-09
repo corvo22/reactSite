@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>869 – The Fourth Council of Constantinople is convened to depose patriarch Photios I.</li>
-              <li>816 – King Louis the Pious is crowned emperor of the Holy Roman Empire by the Pope.</li>
-              <li>1143 – With the signing of the Treaty of Zamora, King Alfonso VII of León and Castile recognises Portugal as a Kingdom.</li>
+              <li>1410 – The first known mention of the Prague astronomical clock.</li>
+              <li>1238 – James I of Aragon founds the Kingdom of Valencia.</li>
+              <li>1594 – Pressed by a food embargo, the five Catholic cantons of Central Switzerland declare war on the Protestant canton of Zurich, starting the Second War of Kappel.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1869 – The Saxby Gale devastates the Bay of Fundy region in Canada.</li>
-              <li>1869   – The Eastman tunnel, in Minnesota, United States, collapses during construction, causing a landslide that nearly destroys St. Anthony Falls.</li>
-              <li>1789 – French Revolution: The Women's March on Versailles effectively terminates royal authority.</li>
+              <li>1604 – Kepler's Supernova is the most recent supernova to be observed within the Milky Way.</li>
+              <li>1635 – Roger Williams is banished from the Massachusetts Bay Colony after religious and policy disagreements.</li>
+              <li>1790 – A severe earthquake in northern Algeria causes severe damage and a tsunami in the Mediterranean Sea and kills three thousand.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1974 – Bombs planted by the PIRA in pubs in Guildford kill four British soldiers and one civilian.</li>
-              <li>1936 – The Jarrow March sets off for London.</li>
-              <li>2021 – Windows 11 is released to the general public.</li>
+              <li>2016 – The Arakan Rohingya Salvation Army launches its first attack on Myanmar security forces along the Bangladesh–Myanmar border.</li>
+              <li>1937 – Murder of 9 Catholic priests in Zhengding, China, who protected the local population from the advancing Japanese army.</li>
+              <li>2007 – The Dow Jones Industrial Average reaches its all-time high of 14,164 points before rapidly declining due to the 2008 financial crisis.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1274 – Al-Dhahabi, Syrian scholar and historian (died 1348)</li>
-              <li>1520 – Alessandro Farnese, Italian cardinal and diplomat (died 1589)</li>
-              <li>1524 – Rani Durgavati, Queen of Gond (died 1564)</li>
+              <li>1581 – Claude Gaspard Bachet de Méziriac, French mathematician, poet, and scholar (died 1638)</li>
+              <li>1201 – Robert de Sorbon, French minister and theologian, founded the Collège de Sorbonne (died 1274)</li>
+              <li>1221 – Salimbene di Adam, Italian historian and scholar (died 1290)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1888 – Mary Fuller, American actress and screenwriter (died 1973)</li>
-              <li>1877 – Mike O'Neill, Irish-American baseball player and manager (died 1959)</li>
-              <li>1887   – Manny Ziener, German actress (died 1972)</li>
+              <li>1895 – Eugene Bullard, American pilot (died 1961)</li>
+              <li>1898   – Joe Sewell, American baseball player (died 1990)</li>
+              <li>1893 – Mário de Andrade, Brazilian author, poet, and photographer (died 1945)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1923   – Albert Guðmundsson, Icelandic footballer and politician (died 1994)</li>
-              <li>1925 – Gail Davis, American actress (died 1997)</li>
-              <li>1975 – Bobo Baldé, French-Guinean footballer</li>
+              <li>1993 – Ani Amiraghyan, Armenian tennis player</li>
+              <li>1990   – Jake Lamb, American baseball player</li>
+              <li>1994 – Jodelle Ferland, Canadian actress</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1524 – Joachim Patinir, Flemish landscape painter (born c. 1480)</li>
-              <li>1564 – Pierre de Manchicourt, Flemish composer and educator (born 1510)</li>
-              <li>1056 – Henry III, Holy Roman Emperor (born 1016)</li>
+              <li>1581 – Louis Bertrand, Spanish missionary and saint (born 1526)</li>
+              <li>1296 – Louis III, Duke of Bavaria (born 1269)</li>
+              <li>680 – Ghislain, Frankish anchorite and saint</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1827 – William Mullins, 2nd Baron Ventry, Anglo-Irish politician and peer (born 1761)</li>
-              <li>1714 – Kaibara Ekken, Japanese botanist and philosopher (born 1630)</li>
-              <li>1805 – Charles Cornwallis, 1st Marquess Cornwallis, English general and politician, Lord Lieutenant of Ireland (born 1738)</li>
+              <li>1873 – George Ormerod, English historian and author (born 1785)</li>
+              <li>1806 – Benjamin Banneker, American astronomer and surveyor (born 1731)</li>
+              <li>1793 – Jean Joseph Marie Amiot, French missionary and linguist (born 1718)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2003 – Dan Snyder, Canadian-American ice hockey player (born 1978)</li>
-              <li>1930 – Christopher Thomson, 1st Baron Thomson, Indian-English soldier and politician, Secretary of State for Air (born 1875)</li>
-              <li>2004   – Maurice Wilkins, New Zealand-English physicist and biologist, Nobel Prize laureate (born 1916)</li>
+              <li>2024 – Ratan Tata, Indian businessman and philanthropist (born 1937)</li>
+              <li>1926 – Evald Relander, Finnish teacher, agronomist and banker (born 1856)</li>
+              <li>2009   – John Daido Loori, American Zen Buddhist monastic and teacher (born 1931)</li>
             </ul>
           </div>
         </div>
