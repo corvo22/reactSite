@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1410 – The first known mention of the Prague astronomical clock.</li>
-              <li>1238 – James I of Aragon founds the Kingdom of Valencia.</li>
-              <li>1594 – Pressed by a food embargo, the five Catholic cantons of Central Switzerland declare war on the Protestant canton of Zurich, starting the Second War of Kappel.</li>
+              <li>1575 – Roman Catholic forces under Henry I, Duke of Guise, defeat the Protestants, capturing Philippe de Mornay among others.</li>
+              <li>19 – The Roman general Germanicus dies near Antioch. He was convinced that the mysterious illness that ended in his death was a result of poisoning by the Syrian governor Gnaeus Calpurnius Piso, whom he had ordered to leave the province.</li>
+              <li>1471 – Sten Sture the Elder, the Regent of Sweden, with the help of farmers and miners, repels an attack by King Christian I of Denmark.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1604 – Kepler's Supernova is the most recent supernova to be observed within the Milky Way.</li>
-              <li>1635 – Roger Williams is banished from the Massachusetts Bay Colony after religious and policy disagreements.</li>
-              <li>1790 – A severe earthquake in northern Algeria causes severe damage and a tsunami in the Mediterranean Sea and kills three thousand.</li>
+              <li>1845 – In Annapolis, Maryland, the Naval School (later the United States Naval Academy) opens with 50 students.</li>
+              <li>1760 – In a treaty with the Dutch colonial authorities, the Ndyuka people of Suriname – descended from escaped slaves – gain territorial autonomy.</li>
+              <li>1780 – The Great Hurricane of 1780 kills 20,000–30,000 in the Caribbean.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2016 – The Arakan Rohingya Salvation Army launches its first attack on Myanmar security forces along the Bangladesh–Myanmar border.</li>
-              <li>1937 – Murder of 9 Catholic priests in Zhengding, China, who protected the local population from the advancing Japanese army.</li>
-              <li>2007 – The Dow Jones Industrial Average reaches its all-time high of 14,164 points before rapidly declining due to the 2008 financial crisis.</li>
+              <li>2018 – The National Fire and Rescue Administration is founded, replacing the China Fire Services [zh] and the People's Armed Police Forestry Corps [zh] as China's primary firefighting agency.</li>
+              <li>1963   – The Partial Nuclear Test Ban Treaty comes into effect.</li>
+              <li>1935 – In Greece, a coup d'état ends the Second Hellenic Republic.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1581 – Claude Gaspard Bachet de Méziriac, French mathematician, poet, and scholar (died 1638)</li>
-              <li>1201 – Robert de Sorbon, French minister and theologian, founded the Collège de Sorbonne (died 1274)</li>
-              <li>1221 – Salimbene di Adam, Italian historian and scholar (died 1290)</li>
+              <li>AD 19 – Tiberius Gemellus, Roman son of Drusus Julius Caesar and Livilla; adoptive son of the Emperor Caligula (died 38)</li>
+              <li>1332 – King Charles II of Navarre (died 1387)</li>
+              <li>1584 – Philip Herbert, 4th Earl of Pembroke (died 1649)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1895 – Eugene Bullard, American pilot (died 1961)</li>
-              <li>1898   – Joe Sewell, American baseball player (died 1990)</li>
-              <li>1893 – Mário de Andrade, Brazilian author, poet, and photographer (died 1945)</li>
+              <li>1877 – William Morris, 1st Viscount Nuffield, English businessman and philanthropist, founded Morris Motors (died 1963)</li>
+              <li>1731 – Henry Cavendish, French-English chemist, physicist, and philosopher (died 1810)</li>
+              <li>1858 – Maurice Prendergast, American painter and academic (died 1924)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1993 – Ani Amiraghyan, Armenian tennis player</li>
-              <li>1990   – Jake Lamb, American baseball player</li>
-              <li>1994 – Jodelle Ferland, Canadian actress</li>
+              <li>1914 – Tommy Fine, American baseball player and businessman (died 2005)</li>
+              <li>1946   – Chris Tarrant, English radio and television host</li>
+              <li>1995   – Courtland Sutton, American football player</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1581 – Louis Bertrand, Spanish missionary and saint (born 1526)</li>
-              <li>1296 – Louis III, Duke of Bavaria (born 1269)</li>
-              <li>680 – Ghislain, Frankish anchorite and saint</li>
+              <li>1308 – Patrick Dunbar, 8th Earl of Dunbar</li>
+              <li>1174 – Adela of Ponthieu, Countess of Surrey</li>
+              <li>1149 – Al-Hafiz, Fatimid imam-caliph (born 1074/77)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1873 – George Ormerod, English historian and author (born 1785)</li>
-              <li>1806 – Benjamin Banneker, American astronomer and surveyor (born 1731)</li>
-              <li>1793 – Jean Joseph Marie Amiot, French missionary and linguist (born 1718)</li>
+              <li>1723 – William Cowper, 1st Earl Cowper, English lawyer and politician, Lord High Chancellor of Great Britain (born 1665)</li>
+              <li>1806 – Prince Louis Ferdinand of Prussia (born 1772)</li>
+              <li>1759 – Granville Elliott, English general (born 1713)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2024 – Ratan Tata, Indian businessman and philanthropist (born 1937)</li>
-              <li>1926 – Evald Relander, Finnish teacher, agronomist and banker (born 1856)</li>
-              <li>2009   – John Daido Loori, American Zen Buddhist monastic and teacher (born 1931)</li>
+              <li>1987 – Behice Boran, Turkish Marxist politician, author and sociologist (born 1910)</li>
+              <li>1963 – Roy Cazaly, Australian footballer and coach (born 1893)</li>
+              <li>2014   – Ed Nimmervoll, Austrian-Australian journalist, historian, and author (born 1947)</li>
             </ul>
           </div>
         </div>
