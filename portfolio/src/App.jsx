@@ -115,62 +115,62 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1575 – Roman Catholic forces under Henry I, Duke of Guise, defeat the Protestants, capturing Philippe de Mornay among others.</li>
-              <li>19 – The Roman general Germanicus dies near Antioch. He was convinced that the mysterious illness that ended in his death was a result of poisoning by the Syrian governor Gnaeus Calpurnius Piso, whom he had ordered to leave the province.</li>
-              <li>1471 – Sten Sture the Elder, the Regent of Sweden, with the help of farmers and miners, repels an attack by King Christian I of Denmark.</li>
+              <li>1531 – The five Catholic cantons defeat the Protestant canton of Zurich in the battle of Kappel.</li>
+              <li>1138 – A massive earthquake strikes Aleppo; it is one of the most destructive earthquakes ever.</li>
+              <li>1142 – A peace treaty ends the Jin–Song wars.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1845 – In Annapolis, Maryland, the Naval School (later the United States Naval Academy) opens with 50 students.</li>
-              <li>1760 – In a treaty with the Dutch colonial authorities, the Ndyuka people of Suriname – descended from escaped slaves – gain territorial autonomy.</li>
-              <li>1780 – The Great Hurricane of 1780 kills 20,000–30,000 in the Caribbean.</li>
+              <li>1797 – The Royal Navy decisively defeats the Batavian Navy at Camperdown during the French Revolutionary Wars.</li>
+              <li>1811 – The Juliana begins operation as the first steam-powered ferry in New York harbor.</li>
+              <li>1852 – The University of Sydney, Australia's oldest university, is inaugurated in Sydney.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2018 – The National Fire and Rescue Administration is founded, replacing the China Fire Services [zh] and the People's Armed Police Forestry Corps [zh] as China's primary firefighting agency.</li>
-              <li>1963   – The Partial Nuclear Test Ban Treaty comes into effect.</li>
-              <li>1935 – In Greece, a coup d'état ends the Second Hellenic Republic.</li>
+              <li>1976 – George Washington is posthumously promoted to the grade of General of the Armies.</li>
+              <li>2013 – A migrant boat sinks in the Channel of Sicily, with at least 359 people drowning.</li>
+              <li>1984 – Aboard the Space Shuttle Challenger, astronaut Kathryn D. Sullivan becomes the first American woman to perform a space walk.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>AD 19 – Tiberius Gemellus, Roman son of Drusus Julius Caesar and Livilla; adoptive son of the Emperor Caligula (died 38)</li>
-              <li>1332 – King Charles II of Navarre (died 1387)</li>
-              <li>1584 – Philip Herbert, 4th Earl of Pembroke (died 1649)</li>
+              <li>1492 – Charles Orlando, Dauphin of France, French noble (died 1495)</li>
+              <li>1552 – Tsarevich Dmitry Ivanovich of Russia, Grand Prince of Moscow (died 1553)</li>
+              <li>1827 – Afzal-ud-Daulah, Asaf Jah V, 5th Nizam of Hyderabad</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1877 – William Morris, 1st Viscount Nuffield, English businessman and philanthropist, founded Morris Motors (died 1963)</li>
-              <li>1731 – Henry Cavendish, French-English chemist, physicist, and philosopher (died 1810)</li>
-              <li>1858 – Maurice Prendergast, American painter and academic (died 1924)</li>
+              <li>1879 – Ernst Mally, Austrian philosopher and academic (died 1944)</li>
+              <li>1885 – François Mauriac, French novelist, poet, and playwright, Nobel Prize laureate (died 1970)</li>
+              <li>1932 – Saul Friedländer, Israeli historian and author</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1914 – Tommy Fine, American baseball player and businessman (died 2005)</li>
-              <li>1946   – Chris Tarrant, English radio and television host</li>
-              <li>1995   – Courtland Sutton, American football player</li>
+              <li>1932   – Dottie West, American singer-songwriter and actress (died 1991)</li>
+              <li>1965   – Alexander Hacke, German singer-songwriter, guitarist, and producer</li>
+              <li>1159 – William of Blois, Count of Boulogne and Earl of Surrey (born c. 1137)</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1308 – Patrick Dunbar, 8th Earl of Dunbar</li>
-              <li>1174 – Adela of Ponthieu, Countess of Surrey</li>
-              <li>1149 – Al-Hafiz, Fatimid imam-caliph (born 1074/77)</li>
+              <li>1542 – Thomas Wyatt, English poet and diplomat (born 1503)</li>
+              <li>1188 – Robert I, Count of Dreux (born 1123)</li>
+              <li>1721 – Edward Colston, English merchant and politician (born 1636)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1723 – William Cowper, 1st Earl Cowper, English lawyer and politician, Lord High Chancellor of Great Britain (born 1665)</li>
-              <li>1806 – Prince Louis Ferdinand of Prussia (born 1772)</li>
-              <li>1759 – Granville Elliott, English general (born 1713)</li>
+              <li>1897 – Léon Boëllmann, French organist and composer (born 1862)</li>
+              <li>1698 – William Molyneux, Irish philosopher and writer (born 1656)</li>
+              <li>1935 – Steele Rudd, Australian author (born 1868)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1987 – Behice Boran, Turkish Marxist politician, author and sociologist (born 1910)</li>
-              <li>1963 – Roy Cazaly, Australian footballer and coach (born 1893)</li>
+              <li>2000 – Luc-Marie Bayle, French historian, photographer, and painter (born 1914)</li>
+              <li>1977 – MacKinlay Kantor, American journalist, author, and screenwriter (born 1904)</li>
               <li>2014   – Ed Nimmervoll, Austrian-Australian journalist, historian, and author (born 1947)</li>
             </ul>
           </div>
