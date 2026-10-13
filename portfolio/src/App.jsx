@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1279 – The Nichiren Shōshū branch of Buddhism is founded in Japan.</li>
-              <li>166 AD – Roman emperors Marcus Aurelius and Lucius Verus celebrate a triumph in Rome for the successful completion of their war with the Partians.</li>
-              <li>1406 – Chen Yanxiang, the only person from Indonesia known to have visited dynastic Korea, reaches Seoul after having set out from Java four months before.</li>
+              <li>1307 – Hundreds of the Knights Templar in France are arrested at dawn by King Philip the Fair, and later confess under torture to heresy.</li>
+              <li>409 – Vandals and Alans cross the Pyrenees and appear in Hispania.</li>
+              <li>1399 – Coronation of Henry IV of England at Westminster Abbey.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1799 – Jeanne Geneviève Labrosse becomes the first woman to jump from a balloon with a parachute.</li>
-              <li>1793 – The cornerstone of Old East, the oldest state university building in the United States, is laid at the University of North Carolina at Chapel Hill.</li>
-              <li>1654 – The Delft Explosion devastates the city in the Netherlands, killing more than 100 people.</li>
+              <li>1892 – Edward Emerson Barnard is first to discover a comet by photographic means.</li>
+              <li>1885 – The Georgia Institute of Technology is founded in Atlanta, Georgia.</li>
+              <li>1775 – The Continental Congress establishes the Continental Navy (predecessor of the United States Navy).</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1917 – World War I: The First Battle of Passchendaele takes place resulting in the largest single-day loss of life in New Zealand history.</li>
-              <li>1901 – President Theodore Roosevelt officially renames the "Executive Mansion" to the White House.</li>
-              <li>1976 – Indian Airlines Flight 171 crashes at Santacruz Airport in Bombay, India, killing 95.</li>
+              <li>1993 – At least 60 people die in eastern Papua New Guinea when a series of earthquakes rock the Finisterre Range, triggering massive landslides.</li>
+              <li>1976 – The first electron micrograph of an Ebola virus is taken at the Centers for Disease Control and Prevention by Dr. F. A. Murphy.</li>
+              <li>1962 – The Pacific Northwest experiences a cyclone the equal of a Category 3 hurricane, with winds above 150 mph. Forty-six people die.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1350 – Dmitri Donskoi, Grand Duke of Moscow (died 1389)</li>
-              <li>1008 – Go-Ichijō, emperor of Japan (died 1036)</li>
-              <li>1576 – Thomas Dudley, English-American soldier and politician, 3rd Governor of the Massachusetts Bay Colony (died 1653)</li>
+              <li>1499 – Claude of France (died 1524)</li>
+              <li>1453 – Edward of Westminster, Prince of Wales, son and heir of Henry VI of England (died 1471)</li>
+              <li>1563 – Francis Caracciolo, Italian Catholic priest (died 1608)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1602 – William Chillingworth, English scholar and theologian (died 1644)</li>
-              <li>1815 – William J. Hardee, American general (died 1873)</li>
-              <li>1614 – Henry More, English philosopher (died 1687)</li>
+              <li>1887 – Jozef Tiso, Slovak priest and politician, President of Slovakia (died 1947)</li>
+              <li>1853 – Lillie Langtry, English actress and singer (died 1929)</li>
+              <li>1867 – Jacques Inaudi, Italian calculating prodigy (died 1950)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1935 – Luciano Pavarotti, Italian tenor and actor (died 2007)</li>
-              <li>1914 – John E. Hodge, African-American chemist (died 1996)</li>
-              <li>1932 – Dick Gregory, American comedian, actor, and author (died 2017)</li>
+              <li>1941 – Neil Aspinall, Welsh-English record producer and manager (died 2008)</li>
+              <li>1923 – John C. Champion, American screenwriter and producer (died 1994)</li>
+              <li>1929 – Richard Howard, American poet, critic, and translator (died 2022)</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1176 – William d'Aubigny, 1st Earl of Arundel, English politician (born 1109)</li>
-              <li>1600 – Luis de Molina, Spanish priest and philosopher (born 1535)</li>
-              <li>1448 – Zhu Quan, Chinese prince, historian and playwright (born 1378)</li>
+              <li>1093 – Robert I, count of Flanders (born 1035)</li>
+              <li>1100 – Guy I, count of Ponthieu</li>
+              <li>807 – Simpert, bishop of Augsburg</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1730 – Frederick IV, king of Denmark and Norway (born 1671)</li>
-              <li>1896 – Christian Emil Krag-Juel-Vind-Frijs, Danish lawyer and politician, 9th Council President of Denmark (born 1817)</li>
-              <li>1828 – Ioan Nicolidi of Pindus, Aromanian physician and noble (born 1737)</li>
+              <li>1815 – Joachim Murat, French general (born 1767)</li>
+              <li>1605 – Theodore Beza, French theologian and scholar (born 1519)</li>
+              <li>1882 – Arthur de Gobineau, French philosopher and author (born 1816)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1965 – Paul Hermann Müller, Swiss chemist and academic, Nobel Prize laureate (born 1899)</li>
-              <li>2014   – Roberto Telch, Argentinian footballer and coach (born 1943)</li>
-              <li>1972 – Robert Le Vigan, French-Argentinian actor and politician (born 1900)</li>
+              <li>2006 – Wang Guangmei, Chinese philanthropist and politician, 2nd Spouse of the President of the People's Republic of China (born 1921)</li>
+              <li>2024 – Mayra Gómez Kemp, Cuban-Spanish television host and actress (born 1948)</li>
+              <li>1992 – James Marshall, American author and illustrator (born 1942)</li>
             </ul>
           </div>
         </div>
