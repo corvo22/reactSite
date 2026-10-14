@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1307 – Hundreds of the Knights Templar in France are arrested at dawn by King Philip the Fair, and later confess under torture to heresy.</li>
-              <li>409 – Vandals and Alans cross the Pyrenees and appear in Hispania.</li>
-              <li>1399 – Coronation of Henry IV of England at Westminster Abbey.</li>
+              <li>1322 – Robert the Bruce of Scotland defeats King Edward II of England at the Battle of Old Byland, forcing Edward to accept Scotland's independence.</li>
+              <li>1066 – The Norman conquest of England begins with the Battle of Hastings.</li>
+              <li>1586 – Mary, Queen of Scots, goes on trial for conspiracy against Queen Elizabeth I of England.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1892 – Edward Emerson Barnard is first to discover a comet by photographic means.</li>
-              <li>1885 – The Georgia Institute of Technology is founded in Atlanta, Georgia.</li>
-              <li>1775 – The Continental Congress establishes the Continental Navy (predecessor of the United States Navy).</li>
+              <li>1898 – The steam ship SS Mohegan sinks near the Lizard peninsula, Cornwall, killing 106.</li>
+              <li>1676 – After superior Ottoman forces fail to break through Polish defenses under Jan Sobieski in the battle of Żurawno, the Ottoman commander initiates negotiations.</li>
+              <li>1809 – The Treaty of Schönbrunn is signed, ending the War of the Fifth Coalition, the final successful war in Napoleon Bonaparte's military career.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1993 – At least 60 people die in eastern Papua New Guinea when a series of earthquakes rock the Finisterre Range, triggering massive landslides.</li>
-              <li>1976 – The first electron micrograph of an Ebola virus is taken at the Centers for Disease Control and Prevention by Dr. F. A. Murphy.</li>
-              <li>1962 – The Pacific Northwest experiences a cyclone the equal of a Category 3 hurricane, with winds above 150 mph. Forty-six people die.</li>
+              <li>1991 – Burmese opposition leader Aung San Suu Kyi is awarded the Nobel Peace Prize.</li>
+              <li>1975 – An RAF Avro Vulcan bomber explodes and crashes over Żabbar, Malta after an aborted landing, killing five crew members and one person on the ground.</li>
+              <li>1962 – The Cuban Missile Crisis begins when an American reconnaissance aircraft takes photographs of Soviet ballistic missiles being installed in Cuba.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1499 – Claude of France (died 1524)</li>
-              <li>1453 – Edward of Westminster, Prince of Wales, son and heir of Henry VI of England (died 1471)</li>
-              <li>1563 – Francis Caracciolo, Italian Catholic priest (died 1608)</li>
+              <li>1425 – Alesso Baldovinetti, Italian painter (died 1499)</li>
+              <li>1465 – Konrad Peutinger, German humanist and antiquarian (died 1547)</li>
+              <li>1569 – Giambattista Marino, Italian poet (died 1625)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1887 – Jozef Tiso, Slovak priest and politician, President of Slovakia (died 1947)</li>
-              <li>1853 – Lillie Langtry, English actress and singer (died 1929)</li>
-              <li>1867 – Jacques Inaudi, Italian calculating prodigy (died 1950)</li>
+              <li>1609 – Ernest Günther, Duke of Schleswig-Holstein-Sonderburg-Augustenburg (died 1689)</li>
+              <li>1643 – Bahadur Shah I, Mughal emperor (died 1712)</li>
+              <li>1644 – William Penn, English businessman who founded Pennsylvania (died 1718)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1941 – Neil Aspinall, Welsh-English record producer and manager (died 2008)</li>
-              <li>1923 – John C. Champion, American screenwriter and producer (died 1994)</li>
-              <li>1929 – Richard Howard, American poet, critic, and translator (died 2022)</li>
+              <li>1940 – Perrie Mans, South African snooker player (died 2023)</li>
+              <li>1909   – Dorothy Kingsley, American screenwriter and producer (died 1997)</li>
+              <li>1977   – Barry Ditewig, Dutch footballer</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1093 – Robert I, count of Flanders (born 1035)</li>
-              <li>1100 – Guy I, count of Ponthieu</li>
-              <li>807 – Simpert, bishop of Augsburg</li>
+              <li>1066 – Battle of Hastings:</li>
+              <li>1552 – Oswald Myconius, Swiss theologian and reformer (born 1488)</li>
+              <li>1366 – Ibn Nubata, Arab poet (born 1287)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1815 – Joachim Murat, French general (born 1767)</li>
-              <li>1605 – Theodore Beza, French theologian and scholar (born 1519)</li>
-              <li>1882 – Arthur de Gobineau, French philosopher and author (born 1816)</li>
+              <li>1669 – Antonio Cesti, Italian organist and composer (born 1623)</li>
+              <li>1631 – Sophie of Mecklenburg-Güstrow, queen of Denmark and Norway (born 1557)</li>
+              <li>1831 – Jean-Louis Pons, French astronomer and educator (born 1761)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2006 – Wang Guangmei, Chinese philanthropist and politician, 2nd Spouse of the President of the People's Republic of China (born 1921)</li>
-              <li>2024 – Mayra Gómez Kemp, Cuban-Spanish television host and actress (born 1948)</li>
-              <li>1992 – James Marshall, American author and illustrator (born 1942)</li>
+              <li>2014 – A. H. Halsey, English sociologist and academic (born 1923)</li>
+              <li>2015   – Margaret Keyes, American historian and academic (born 1918)</li>
+              <li>1967 – Marcel Aymé, French author and playwright (born 1902)</li>
             </ul>
           </div>
         </div>
