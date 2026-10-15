@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1322 – Robert the Bruce of Scotland defeats King Edward II of England at the Battle of Old Byland, forcing Edward to accept Scotland's independence.</li>
-              <li>1066 – The Norman conquest of England begins with the Battle of Hastings.</li>
-              <li>1586 – Mary, Queen of Scots, goes on trial for conspiracy against Queen Elizabeth I of England.</li>
+              <li>961 – Al-Hakam II becomes caliph of Cordoba upon the death of his father Abd al-Rahman III.</li>
+              <li>1582 – Adoption of the Gregorian calendar begins, eventually leading to near-universal adoption.</li>
+              <li>1066 – Following the death of Harold II at the Battle of Hastings, Edgar the Ætheling is proclaimed King of England by the Witan; he is never crowned, and concedes power to William the Conqueror two months later.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1898 – The steam ship SS Mohegan sinks near the Lizard peninsula, Cornwall, killing 106.</li>
-              <li>1676 – After superior Ottoman forces fail to break through Polish defenses under Jan Sobieski in the battle of Żurawno, the Ottoman commander initiates negotiations.</li>
-              <li>1809 – The Treaty of Schönbrunn is signed, ending the War of the Fifth Coalition, the final successful war in Napoleon Bonaparte's military career.</li>
+              <li>1781 – The Battle of Raft Swamp marks the last battle fought in North Carolina during the American Revolutionary War with a Patriot victory. It occurred four days before the British surrender at Yorktown.</li>
+              <li>1815 – Napoleon begins his exile on Saint Helena in the South Atlantic Ocean.</li>
+              <li>1888 – The "From Hell" letter allegedly sent by Jack the Ripper is received by investigators.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1991 – Burmese opposition leader Aung San Suu Kyi is awarded the Nobel Peace Prize.</li>
-              <li>1975 – An RAF Avro Vulcan bomber explodes and crashes over Żabbar, Malta after an aborted landing, killing five crew members and one person on the ground.</li>
-              <li>1962 – The Cuban Missile Crisis begins when an American reconnaissance aircraft takes photographs of Soviet ballistic missiles being installed in Cuba.</li>
+              <li>2007 – Seventeen activists in New Zealand are arrested in the country's first post-9/11 anti-terrorism raids.</li>
+              <li>1928 – The airship Graf Zeppelin completes its first trans-Atlantic flight, landing at Lakehurst, New Jersey, United States.</li>
+              <li>1979   – A coup d'état in El Salvador overthrows President Carlos Humberto Romero and begins the 12 year-long Salvadoran Civil War.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1425 – Alesso Baldovinetti, Italian painter (died 1499)</li>
-              <li>1465 – Konrad Peutinger, German humanist and antiquarian (died 1547)</li>
-              <li>1569 – Giambattista Marino, Italian poet (died 1625)</li>
+              <li>1542 – Akbar, Mughal emperor (died 1605)</li>
+              <li>1471 – Konrad Mutian, German epigrammatist and academic (died 1526)</li>
+              <li>1564 – Henry Julius, Duke of Brunswick-Lüneburg (died 1613)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1609 – Ernest Günther, Duke of Schleswig-Holstein-Sonderburg-Augustenburg (died 1689)</li>
-              <li>1643 – Bahadur Shah I, Mughal emperor (died 1712)</li>
-              <li>1644 – William Penn, English businessman who founded Pennsylvania (died 1718)</li>
+              <li>1784 – Thomas Robert Bugeaud, French general and politician, Governor-General of Algeria (died 1849)</li>
+              <li>1816 – John Robertson, English-Australian politician, 5th Premier of New South Wales (died 1891)</li>
+              <li>1762 – Samuel Adams Holyoke, American composer and educator (died 1820)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1940 – Perrie Mans, South African snooker player (died 2023)</li>
-              <li>1909   – Dorothy Kingsley, American screenwriter and producer (died 1997)</li>
-              <li>1977   – Barry Ditewig, Dutch footballer</li>
+              <li>1959   – Todd Solondz, American actor, director, and screenwriter</li>
+              <li>1970 – Ginuwine, American singer-songwriter, dancer, and actor</li>
+              <li>1923 – Italo Calvino, Italian novelist, short story writer, and journalist (died 1985)</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1066 – Battle of Hastings:</li>
-              <li>1552 – Oswald Myconius, Swiss theologian and reformer (born 1488)</li>
-              <li>1366 – Ibn Nubata, Arab poet (born 1287)</li>
+              <li>412 – Theophilus, Patriarch of Alexandria</li>
+              <li>55 BC – Lucretius, Roman poet and philosopher (born 98 BC)</li>
+              <li>1564 – Andreas Vesalius, Belgian-Greek anatomist, physician, and author (born 1514)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1669 – Antonio Cesti, Italian organist and composer (born 1623)</li>
-              <li>1631 – Sophie of Mecklenburg-Güstrow, queen of Denmark and Norway (born 1557)</li>
-              <li>1831 – Jean-Louis Pons, French astronomer and educator (born 1761)</li>
+              <li>1817 – Tadeusz Kościuszko, Polish-Lithuanian general and engineer (born 1746)</li>
+              <li>1838 – Letitia Elizabeth Landon, English poet and novelist (born 1802)</li>
+              <li>1684 – Géraud de Cordemoy, French historian, philosopher and lawyer (born 1626)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2014 – A. H. Halsey, English sociologist and academic (born 1923)</li>
-              <li>2015   – Margaret Keyes, American historian and academic (born 1918)</li>
-              <li>1967 – Marcel Aymé, French author and playwright (born 1902)</li>
+              <li>2021 – David Amess, British politician, member of Parliament for Southend West (born 1952)</li>
+              <li>1910 – Stanley Ketchel, American boxer (born 1886)</li>
+              <li>1999 – Josef Locke, British-Irish soldier, policeman, tenor and actor (born 1917)</li>
             </ul>
           </div>
         </div>
