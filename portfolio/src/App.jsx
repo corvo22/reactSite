@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>961 – Al-Hakam II becomes caliph of Cordoba upon the death of his father Abd al-Rahman III.</li>
-              <li>1582 – Adoption of the Gregorian calendar begins, eventually leading to near-universal adoption.</li>
-              <li>1066 – Following the death of Harold II at the Battle of Hastings, Edgar the Ætheling is proclaimed King of England by the Witan; he is never crowned, and concedes power to William the Conqueror two months later.</li>
+              <li>1367 – Pope Urban V enters Rome, the first pope to do so in more than fifty years since the begin of the Avignon Papacy.</li>
+              <li>912 – Abd ar-Rahman III becomes the eighth Emir of Córdoba.</li>
+              <li>1590 – Prince Gesualdo of Venosa murders his wife and her lover.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1781 – The Battle of Raft Swamp marks the last battle fought in North Carolina during the American Revolutionary War with a Patriot victory. It occurred four days before the British surrender at Yorktown.</li>
-              <li>1815 – Napoleon begins his exile on Saint Helena in the South Atlantic Ocean.</li>
-              <li>1888 – The "From Hell" letter allegedly sent by Jack the Ripper is received by investigators.</li>
+              <li>1805 – War of the Third Coalition: Napoleon surrounds the Austrian army at Ulm.</li>
+              <li>1834 – Much of the ancient structure of the Palace of Westminster in London burns to the ground.</li>
+              <li>1891 –  A diplomatic incident between the United States and Chile occurred after U.S. sailors were attacked in Valparaíso, nearly leading to war.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2007 – Seventeen activists in New Zealand are arrested in the country's first post-9/11 anti-terrorism raids.</li>
-              <li>1928 – The airship Graf Zeppelin completes its first trans-Atlantic flight, landing at Lakehurst, New Jersey, United States.</li>
-              <li>1979   – A coup d'état in El Salvador overthrows President Carlos Humberto Romero and begins the 12 year-long Salvadoran Civil War.</li>
+              <li>1968   – Yasunari Kawabata becomes the first Japanese person to be awarded the Nobel Prize in Literature.</li>
+              <li>1995   – The Skye Bridge in Scotland is opened.</li>
+              <li>2002 – The Bibliotheca Alexandrina opens in Egypt, commemorating the ancient library of Alexandria.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1542 – Akbar, Mughal emperor (died 1605)</li>
-              <li>1471 – Konrad Mutian, German epigrammatist and academic (died 1526)</li>
-              <li>1564 – Henry Julius, Duke of Brunswick-Lüneburg (died 1613)</li>
+              <li>1535 – Niwa Nagahide, Japanese samurai (died 1585)</li>
+              <li>1396 – William de la Pole, 1st Duke of Suffolk, English admiral (died 1450)</li>
+              <li>1483 – Gasparo Contarini, Italian cardinal and diplomat (died 1542)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1784 – Thomas Robert Bugeaud, French general and politician, Governor-General of Algeria (died 1849)</li>
-              <li>1816 – John Robertson, English-Australian politician, 5th Premier of New South Wales (died 1891)</li>
-              <li>1762 – Samuel Adams Holyoke, American composer and educator (died 1820)</li>
+              <li>1855 – Samad bey Mehmandarov, Azerbaijani general and politician, 3rd Azerbaijani Minister of Defense (died 1931)</li>
+              <li>1873 – Juho Kekkonen, Finnish forestry manager and tenant farmer (died 1928)</li>
+              <li>1884 – Rembrandt Bugatti, Italian sculptor (died 1916)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1959   – Todd Solondz, American actor, director, and screenwriter</li>
-              <li>1970 – Ginuwine, American singer-songwriter, dancer, and actor</li>
-              <li>1923 – Italo Calvino, Italian novelist, short story writer, and journalist (died 1985)</li>
+              <li>1903   – Big Joe Williams, American Delta blues singer-songwriter and guitarist (died 1982)</li>
+              <li>1999 – Aaron Nesmith, American basketball player</li>
+              <li>1968 – Randall Batinkoff, American actor and producer</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>412 – Theophilus, Patriarch of Alexandria</li>
-              <li>55 BC – Lucretius, Roman poet and philosopher (born 98 BC)</li>
-              <li>1564 – Andreas Vesalius, Belgian-Greek anatomist, physician, and author (born 1514)</li>
+              <li>1594 – William Allen, English cardinal (born 1532)</li>
+              <li>385 – Fu Jian, Chinese emperor (born 337)</li>
+              <li>1333 – Nicholas V, antipope of Rome (born 1260)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1817 – Tadeusz Kościuszko, Polish-Lithuanian general and engineer (born 1746)</li>
-              <li>1838 – Letitia Elizabeth Landon, English poet and novelist (born 1802)</li>
-              <li>1684 – Géraud de Cordemoy, French historian, philosopher and lawyer (born 1626)</li>
+              <li>1793   – John Hunter, Scottish-English surgeon and philosopher (born 1728)</li>
+              <li>1730   – Nevşehirli Damat Ibrahim Pasha, Greek politician, 139th Grand Vizier of the Ottoman Empire (born 1666)</li>
+              <li>1679 – Roger Boyle, 1st Earl of Orrery, Irish-English soldier and politician (born 1621)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2021 – David Amess, British politician, member of Parliament for Southend West (born 1952)</li>
-              <li>1910 – Stanley Ketchel, American boxer (born 1886)</li>
-              <li>1999 – Josef Locke, British-Irish soldier, policeman, tenor and actor (born 1917)</li>
+              <li>1973 – Gene Krupa, American drummer, composer, and actor (born 1909)</li>
+              <li>2010   – Barbara Billingsley, American actress (born 1915)</li>
+              <li>1989   – Cornel Wilde, American actor (born 1912)</li>
             </ul>
           </div>
         </div>
