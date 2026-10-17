@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1367 – Pope Urban V enters Rome, the first pope to do so in more than fifty years since the begin of the Avignon Papacy.</li>
-              <li>912 – Abd ar-Rahman III becomes the eighth Emir of Córdoba.</li>
-              <li>1590 – Prince Gesualdo of Venosa murders his wife and her lover.</li>
+              <li>1448 – The second Battle of Kosovo begins between Hungarian forces under John Hunyadi and Ottoman forces under Murad II.</li>
+              <li>690 – Empress Wu Zetian establishes the Zhou Dynasty of China.</li>
+              <li>1091 – London tornado of 1091: A tornado thought to be of strength T8/F4 strikes the heart of London.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1805 – War of the Third Coalition: Napoleon surrounds the Austrian army at Ulm.</li>
-              <li>1834 – Much of the ancient structure of the Palace of Westminster in London burns to the ground.</li>
-              <li>1891 –  A diplomatic incident between the United States and Chile occurred after U.S. sailors were attacked in Valparaíso, nearly leading to war.</li>
+              <li>1861 – Aboriginal Australians kill nineteen Europeans in the Cullin-la-ringo massacre.</li>
+              <li>1806 – Former leader of the Haitian Revolution, Emperor Jacques I, is assassinated after an oppressive rule.</li>
+              <li>1800 – War of the Second Coalition: Britain takes control of the Dutch colony of Curaçao.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1968   – Yasunari Kawabata becomes the first Japanese person to be awarded the Nobel Prize in Literature.</li>
-              <li>1995   – The Skye Bridge in Scotland is opened.</li>
-              <li>2002 – The Bibliotheca Alexandrina opens in Egypt, commemorating the ancient library of Alexandria.</li>
+              <li>1989   – The East German Politburo votes to remove Erich Honecker from his role as General Secretary.</li>
+              <li>1912 – Bulgaria, Greece and Serbia declare war on the Ottoman Empire, joining Montenegro in the First Balkan War.</li>
+              <li>1966 – The 23rd Street Fire in New York City kills 12 firefighters.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1535 – Niwa Nagahide, Japanese samurai (died 1585)</li>
-              <li>1396 – William de la Pole, 1st Duke of Suffolk, English admiral (died 1450)</li>
-              <li>1483 – Gasparo Contarini, Italian cardinal and diplomat (died 1542)</li>
+              <li>503 – Lý Nam Đế, first emperor of Vietnam (died 548)</li>
+              <li>1538 – Irene di Spilimbergo, Italian Renaissance poet and painter (died 1559)</li>
+              <li>1500 – Alonso de Orozco Mena, Spanish Roman Catholic priest (died 1591)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1855 – Samad bey Mehmandarov, Azerbaijani general and politician, 3rd Azerbaijani Minister of Defense (died 1931)</li>
-              <li>1873 – Juho Kekkonen, Finnish forestry manager and tenant farmer (died 1928)</li>
-              <li>1884 – Rembrandt Bugatti, Italian sculptor (died 1916)</li>
+              <li>1828 – Aureliano Maestre de San Juan, Spanish scientist (died 1890)</li>
+              <li>1817 – Syed Ahmad Khan, Indian philosopher and scholar (died 1898)</li>
+              <li>1867 – Josep Puig i Cadafalch, Catalan architect who designed the Casa Martí (died 1956)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1903   – Big Joe Williams, American Delta blues singer-songwriter and guitarist (died 1982)</li>
-              <li>1999 – Aaron Nesmith, American basketball player</li>
-              <li>1968 – Randall Batinkoff, American actor and producer</li>
+              <li>1984   – Giovanni Marchese, Italian footballer</li>
+              <li>1961 – David Means, American short story writer</li>
+              <li>1970   – J. C. MacKenzie, Canadian actor</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1594 – William Allen, English cardinal (born 1532)</li>
-              <li>385 – Fu Jian, Chinese emperor (born 337)</li>
-              <li>1333 – Nicholas V, antipope of Rome (born 1260)</li>
+              <li>1485 – John Scott of Scott's Hall, Warden of the Cinque Ports</li>
+              <li>532 – Pope Boniface II</li>
+              <li>1575 – Gaspar Cervantes de Gaeta, Spanish cardinal (born 1511)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1793   – John Hunter, Scottish-English surgeon and philosopher (born 1728)</li>
-              <li>1730   – Nevşehirli Damat Ibrahim Pasha, Greek politician, 139th Grand Vizier of the Ottoman Empire (born 1666)</li>
-              <li>1679 – Roger Boyle, 1st Earl of Orrery, Irish-English soldier and politician (born 1621)</li>
+              <li>1616 – John Pitts, English priest and scholar (born 1560)</li>
+              <li>1868 – Laura Secord, Canadian war heroine (born 1775)</li>
+              <li>1780 – William Cookworthy, English pharmacist and minister (born 1705)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1973 – Gene Krupa, American drummer, composer, and actor (born 1909)</li>
-              <li>2010   – Barbara Billingsley, American actress (born 1915)</li>
-              <li>1989   – Cornel Wilde, American actor (born 1912)</li>
+              <li>2014 – Edwards Barham, American farmer and politician (born 1937)</li>
+              <li>1979 – S. J. Perelman, American humorist and screenwriter (born 1904)</li>
+              <li>1997 – Larry Jennings, American magician and author (born 1933)</li>
             </ul>
           </div>
         </div>
