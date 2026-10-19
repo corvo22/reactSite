@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1081 – The Normans defeat the Byzantine Empire in the Battle of Dyrrhachium.</li>
-              <li>1166 – Michael the Syrian, one of the most important Syriac historians, is consecrated as Syriac Orthodox Patriarch at the Mor Bar Sauma Monastery.</li>
-              <li>1599 – Michael the Brave, Prince of Wallachia, defeats the Army of Andrew Báthory in the Battle of Șelimbăr, leading to the first recorded unification of the Romanian people.</li>
+              <li>1466 – The Thirteen Years' War between Poland and the Teutonic Order ends with the Second Treaty of Thorn.</li>
+              <li>1469 – Ferdinand II of Aragon marries Isabella I of Castile, a marriage that paves the way to the unification of Aragon and Castile into a single country, Spain.</li>
+              <li>615 – Consecration of Pope Adeodatus I following the imperial approval of his election.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1887 – Johannes Brahms conducts the premiere of his Double Concerto, composed for violinist Joseph Joachim and cellist Robert Hausmann.</li>
-              <li>1748 – Signing of the Treaty of Aix-la-Chapelle ends the War of the Austrian Succession.</li>
-              <li>1775 – African-American poet Phillis Wheatley is freed from slavery.</li>
+              <li>1864   – American Civil War: Confederate agents based in Canada rob three banks in Saint Albans, Vermont.</li>
+              <li>1649 – New Ross town in Ireland surrenders to Oliver Cromwell.</li>
+              <li>1812 – The French invasion of Russia fails when Napoleon begins his retreat from Moscow.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1977 – German Autumn: A set of events revolving around the kidnapping of Hanns Martin Schleyer and the hijacking of a Lufthansa flight by the Red Army Faction (RAF) comes to an end when Schleyer is murdered and various RAF members allegedly commit suicide.</li>
-              <li>1914 – The Schoenstatt Apostolic Movement is founded in Germany.</li>
-              <li>1945   – A group of the Venezuelan Armed Forces, led by Mario Vargas, Marcos Pérez Jiménez and Carlos Delgado Chalbaud, stages a coup d'état against president Isaías Medina Angarita, who is overthrown by the end of the day.</li>
+              <li>1936 – New York World-Telegram reporter Herbert Ekins won a race against two other New York newspaper journalists to travel around the world on commercial airline flights. He accomplished the feat in 18 ½ days. His opponents were New York Evening Journal reporter Dorothy Kilgallen, who finished in second place, and New York Times reporter Leo Kieran.</li>
+              <li>1950   – Korean War: The Battle of Pyongyang ends in a United Nations victory. Hours later, the Chinese Army begins crossing the border into Korea.</li>
+              <li>1986 – The president of Mozambique and a prominent leader of FRELIMO, along with 33 others, die when their aircraft crashes into the Lebombo Mountains.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1547 – Justus Lipsius, Belgian philologist and scholar (died 1606)</li>
-              <li>1127 – Emperor Go-Shirakawa of Japan (died 1192)</li>
-              <li>1482 – Philipp III, Count of Hanau-Lichtenberg (died 1538)</li>
+              <li>879 – Yingtian, empress of the Khitan Liao Dynasty (died 953)</li>
+              <li>1276 – Prince Hisaaki of Japan (died 1328)</li>
+              <li>1507 – Viglius, Dutch politician (died 1577)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1770 – Thomas Phillips, English artist (died 1845)</li>
-              <li>1878 – James Truslow Adams, American historian and author (died 1949)</li>
-              <li>1894   – Tibor Déry, Hungarian author and translator (died 1977)</li>
+              <li>1850 – Annie Smith Peck, American mountaineer and academic (died 1935)</li>
+              <li>1789 – Theophilos Kairis, Greek priest and philosopher (died 1853)</li>
+              <li>1900 – Erna Berger, German soprano and actress (died 1990)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1981   – Greg Warren, American football player</li>
-              <li>1955   – Rita Verdonk, Dutch journalist and politician, Dutch Minister of Justice</li>
-              <li>1994 – Enhō Akira, Japanese sumo wrestler</li>
+              <li>1980   – Benjamin Salisbury, American actor</li>
+              <li>1995 – Sammis Reyes, Chilean-American football and basketball player</li>
+              <li>1981 – Leon Bott, Australian rugby league player</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>325 – Emperor Ming of Jin (born 299)</li>
-              <li>815 – Abu'l-Saraya, Zaydi rebel leader</li>
-              <li>1081 – Nikephoros Palaiologos, Byzantine general</li>
+              <li>1375 – Cansignorio della Scala, Lord of Verona (born 1340)</li>
+              <li>1401 – John Charleton, 4th Baron Cherleton (born 1362)</li>
+              <li>1216 – John, King of England (born 1166)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1893 – Charles Gounod, French composer and educator (born 1818)</li>
-              <li>1744 – Sarah Churchill, Duchess of Marlborough (born 1660)</li>
-              <li>1667 – Fasilides, Ethiopian emperor (born 1603)</li>
+              <li>1619 – Fujiwara Seika, Japanese philosopher and educator (born 1561)</li>
+              <li>1851 – Marie Thérèse of France (born 1778)</li>
+              <li>1772 – Andrea Belli, Maltese architect and businessman (born 1703)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2022 – Harvey Wollman, American politician, 26th Governor of South Dakota (born 1935)</li>
-              <li>2012 – Brain Damage, American wrestler (born 1977)</li>
-              <li>1973 – Margaret Caroline Anderson, American publisher, founded The Little Review (born 1886)</li>
+              <li>2015   – Ali Treki, Libyan politician and diplomat, Libyan Minister of Foreign Affairs (born 1938)</li>
+              <li>1965 – Edward Willis Redfield, American painter and educator (born 1869)</li>
+              <li>1916 – Ioannis Frangoudis, Greek general and target shooter (born 1863)</li>
             </ul>
           </div>
         </div>
