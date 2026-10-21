@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1572 – Eighty Years' War: Three thousand Spanish soldiers wade through fifteen miles of water in one night to effect the relief of Goes.</li>
-              <li>1568 – The Spanish Duke of Alba defeats a Dutch rebel force under William the Silent.</li>
-              <li>1448 – The second battle of Kosovo ends when the larger army of the Ottoman Empire defeats those of the Kingdom of Hungary after the Wallachian troops desert.</li>
+              <li>1600 – Tokugawa Ieyasu defeats the leaders of rival Japanese clans in the Battle of Sekigahara and becomes shōgun of Japan.</li>
+              <li>1187 – Election of Gregory VIII following the death of Pope Urban III.</li>
+              <li>1512 – Martin Luther joins the theological faculty of the University of Wittenberg.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1774 – American Revolution: The Continental Association, a nonconsumption and nonimportation agreement against the British Isles and the British West Indies, is adopted by the First Continental Congress.</li>
-              <li>1803 – The United States Senate ratifies the Louisiana Purchase.</li>
-              <li>1818 – The Convention of 1818 is signed between the United States and the United Kingdom, which settles the Canada–United States border on the 49th parallel for most of its length.</li>
+              <li>1895 – The capitulation of Tainan completes the Japanese conquest of Taiwan.</li>
+              <li>1861 – American Civil War: Union forces under Colonel Edward Baker are defeated by Confederate troops in the second major battle of the war.</li>
+              <li>1824 – Portland cement is patented.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2018 – The BepiColombo spacecraft is launched on an Ariane 5 rocket to study Mercury.</li>
-              <li>1904 – Chile and Bolivia sign the Treaty of Peace and Friendship, delimiting the border between the two countries.</li>
-              <li>1944 – World War II:  American general Douglas MacArthur fulfills his promise to return to the Philippines when he comes ashore during the Battle of Leyte.</li>
+              <li>1944   – World War II: The Nemmersdorf massacre against German civilians takes place.</li>
+              <li>1966 – A colliery spoil tip slips onto houses and a school in the village of Aberfan in Wales, killing 144 people, 116 of whom were schoolchildren.</li>
+              <li>1981 – Andreas Papandreou becomes Prime Minister of Greece, ending an almost 50-year-long system of power dominated by conservative forces.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1496 – Claude, Duke of Guise (died 1550)</li>
-              <li>1554 – Bálint Balassi, Hungarian writer and noble (died 1594)</li>
-              <li>1475 – Giovanni di Bernardo Rucellai, Italian poet and playwright (died 1525)</li>
+              <li>1409 – Alessandro Sforza, Italian condottiero (died 1473)</li>
+              <li>1527 – Louis I, Cardinal of Guise (died 1578)</li>
+              <li>1449 – George Plantagenet, 1st Duke of Clarence, Irish-English son of Cecily Neville, Duchess of York (died 1478)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1784 – Henry John Temple, 3rd Viscount Palmerston, English academic and politician, Prime Minister of the United Kingdom (died 1865)</li>
-              <li>1808 – Karl Andree, German geographer and journalist (died 1875)</li>
-              <li>1832 – Constantin Lipsius, German architect and theorist (died 1894)</li>
+              <li>1896 – Esther Shumiatcher-Hirschbein, Russian-Canadian poet and screenwriter (died 1985)</li>
+              <li>1868 – Ernest Swinton, British Army officer (died 1951)</li>
+              <li>1675 – Emperor Higashiyama of Japan (died 1710)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1962 – Dave Wong, Hong Kong-Taiwanese singer-songwriter and actor</li>
-              <li>1944 – David Mancuso, American party planner, created The Loft (died 2016)</li>
-              <li>1948 – Piet Hein Donner, Dutch jurist and politician, Dutch Minister of Justice</li>
+              <li>1924   – Julie Wilson, American actress and singer (died 2015)</li>
+              <li>1931 – Shammi Kapoor, Indian actor and director (died 2011)</li>
+              <li>1972   – Evhen Tsybulenko, Ukrainian scholar and academic</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1327 – Teresa d'Entença, Countess of Urgell (born 1300)</li>
-              <li>1122 – Ralph d'Escures, archbishop of Canterbury</li>
-              <li>1524 – Thomas Linacre, English physician and scholar (born 1460)</li>
+              <li>1556 – Pietro Aretino, Italian author (born 1492)</li>
+              <li>1266 – Birger Jarl, Swedish politician (born 1210)</li>
+              <li>1500 – Emperor Go-Tsuchimikado of Japan (born 1442)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1900 – Naim Frashëri, Albanian poet and translator (born 1846)</li>
-              <li>1740 – Charles VI, Holy Roman Emperor (born 1685)</li>
-              <li>1880 – Lydia Maria Child, American journalist, author, and activist (born 1802)</li>
+              <li>1777 – Samuel Foote, English actor and playwright (born 1720)</li>
+              <li>1623 – William Wade, English politician and diplomat, Lieutenant of the Tower of London (born 1546)</li>
+              <li>1861 – Edward Dickinson Baker, American congressman and colonel (born 1811)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2014 – Christophe de Margerie, French businessman (born 1951)</li>
-              <li>2016 – Kaneta Kimotsuki, Japanese actor, voice actor, and theater director (born 1935)</li>
-              <li>2010 – Farooq Leghari, Pakistani politician, 8th President of Pakistan (born 1940)</li>
+              <li>1991 – Lorenc Antoni, Albanian composer, conductor, and musicologist (born 1909)</li>
+              <li>2012   – Alf Kumalo, South African photographer and journalist (born 1930)</li>
+              <li>1969 – Jack Kerouac, American novelist and poet (born 1922)</li>
             </ul>
           </div>
         </div>
