@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1600 – Tokugawa Ieyasu defeats the leaders of rival Japanese clans in the Battle of Sekigahara and becomes shōgun of Japan.</li>
-              <li>1187 – Election of Gregory VIII following the death of Pope Urban III.</li>
-              <li>1512 – Martin Luther joins the theological faculty of the University of Wittenberg.</li>
+              <li>1383 – The male line of the Portuguese House of Burgundy becomes extinct with the death of King Fernando, leaving only his daughter Beatrice. Rival claimants begin a period of civil war and disorder.</li>
+              <li>794 – Japanese Emperor Kanmu relocates his empire's capital to Heian-kyō (now Kyoto).</li>
+              <li>906 – Abbasid general Ahmad ibn Kayghalagh leads a raid against the Byzantine Empire, taking 4,000–5,000 captives.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1895 – The capitulation of Tainan completes the Japanese conquest of Taiwan.</li>
-              <li>1861 – American Civil War: Union forces under Colonel Edward Baker are defeated by Confederate troops in the second major battle of the war.</li>
-              <li>1824 – Portland cement is patented.</li>
+              <li>1879 – Using a filament of carbonized thread, Thomas Edison tests the first practical electric incandescent light bulb; the bulb lasted 131⁄2 hours before burning out.</li>
+              <li>1859 – Spain declares war on Morocco.</li>
+              <li>1797 – André-Jacques Garnerin makes the first recorded parachute jump, from 1,000 metres (3,300 ft) above Paris.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1944   – World War II: The Nemmersdorf massacre against German civilians takes place.</li>
-              <li>1966 – A colliery spoil tip slips onto houses and a school in the village of Aberfan in Wales, killing 144 people, 116 of whom were schoolchildren.</li>
-              <li>1981 – Andreas Papandreou becomes Prime Minister of Greece, ending an almost 50-year-long system of power dominated by conservative forces.</li>
+              <li>1941 – World War II: French resistance member Guy Môquet and 29 other hostages are executed by the Germans in retaliation for the death of a German officer.</li>
+              <li>2005 – Bellview Airlines Flight 210 crashes in Nigeria, killing all 117 people on board.</li>
+              <li>2005 – Tropical Storm Alpha forms in the Atlantic Basin, making the 2005 Atlantic hurricane season the most active Atlantic hurricane season until surpassed by the 2020 season.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1409 – Alessandro Sforza, Italian condottiero (died 1473)</li>
-              <li>1527 – Louis I, Cardinal of Guise (died 1578)</li>
-              <li>1449 – George Plantagenet, 1st Duke of Clarence, Irish-English son of Cecily Neville, Duchess of York (died 1478)</li>
+              <li>1511 – Erasmus Reinhold, German astronomer and mathematician (died 1553)</li>
+              <li>1071 – William IX, Duke of Aquitaine (died 1126)</li>
+              <li>1587 – Joachim Jungius, German mathematician and philosopher (died 1657)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1896 – Esther Shumiatcher-Hirschbein, Russian-Canadian poet and screenwriter (died 1985)</li>
-              <li>1868 – Ernest Swinton, British Army officer (died 1951)</li>
-              <li>1675 – Emperor Higashiyama of Japan (died 1710)</li>
+              <li>1875 – David van Embden, Dutch economist and politician (died 1962)</li>
+              <li>1844 – Louis Riel, Canadian Métis scholar and politician (died 1885)</li>
+              <li>1897 – Marjorie Flack, American author and illustrator (died 1958)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1924   – Julie Wilson, American actress and singer (died 2015)</li>
-              <li>1931 – Shammi Kapoor, Indian actor and director (died 2011)</li>
-              <li>1972   – Evhen Tsybulenko, Ukrainian scholar and academic</li>
+              <li>1953 – René Arce Islas, Mexican politician</li>
+              <li>1965 – A. L. Kennedy, Scottish comedian, journalist, and author</li>
+              <li>1967 – Ulrike Maier, Austrian skier (died 1994)</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1556 – Pietro Aretino, Italian author (born 1492)</li>
-              <li>1266 – Birger Jarl, Swedish politician (born 1210)</li>
-              <li>1500 – Emperor Go-Tsuchimikado of Japan (born 1442)</li>
+              <li>1383 – Ferdinand I of Portugal, Portuguese king (born 1345)</li>
+              <li>1493 – James Douglas, 1st Earl of Morton, Scottish earl (born 1426)</li>
+              <li>741 – Charles Martel, Frankish political and military leader (born 688)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1777 – Samuel Foote, English actor and playwright (born 1720)</li>
-              <li>1623 – William Wade, English politician and diplomat, Lieutenant of the Tower of London (born 1546)</li>
-              <li>1861 – Edward Dickinson Baker, American congressman and colonel (born 1811)</li>
+              <li>1708 – Hermann Witsius, Dutch theologian and academic (born 1636)</li>
+              <li>1626 – Kikkawa Hiroie, Japanese daimyō (born 1561)</li>
+              <li>1885 – Lewis Majendie, English politician (born 1835)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1991 – Lorenc Antoni, Albanian composer, conductor, and musicologist (born 1909)</li>
-              <li>2012   – Alf Kumalo, South African photographer and journalist (born 1930)</li>
-              <li>1969 – Jack Kerouac, American novelist and poet (born 1922)</li>
+              <li>2010 – Eio Sakata, Japanese Go player (born 1920)</li>
+              <li>1973 – Pablo Casals, Catalan cellist and conductor (born 1876)</li>
+              <li>2009 – Don Lane, American-Australian actor, singer, and talk show host (born 1933)</li>
             </ul>
           </div>
         </div>
