@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1383 – The male line of the Portuguese House of Burgundy becomes extinct with the death of King Fernando, leaving only his daughter Beatrice. Rival claimants begin a period of civil war and disorder.</li>
-              <li>794 – Japanese Emperor Kanmu relocates his empire's capital to Heian-kyō (now Kyoto).</li>
-              <li>906 – Abbasid general Ahmad ibn Kayghalagh leads a raid against the Byzantine Empire, taking 4,000–5,000 captives.</li>
+              <li>1086 – Spanish Reconquista: At the Battle of Sagrajas, the Almoravids defeat the Castilians, but are unable to take advantage of their victory.</li>
+              <li>425 – Valentinian III is elevated as Roman emperor at the age of six.</li>
+              <li>1157 – The Battle of Grathe Heath ends the Danish Civil War.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1879 – Using a filament of carbonized thread, Thomas Edison tests the first practical electric incandescent light bulb; the bulb lasted 131⁄2 hours before burning out.</li>
-              <li>1859 – Spain declares war on Morocco.</li>
-              <li>1797 – André-Jacques Garnerin makes the first recorded parachute jump, from 1,000 metres (3,300 ft) above Paris.</li>
+              <li>1642 – The Battle of Edgehill is the first major battle of the English Civil War.</li>
+              <li>1856 – Second Opium War: Dissatisfied with imperial commissioner Ye Mingchen's reparations for the alleged slighting of a British-owned vessel and at Consul Harry Parkes's urging, British Rear-Admiral Michael Seymour launches an assault on the Barrier Forts outside Canton in the first military engagement of the Second Opium War.</li>
+              <li>1812 – General Claude François de Malet begins a conspiracy to overthrow Napoleon, claiming that the Emperor died in the Russian campaign.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1941 – World War II: French resistance member Guy Môquet and 29 other hostages are executed by the Germans in retaliation for the death of a German officer.</li>
-              <li>2005 – Bellview Airlines Flight 210 crashes in Nigeria, killing all 117 people on board.</li>
-              <li>2005 – Tropical Storm Alpha forms in the Atlantic Basin, making the 2005 Atlantic hurricane season the most active Atlantic hurricane season until surpassed by the 2020 season.</li>
+              <li>2011 – A powerful 7.2 magnitude earthquake strikes Van Province, Turkey, killing 582 people and injuring thousands.</li>
+              <li>1942   – World War II: The Battle for Henderson Field begins on Guadalcanal.</li>
+              <li>1955 – The people of the Saar region vote in a referendum to unite with West Germany instead of France.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1511 – Erasmus Reinhold, German astronomer and mathematician (died 1553)</li>
-              <li>1071 – William IX, Duke of Aquitaine (died 1126)</li>
-              <li>1587 – Joachim Jungius, German mathematician and philosopher (died 1657)</li>
+              <li>1491 (estimated) – Ignatius of Loyola, Catholic priest (died 1556)</li>
+              <li>1516 – Charlotte of Valois, French princess (died 1524)</li>
+              <li>1006 – Wen Yanbo, Chinese grand chancellor (died 1097)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1875 – David van Embden, Dutch economist and politician (died 1962)</li>
-              <li>1844 – Louis Riel, Canadian Métis scholar and politician (died 1885)</li>
-              <li>1897 – Marjorie Flack, American author and illustrator (died 1958)</li>
+              <li>1876 – Franz Schlegelberger, German judge and politician, Reich Ministry of Justice (died 1970)</li>
+              <li>1880   – Una O'Connor, Irish-American actress and singer (died 1959)</li>
+              <li>1896   – Lilyan Tashman, American actress (died 1934)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1953 – René Arce Islas, Mexican politician</li>
-              <li>1965 – A. L. Kennedy, Scottish comedian, journalist, and author</li>
-              <li>1967 – Ulrike Maier, Austrian skier (died 1994)</li>
+              <li>1984   – Jeffrey Hoogervorst, Dutch footballer</li>
+              <li>1963 – Gordon Korman, Canadian-American author</li>
+              <li>1993 – Josh Ruffels, English footballer</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1383 – Ferdinand I of Portugal, Portuguese king (born 1345)</li>
-              <li>1493 – James Douglas, 1st Earl of Morton, Scottish earl (born 1426)</li>
-              <li>741 – Charles Martel, Frankish political and military leader (born 688)</li>
+              <li>42 BC – Marcus Junius Brutus the Younger, Roman general and politician (born 85 BC)</li>
+              <li>1157 – Sweyn III, Danish king (born c. 1125)</li>
+              <li>877 – Ignatios of Constantinople, Byzantine patriarch (born 797)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1708 – Hermann Witsius, Dutch theologian and academic (born 1636)</li>
-              <li>1626 – Kikkawa Hiroie, Japanese daimyō (born 1561)</li>
-              <li>1885 – Lewis Majendie, English politician (born 1835)</li>
+              <li>1893 – Alexander of Battenberg (born 1857)</li>
+              <li>1730 – Anne Oldfield, English actress (born 1683)</li>
+              <li>1774 – Michel Benoist, French missionary and astronomer (born 1715)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2010 – Eio Sakata, Japanese Go player (born 1920)</li>
-              <li>1973 – Pablo Casals, Catalan cellist and conductor (born 1876)</li>
-              <li>2009 – Don Lane, American-Australian actor, singer, and talk show host (born 1933)</li>
+              <li>2008 – Kevin Finnegan, English boxer (born 1948)</li>
+              <li>2012   – Wilhelm Brasse, Polish photographer (born 1917)</li>
+              <li>1944   – Hana Brady, Czech holocaust victim (born 1931)</li>
             </ul>
           </div>
         </div>
