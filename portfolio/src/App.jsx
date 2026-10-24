@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1086 – Spanish Reconquista: At the Battle of Sagrajas, the Almoravids defeat the Castilians, but are unable to take advantage of their victory.</li>
-              <li>425 – Valentinian III is elevated as Roman emperor at the age of six.</li>
-              <li>1157 – The Battle of Grathe Heath ends the Danish Civil War.</li>
+              <li>1590 – John White, the governor of the second Roanoke Colony, returns to England after an unsuccessful search for the "lost" colonists.</li>
+              <li>1260   – After defeating the Mongols at the Battle of Ain Jalut and assassinating the previous Mamluk sultan, Qutuz, Baybars ascends to the Egyptian throne as the fourth sultan of the Mamluk Sultanate.</li>
+              <li>1273 – Rudolf of Habsburg is crowned king of the Romans in Aachen.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1642 – The Battle of Edgehill is the first major battle of the English Civil War.</li>
-              <li>1856 – Second Opium War: Dissatisfied with imperial commissioner Ye Mingchen's reparations for the alleged slighting of a British-owned vessel and at Consul Harry Parkes's urging, British Rear-Admiral Michael Seymour launches an assault on the Barrier Forts outside Canton in the first military engagement of the Second Opium War.</li>
-              <li>1812 – General Claude François de Malet begins a conspiracy to overthrow Napoleon, claiming that the Emperor died in the Russian campaign.</li>
+              <li>1641 – Felim O'Neill of Kinard, the leader of the Irish Rebellion, issues his Proclamation of Dungannon, justifying the uprising and declaring continued loyalty to King Charles I of England.</li>
+              <li>1861 – The first transcontinental telegraph line across the United States is completed.</li>
+              <li>1900 – U.S. Government announces plans to buy Danish West Indies for $7 million.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2011 – A powerful 7.2 magnitude earthquake strikes Van Province, Turkey, killing 582 people and injuring thousands.</li>
-              <li>1942   – World War II: The Battle for Henderson Field begins on Guadalcanal.</li>
-              <li>1955 – The people of the Saar region vote in a referendum to unite with West Germany instead of France.</li>
+              <li>1917 – World War I: Italy suffers a disastrous defeat at the Battle of Caporetto on the Austro-Italian front.</li>
+              <li>1926 – Harry Houdini's last performance takes place at the Garrick Theatre in Detroit.</li>
+              <li>2018 – The world's longest sea crossing, the Hong Kong–Zhuhai–Macau Bridge, opens for public traffic.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1491 (estimated) – Ignatius of Loyola, Catholic priest (died 1556)</li>
-              <li>1516 – Charlotte of Valois, French princess (died 1524)</li>
-              <li>1006 – Wen Yanbo, Chinese grand chancellor (died 1097)</li>
+              <li>1378 – David Stewart, Duke of Rothesay heir to the throne of Scotland (died 1402)</li>
+              <li>AD 51 – Domitian, Roman emperor (died 96)</li>
+              <li>1503 – Isabella of Portugal (died 1539)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1876 – Franz Schlegelberger, German judge and politician, Reich Ministry of Justice (died 1970)</li>
-              <li>1880   – Una O'Connor, Irish-American actress and singer (died 1959)</li>
-              <li>1896   – Lilyan Tashman, American actress (died 1934)</li>
+              <li>1876 – Saya San, Burmese monk and activist (died 1931)</li>
+              <li>1763 – Dorothea von Schlegel, German author and translator (died 1839)</li>
+              <li>1854 – Hendrik Willem Bakhuis Roozeboom, Dutch chemist and academic (died 1907)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1984   – Jeffrey Hoogervorst, Dutch footballer</li>
-              <li>1963 – Gordon Korman, Canadian-American author</li>
-              <li>1993 – Josh Ruffels, English footballer</li>
+              <li>1959   – Michelle Lujan Grisham, American lawyer and politician</li>
+              <li>1988   – Christopher Linke, German race walker</li>
+              <li>1963 – Rosana Arbelo, Spanish singer-songwriter and guitarist</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>42 BC – Marcus Junius Brutus the Younger, Roman general and politician (born 85 BC)</li>
-              <li>1157 – Sweyn III, Danish king (born c. 1125)</li>
-              <li>877 – Ignatios of Constantinople, Byzantine patriarch (born 797)</li>
+              <li>1152 – Jocelin of Soissons, French theologian, philosopher and composer</li>
+              <li>1168 – Count William IV of Nevers, French nobleman</li>
+              <li>1572 – Edward Stanley, 3rd Earl of Derby, English admiral and politician, Lord Lieutenant of Lancashire (born 1508)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1893 – Alexander of Battenberg (born 1857)</li>
-              <li>1730 – Anne Oldfield, English actress (born 1683)</li>
-              <li>1774 – Michel Benoist, French missionary and astronomer (born 1715)</li>
+              <li>1633 – Jean Titelouze, French organist and composer (born 1562/3)</li>
+              <li>1655 – Pierre Gassendi, French priest, astronomer, and mathematician (born 1592)</li>
+              <li>1824 – Israel Bissell, American patriot post rider during American Revolutionary War (born 1752)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2008 – Kevin Finnegan, English boxer (born 1948)</li>
-              <li>2012   – Wilhelm Brasse, Polish photographer (born 1917)</li>
-              <li>1944   – Hana Brady, Czech holocaust victim (born 1931)</li>
+              <li>2001   – Jaromil Jireš, Czech director and screenwriter (born 1935)</li>
+              <li>2005   – Immanuel C. Y. Hsu, Chinese sinologist and scholar (born 1923)</li>
+              <li>1949 – Yaroslav Halan, Ukrainian playwright and publicist (born 1902)</li>
             </ul>
           </div>
         </div>
