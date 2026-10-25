@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1590 – John White, the governor of the second Roanoke Colony, returns to England after an unsuccessful search for the "lost" colonists.</li>
-              <li>1260   – After defeating the Mongols at the Battle of Ain Jalut and assassinating the previous Mamluk sultan, Qutuz, Baybars ascends to the Egyptian throne as the fourth sultan of the Mamluk Sultanate.</li>
-              <li>1273 – Rudolf of Habsburg is crowned king of the Romans in Aachen.</li>
+              <li>1147   – Reconquista: After a siege of four months, crusader knights conquer Lisbon.</li>
+              <li>285 or 286 – Execution of Saints Crispin and Crispinian during the reign of Diocletian, now the patron saints of leather workers, curriers, and shoemakers.</li>
+              <li>1415 – Hundred Years' War: Henry V of England, with his men-at-arms and archers, defeats the larger French army in the Battle of Agincourt.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1641 – Felim O'Neill of Kinard, the leader of the Irish Rebellion, issues his Proclamation of Dungannon, justifying the uprising and declaring continued loyalty to King Charles I of England.</li>
-              <li>1861 – The first transcontinental telegraph line across the United States is completed.</li>
-              <li>1900 – U.S. Government announces plans to buy Danish West Indies for $7 million.</li>
+              <li>1812 – War of 1812: The American frigate, USS United States, commanded by Stephen Decatur, captures the British frigate HMS Macedonian.</li>
+              <li>1760 – King George III succeeds to the British throne on the death of his grandfather George II.</li>
+              <li>1854 – The Battle of Balaclava takes place during the Crimean War. It is soon memorialized in verse as The Charge of the Light Brigade.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1917 – World War I: Italy suffers a disastrous defeat at the Battle of Caporetto on the Austro-Italian front.</li>
-              <li>1926 – Harry Houdini's last performance takes place at the Garrick Theatre in Detroit.</li>
-              <li>2018 – The world's longest sea crossing, the Hong Kong–Zhuhai–Macau Bridge, opens for public traffic.</li>
+              <li>1917 – Old Style date of the October Revolution in Russia.</li>
+              <li>1927 – The Italian luxury liner SS Principessa Mafalda sinks off the coast of Brazil, killing 314.</li>
+              <li>1944   – World War II: The final attempt of the Imperial Japanese Navy to win the war climaxes at the Battle of Leyte Gulf.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1378 – David Stewart, Duke of Rothesay heir to the throne of Scotland (died 1402)</li>
-              <li>AD 51 – Domitian, Roman emperor (died 96)</li>
-              <li>1503 – Isabella of Portugal (died 1539)</li>
+              <li>1330 – Louis II, Count of Flanders, (died 1384)</li>
+              <li>1589 – Jan Stanisław Sapieha, Polish-Lithuanian noble (died 1635)</li>
+              <li>1510 – Renée of France (died 1574)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1876 – Saya San, Burmese monk and activist (died 1931)</li>
-              <li>1763 – Dorothea von Schlegel, German author and translator (died 1839)</li>
-              <li>1854 – Hendrik Willem Bakhuis Roozeboom, Dutch chemist and academic (died 1907)</li>
+              <li>1858 – Take Ionescu, Romanian politician, diplomat, journalist and lawyer (died 1922)</li>
+              <li>1864   – Toktogul Satylganov, Kyrgyz Akyn, poet and singer (died 1933)</li>
+              <li>1795 – John P. Kennedy, American novelist and Whig politician (died 1870)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1959   – Michelle Lujan Grisham, American lawyer and politician</li>
-              <li>1988   – Christopher Linke, German race walker</li>
-              <li>1963 – Rosana Arbelo, Spanish singer-songwriter and guitarist</li>
+              <li>1994   – Ray Robson, American chess Grandmaster</li>
+              <li>1902   – Eddie Lang, American jazz guitarist (died 1933)</li>
+              <li>1967   – Taiyō Matsumoto, Japanese manga artist</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1152 – Jocelin of Soissons, French theologian, philosopher and composer</li>
-              <li>1168 – Count William IV of Nevers, French nobleman</li>
-              <li>1572 – Edward Stanley, 3rd Earl of Derby, English admiral and politician, Lord Lieutenant of Lancashire (born 1508)</li>
+              <li>1492 – Thaddeus McCarthy, Irish bishop (born 1455)</li>
+              <li>1415   – Philip II, Count of Nevers (born 1389)</li>
+              <li>1415   – Dafydd Gam, Welsh nobleman (born c. 1380)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1633 – Jean Titelouze, French organist and composer (born 1562/3)</li>
-              <li>1655 – Pierre Gassendi, French priest, astronomer, and mathematician (born 1592)</li>
-              <li>1824 – Israel Bissell, American patriot post rider during American Revolutionary War (born 1752)</li>
+              <li>1895 – Charles Hallé, German-English pianist and conductor (born 1819)</li>
+              <li>1833 – Abbas Mirza, Persian prince (born 1789)</li>
+              <li>1889 – Émile Augier, French playwright (born 1820)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2001   – Jaromil Jireš, Czech director and screenwriter (born 1935)</li>
-              <li>2005   – Immanuel C. Y. Hsu, Chinese sinologist and scholar (born 1923)</li>
-              <li>1949 – Yaroslav Halan, Ukrainian playwright and publicist (born 1902)</li>
+              <li>1986 – Forrest Tucker, American actor (born 1919)</li>
+              <li>1924 – Ziya Gökalp, Turkish sociologist, poet, and activist (born 1876)</li>
+              <li>1957 – Albert Anastasia, Italian-American mob boss (born 1902)</li>
             </ul>
           </div>
         </div>
