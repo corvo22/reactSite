@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1147   – Reconquista: After a siege of four months, crusader knights conquer Lisbon.</li>
-              <li>285 or 286 – Execution of Saints Crispin and Crispinian during the reign of Diocletian, now the patron saints of leather workers, curriers, and shoemakers.</li>
-              <li>1415 – Hundred Years' War: Henry V of England, with his men-at-arms and archers, defeats the larger French army in the Battle of Agincourt.</li>
+              <li>1520 – Charles V is crowned as Holy Roman Emperor.</li>
+              <li>1377 – Tvrtko I is crowned the first king of Bosnia.</li>
+              <li>1185 – The Uprising of Asen and Peter begins on the feast day of St. Demetrius of Thessaloniki and ends with the creation of the Second Bulgarian Empire.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1812 – War of 1812: The American frigate, USS United States, commanded by Stephen Decatur, captures the British frigate HMS Macedonian.</li>
-              <li>1760 – King George III succeeds to the British throne on the death of his grandfather George II.</li>
-              <li>1854 – The Battle of Balaclava takes place during the Crimean War. It is soon memorialized in verse as The Charge of the Light Brigade.</li>
+              <li>1892 – Ida B. Wells publishes Southern Horrors: Lynch Law in All Its Phases.</li>
+              <li>1813 – War of 1812: A combined force of British regulars, Canadian militia and Mohawks defeat the United States Army in the Battle of the Chateauguay.</li>
+              <li>1825 – The Erie Canal opens, allowing direct passage from the Hudson River to Lake Erie.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1917 – Old Style date of the October Revolution in Russia.</li>
-              <li>1927 – The Italian luxury liner SS Principessa Mafalda sinks off the coast of Brazil, killing 314.</li>
-              <li>1944   – World War II: The final attempt of the Imperial Japanese Navy to win the war climaxes at the Battle of Leyte Gulf.</li>
+              <li>1944 – World War II: The Battle of Leyte Gulf ends with an overwhelming American victory.</li>
+              <li>1942 – World War II: In the Battle of the Santa Cruz Islands during the Guadalcanal Campaign, one U.S. aircraft carrier is sunk and another carrier is heavily damaged, while two Japanese carriers and one cruiser are heavily damaged.</li>
+              <li>1917 – World War I: Brazil declares war on the Central Powers.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1330 – Louis II, Count of Flanders, (died 1384)</li>
-              <li>1589 – Jan Stanisław Sapieha, Polish-Lithuanian noble (died 1635)</li>
-              <li>1510 – Renée of France (died 1574)</li>
+              <li>1483 – Hans Buchner, German Renaissance composer (died 1538)</li>
+              <li>1564 – Hans Leo Hassler, German organist and composer (died 1612)</li>
+              <li>1491 – Zhengde Emperor of China (died 1521)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1858 – Take Ionescu, Romanian politician, diplomat, journalist and lawyer (died 1922)</li>
-              <li>1864   – Toktogul Satylganov, Kyrgyz Akyn, poet and singer (died 1933)</li>
-              <li>1795 – John P. Kennedy, American novelist and Whig politician (died 1870)</li>
+              <li>1874 – Martin Lowry, English chemist and academic (died 1936)</li>
+              <li>1860 – Frank Eaton, American marshal and author (died 1958)</li>
+              <li>1873 – A. K. Fazlul Huq, Bangladeshi-Pakistani lawyer and politician, 5th Pakistani Minister of Interior (died 1962)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1994   – Ray Robson, American chess Grandmaster</li>
-              <li>1902   – Eddie Lang, American jazz guitarist (died 1933)</li>
-              <li>1967   – Taiyō Matsumoto, Japanese manga artist</li>
+              <li>1903 – Mahn Ba Khaing, Burmese politician (died 1947)</li>
+              <li>1985 – Andrea Bargnani, Italian basketball player</li>
+              <li>1905 – George Bernard Flahiff, Canadian cardinal (died 1989)</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1492 – Thaddeus McCarthy, Irish bishop (born 1455)</li>
-              <li>1415   – Philip II, Count of Nevers (born 1389)</li>
-              <li>1415   – Dafydd Gam, Welsh nobleman (born c. 1380)</li>
+              <li>1440 – Gilles de Rais, French lord (born c. 1405)</li>
+              <li>1555 – Olympia Fulvia Morata, Italian-German scholar and educator (born 1526)</li>
+              <li>760 – Cuthbert, archbishop of Canterbury</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1895 – Charles Hallé, German-English pianist and conductor (born 1819)</li>
-              <li>1833 – Abbas Mirza, Persian prince (born 1789)</li>
-              <li>1889 – Émile Augier, French playwright (born 1820)</li>
+              <li>1890 – Carlo Collodi, Italian journalist and author (born 1826)</li>
+              <li>1896 – Paul-Armand Challemel-Lacour, French philosopher, academic, and politician, French Minister of Foreign Affairs (born 1827)</li>
+              <li>1864 – William T. Anderson, American captain (born 1838)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1986 – Forrest Tucker, American actor (born 1919)</li>
-              <li>1924 – Ziya Gökalp, Turkish sociologist, poet, and activist (born 1876)</li>
-              <li>1957 – Albert Anastasia, Italian-American mob boss (born 1902)</li>
+              <li>2004 – Bobby Ávila, Mexican baseball player and politician (born 1924)</li>
+              <li>2009   – Yoshirō Muraki, Japanese production designer and art director(born 1924)</li>
+              <li>2012   – Alan Kirschenbaum, American director, producer, and screenwriter (born 1961)</li>
             </ul>
           </div>
         </div>
