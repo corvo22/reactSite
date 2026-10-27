@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1520 – Charles V is crowned as Holy Roman Emperor.</li>
-              <li>1377 – Tvrtko I is crowned the first king of Bosnia.</li>
-              <li>1185 – The Uprising of Asen and Peter begins on the feast day of St. Demetrius of Thessaloniki and ends with the creation of the Second Bulgarian Empire.</li>
+              <li>312 – Constantine the Great is said to have received his famous Vision of the Cross.</li>
+              <li>1553 – Condemned as a heretic, Michael Servetus is burned at the stake just outside Geneva.</li>
+              <li>625 – Election of Pope Honorius I following the death of Pope Boniface V two days prior.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1892 – Ida B. Wells publishes Southern Horrors: Lynch Law in All Its Phases.</li>
-              <li>1813 – War of 1812: A combined force of British regulars, Canadian militia and Mohawks defeat the United States Army in the Battle of the Chateauguay.</li>
-              <li>1825 – The Erie Canal opens, allowing direct passage from the Hudson River to Lake Erie.</li>
+              <li>1864 – American Civil War: Union General Benjamin Butler launches an attack during the Siege of Petersburg with the Battle of Fair Oaks & Darbytown Road, but is repulsed by the next day.</li>
+              <li>1726 – J. S. Bach leads the first performance of Ich will den Kreuzstab gerne tragen, BWV 56, one of few works he called a cantata.</li>
+              <li>1674 – The French garrison in Grave surrenders the town to a Dutch army after a difficult siege.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1944 – World War II: The Battle of Leyte Gulf ends with an overwhelming American victory.</li>
-              <li>1942 – World War II: In the Battle of the Santa Cruz Islands during the Guadalcanal Campaign, one U.S. aircraft carrier is sunk and another carrier is heavily damaged, while two Japanese carriers and one cruiser are heavily damaged.</li>
-              <li>1917 – World War I: Brazil declares war on the Central Powers.</li>
+              <li>1979 – Saint Vincent and the Grenadines gains its independence from the United Kingdom.</li>
+              <li>1991 – Turkmenistan achieves independence from the Soviet Union.</li>
+              <li>1994 – Gliese 229B is the first Substellar Mass Object to be unquestionably identified.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1483 – Hans Buchner, German Renaissance composer (died 1538)</li>
-              <li>1564 – Hans Leo Hassler, German organist and composer (died 1612)</li>
-              <li>1491 – Zhengde Emperor of China (died 1521)</li>
+              <li>1156 – Raymond VI, Count of Toulouse (died 1222)</li>
+              <li>921 – Chai Rong, Chinese emperor (died 959)</li>
+              <li>1401 – Catherine of Valois, Queen consort of England (died 1437)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1874 – Martin Lowry, English chemist and academic (died 1936)</li>
-              <li>1860 – Frank Eaton, American marshal and author (died 1958)</li>
-              <li>1873 – A. K. Fazlul Huq, Bangladeshi-Pakistani lawyer and politician, 5th Pakistani Minister of Interior (died 1962)</li>
+              <li>1842 – Giovanni Giolitti, Italian politician, 13th Prime Minister of Italy (died 1928)</li>
+              <li>1868 – William Gillies, Australian politician, 21st Premier of Queensland (died 1928)</li>
+              <li>1811 – Stevens T. Mason, American lawyer and politician, 1st Governor of Michigan (died 1843)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1903 – Mahn Ba Khaing, Burmese politician (died 1947)</li>
-              <li>1985 – Andrea Bargnani, Italian basketball player</li>
-              <li>1905 – George Bernard Flahiff, Canadian cardinal (died 1989)</li>
+              <li>1913   – Luigi Piotti, Italian race car driver (died 1971)</li>
+              <li>1948 – Kevin Borich, New Zealand-Australian guitarist and songwriter</li>
+              <li>1991 – Shohei Takahashi, Japanese footballer</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1440 – Gilles de Rais, French lord (born c. 1405)</li>
-              <li>1555 – Olympia Fulvia Morata, Italian-German scholar and educator (born 1526)</li>
-              <li>760 – Cuthbert, archbishop of Canterbury</li>
+              <li>1439 – Albert II of Germany (born 1397)</li>
+              <li>1327 – Elizabeth de Burgh, queen of Robert the Bruce</li>
+              <li>1272 – Hugh IV, Duke of Burgundy (born 1213)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1890 – Carlo Collodi, Italian journalist and author (born 1826)</li>
-              <li>1896 – Paul-Armand Challemel-Lacour, French philosopher, academic, and politician, French Minister of Foreign Affairs (born 1827)</li>
-              <li>1864 – William T. Anderson, American captain (born 1838)</li>
+              <li>1789 – John Cook, American farmer and politician, 6th Governor of Delaware (born 1730)</li>
+              <li>1617 – Ralph Winwood, English lawyer and politician, English Secretary of State (born 1563)</li>
+              <li>1613 – Gabriel Báthory, Prince of Transylvania (born 1589)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2004 – Bobby Ávila, Mexican baseball player and politician (born 1924)</li>
-              <li>2009   – Yoshirō Muraki, Japanese production designer and art director(born 1924)</li>
-              <li>2012   – Alan Kirschenbaum, American director, producer, and screenwriter (born 1961)</li>
+              <li>2015   – Betsy Drake, French-American actress and singer (born 1923)</li>
+              <li>2014 – Daniel Boulanger, French actor and screenwriter (born 1922)</li>
+              <li>2012   – Göran Stangertz, Swedish actor and director (born 1944)</li>
             </ul>
           </div>
         </div>
