@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1531 – Abyssinian–Adal war: The Adal Sultanate seizes southern Ethiopia.</li>
-              <li>1562 – James Stewart, 1st Earl of Moray, defeats the forces of the rebelious George Gordon, 4th Earl of Huntly, in the battle of Corrichie.</li>
-              <li>1538 – The Universidad Santo Tomás de Aquino is founded in what is now the Dominican Republic.</li>
+              <li>437 – Valentinian III, Western Roman Emperor, marries Licinia Eudoxia, daughter of his cousin Theodosius II, Eastern Roman Emperor in Constantinople unifying the two branches of the House of Theodosius.</li>
+              <li>312 – Constantine the Great enters Rome after his victory at the Battle of the Milvian Bridge, stages a grand adventus in the city, and is met with popular jubilation. Maxentius' body is fished out of the Tiber and beheaded.</li>
+              <li>1281 – The Mamluk Sultanate defeats the Ilkhanate in the second battle of Homs.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1864 – American Civil War: In East Tennessee, Union forces under General Alvan C. Gillem rout Confederate troops under General John C. Vaughn during the Battle of Morristown.</li>
-              <li>1776 – American Revolutionary War: British troops under General William Howe attack General George Washington's Continental Army and capture Chatterton Hill in the Battle of White Plains during the New York and New Jersey campaign.</li>
-              <li>1835 – The United Tribes of New Zealand are established with the signature of the Declaration of Independence.</li>
+              <li>1888 – The Convention of Constantinople is signed, guaranteeing free maritime passage through the Suez Canal during war and peace.</li>
+              <li>1675 – Leibniz makes the first use of the long s (∫) as a symbol of the integral in calculus.</li>
+              <li>1792 – Mount Hood (Oregon) is named after Samuel Hood, 1st Viscount Hood by Lt. William E. Broughton who sighted the mountain near the mouth of the Willamette River.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2014 – A rocket carrying NASA's Cygnus CRS Orb-3 resupply mission to the International Space Station explodes seconds after taking off from the Mid-Atlantic Regional Spaceport in Wallops Island, Virginia.</li>
-              <li>2009   – NASA successfully launches the Ares I-X mission, the only rocket launch for its short-lived Constellation program.</li>
-              <li>1948 – Ecological disaster in Donora, Pennsylvania.</li>
+              <li>2012 – Hurricane Sandy hits the east coast of the United States, killing hundreds, while leaving nearly $70 billion in damages and causing major power outages.</li>
+              <li>1980 – Demonstration flight of a secretly modified C-130 for an Iran hostage crisis rescue attempt ends in a crash landing at Eglin Air Force Base's Duke Field, Florida, leading to the cancellation of Operation Credible Sport.</li>
+              <li>1998 – In South Africa, the Truth and Reconciliation Commission presents its report, which condemns both sides for committing atrocities.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1479 – John Gage, English courtier (died 1556)</li>
-              <li>1017 – Henry III, Holy Roman Emperor (died 1056)</li>
-              <li>1510 – Francis Borgia, 4th Duke of Gandía, Spanish priest and saint, 3rd Superior General of the Society of Jesus (died 1572)</li>
+              <li>1463 – Alessandro Achillini, Italian physician and philosopher (died 1512)</li>
+              <li>1504 – Shin Saimdang, South Korean painter and poet (died 1551)</li>
+              <li>1507 – Fernando Alvarez de Toledo, Spanish general (died 1582)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1888 – Christopher Vane, 10th Baron Barnard, English soldier and politician, Lord Lieutenant of Durham (died 1964)</li>
-              <li>1693 – Šimon Brixi, Czech composer (died 1735)</li>
-              <li>1875 – Gilbert Hovey Grosvenor, Turkish-Canadian journalist (died 1966)</li>
+              <li>1808 – Caterina Scarpellini, Italian astronomer and meteorologist (died 1873)</li>
+              <li>1877 – Narcisa de Leon, Filipino film producer (died 1966)</li>
+              <li>1815 – Dan Emmett, American composer (died 1904)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1942   – Kees Verkerk, Dutch speed skater</li>
-              <li>1964 – Andrew Bridgen, English soldier and politician</li>
-              <li>1944   – Anton Schlecker, German businessman, founded the Schlecker Company</li>
+              <li>1937 – Sonny Osborne, American bluegrass singer and banjo player (died 2021)</li>
+              <li>1978 – Travis Henry, American football player</li>
+              <li>1956 – Wilfredo Gómez, Puerto Rican-American boxer (died 2026)</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1266 – Saint Arsenije I Sremac</li>
-              <li>457 – Ibas of Edessa, Syrian bishop</li>
-              <li>1138 – King Bolesław III Wrymouth of Poland</li>
+              <li>1268 – Conradin, King of Sicily (born 1252)</li>
+              <li>1590 – Dirck Coornhert, Dutch philosopher, theologian, and politician (born 1522)</li>
+              <li>1321 – Stefan Milutin, King of Serbia (born 1253)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1900 – Max Müller, German philologist and orientalist (born 1823)</li>
-              <li>1676 – Jean Desmarets, French author, poet, and playwright (born 1595)</li>
-              <li>1792 – Paul Möhring, German physician, botanist, and zoologist (born 1710)</li>
+              <li>1804 – Sarah Crosby, English Methodist preacher (born 1729)</li>
+              <li>1618 – Walter Raleigh, English admiral, explorer, and politician, Lieutenant Governor of Jersey (born 1554)</li>
+              <li>1900 – Fatima Cates, British Muslim convert and activist (born 1865)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2024 – Renato Martino, Italian Roman Catholic cardinal (born 1932)</li>
-              <li>2013   – Tadeusz Mazowiecki, Polish journalist and politician, Prime Minister of Poland (born 1927)</li>
-              <li>1914 – Richard Heuberger, Austrian composer and critic (born 1850)</li>
+              <li>1975 – Edmund Hirst, British chemist (born 1898)</li>
+              <li>1961 – Astrid Holm, Danish actress (born 1893)</li>
+              <li>1905 – Étienne Desmarteau, Canadian weight thrower and shot putter (born 1873)</li>
             </ul>
           </div>
         </div>
