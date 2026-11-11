@@ -115,63 +115,63 @@ function App() {
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>437 – Valentinian III, Western Roman Emperor, marries Licinia Eudoxia, daughter of his cousin Theodosius II, Eastern Roman Emperor in Constantinople unifying the two branches of the House of Theodosius.</li>
-              <li>312 – Constantine the Great enters Rome after his victory at the Battle of the Milvian Bridge, stages a grand adventus in the city, and is met with popular jubilation. Maxentius' body is fished out of the Tiber and beheaded.</li>
-              <li>1281 – The Mamluk Sultanate defeats the Ilkhanate in the second battle of Homs.</li>
+              <li>1500 – Treaty of Granada: Louis XII of France and Ferdinand II of Aragon agree to divide the Kingdom of Naples between them.</li>
+              <li>308 – At Carnuntum, Emperor emeritus Diocletian confers with Galerius, Augustus of the East, and Maximianus, the recently returned former Augustus of the West, in an attempt to end the civil wars of the Tetrarchy.</li>
+              <li>1100 – Henry I of England marries Matilda of Scotland, the daughter of Malcolm III of Scotland and a direct descendant of the Saxon king Edmund Ironside; Matilda is crowned on the same day.</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1888 – The Convention of Constantinople is signed, guaranteeing free maritime passage through the Suez Canal during war and peace.</li>
-              <li>1675 – Leibniz makes the first use of the long s (∫) as a symbol of the integral in calculus.</li>
-              <li>1792 – Mount Hood (Oregon) is named after Samuel Hood, 1st Viscount Hood by Lt. William E. Broughton who sighted the mountain near the mouth of the Willamette River.</li>
+              <li>1805 – Napoleonic Wars: Battle of Dürenstein: Eight thousand French troops attempt to slow the retreat of a vastly superior Russian and Austrian force.</li>
+              <li>1673 – Second Battle of Khotyn in Ukraine: Polish–Lithuanian Commonwealth forces under the command of Jan Sobieski defeat the Ottoman army. In this battle, rockets made by Kazimierz Siemienowicz are successfully used.</li>
+              <li>1778 – Cherry Valley massacre: Loyalists and Seneca Indian forces attack a fort and village in eastern New York during the American Revolutionary War, killing more than forty civilians and soldiers.</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>2012 – Hurricane Sandy hits the east coast of the United States, killing hundreds, while leaving nearly $70 billion in damages and causing major power outages.</li>
-              <li>1980 – Demonstration flight of a secretly modified C-130 for an Iran hostage crisis rescue attempt ends in a crash landing at Eglin Air Force Base's Duke Field, Florida, leading to the cancellation of Operation Credible Sport.</li>
-              <li>1998 – In South Africa, the Truth and Reconciliation Commission presents its report, which condemns both sides for committing atrocities.</li>
+              <li>1968 – Vietnam War: Operation Commando Hunt initiated. The goal is to interdict men and supplies on the Ho Chi Minh trail, through Laos into South Vietnam.</li>
+              <li>2004 – New Zealand Tomb of the Unknown Warrior is dedicated at the National War Memorial, Wellington.</li>
+              <li>2000 – Kaprun disaster: One hundred fifty-five skiers and snowboarders die when a cable car catches fire in an alpine tunnel in Kaprun, Austria.</li>
             </ul>
             <hr></hr>
             <h2>Births:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1463 – Alessandro Achillini, Italian physician and philosopher (died 1512)</li>
-              <li>1504 – Shin Saimdang, South Korean painter and poet (died 1551)</li>
-              <li>1507 – Fernando Alvarez de Toledo, Spanish general (died 1582)</li>
+              <li>1569 – Martin Ruland the Younger, German physician and chemist (died 1611)</li>
+              <li>1512 – Marcin Kromer, Prince-Bishop of Warmia (died 1589)</li>
+              <li>1491 – Martin Bucer, German Protestant reformer (died 1551)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1808 – Caterina Scarpellini, Italian astronomer and meteorologist (died 1873)</li>
-              <li>1877 – Narcisa de Leon, Filipino film producer (died 1966)</li>
-              <li>1815 – Dan Emmett, American composer (died 1904)</li>
+              <li>1875 – Anscar Vonier, German Benedictine abbot in England (died 1938)</li>
+              <li>1864 – Alfred Hermann Fried, Austrian journalist and activist, Nobel Prize laureate (died 1921)</li>
+              <li>1836 – Thomas Bailey Aldrich, American poet and author (died 1907)</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1937 – Sonny Osborne, American bluegrass singer and banjo player (died 2021)</li>
-              <li>1978 – Travis Henry, American football player</li>
-              <li>1956 – Wilfredo Gómez, Puerto Rican-American boxer (died 2026)</li>
+              <li>1969 – Carson Kressley, American fashion designer, television personality, and actor</li>
+              <li>1974   – Wajahatullah Wasti, Pakistani cricketer</li>
+              <li>1986   – François Trinh-Duc, French rugby player</li>
             </ul>
             <hr></hr>
             <h2>Deaths:</h2>
             <hr></hr>
             <h3>Pre-1600</h3>
             <ul>
-              <li>1268 – Conradin, King of Sicily (born 1252)</li>
-              <li>1590 – Dirck Coornhert, Dutch philosopher, theologian, and politician (born 1522)</li>
-              <li>1321 – Stefan Milutin, King of Serbia (born 1253)</li>
+              <li>875 – Teutberga, queen of Lotharingia</li>
+              <li>1189 – King William II of Sicily ("the Good") (born 1153)</li>
+              <li>1028 – Constantine VIII, Byzantine emperor (born 960)</li>
             </ul>
             <h3>Early Modern</h3>
             <ul>
-              <li>1804 – Sarah Crosby, English Methodist preacher (born 1729)</li>
-              <li>1618 – Walter Raleigh, English admiral, explorer, and politician, Lieutenant Governor of Jersey (born 1554)</li>
-              <li>1900 – Fatima Cates, British Muslim convert and activist (born 1865)</li>
+              <li>1855 – Søren Kierkegaard, Danish philosopher, author, and poet (born 1813)</li>
+              <li>1861 – Pedro V of Portugal (born 1837)</li>
+              <li>1887 – Haymarket affair defendants:</li>
             </ul>
             <h3>Modern</h3>
             <ul>
-              <li>1975 – Edmund Hirst, British chemist (born 1898)</li>
-              <li>1961 – Astrid Holm, Danish actress (born 1893)</li>
-              <li>1905 – Étienne Desmarteau, Canadian weight thrower and shot putter (born 1873)</li>
+              <li>1988   – William Ifor Jones, Welsh conductor and organist (born 1900)</li>
+              <li>2008   – Mustafa Şekip Birgöl, Turkish colonel (born 1903)</li>
+              <li>2021 – F. W. de Klerk, South African lawyer and politician, former State President of South Africa, Nobel Prize laureate (born 1936)</li>
             </ul>
           </div>
         </div>
